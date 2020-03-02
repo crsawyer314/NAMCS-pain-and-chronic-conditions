@@ -8,7 +8,7 @@ Once downloaded, the data files will have to be processed using the files found 
 
 The files in the processing folder should be run in the following order:
 1. 2016_translation
-  Note that this will translate the ICD-10 codes in the 2016 data file to ICD-9 codes, to match all other years. Any years from 2016 onwards should have the same script run on them.
+  - Note that this will translate the ICD-10 codes in the 2016 data file to ICD-9 codes, to match all other years. Any years from 2016 onwards should have the same script run on them.
 2. process
 3. chronic database create
 
