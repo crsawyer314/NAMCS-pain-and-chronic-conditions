@@ -1,0 +1,681 @@
+code,condition
+30781,Tension headache
+33900,"Cluster headache syndrome, unspecified"
+33901,Episodic cluster headache
+33902,Chronic cluster headache
+33903,Episodic paroxysmal hemicrania
+33904,Chronic paroxysmal hemicrania
+33905,Short lasting unilateral neuralgiform headache with conjunctival injection and tearing
+33909,Other trigeminal autonomic cephalgias
+33910,"Tension type headache, unspecified"
+33911,Episodic tension type headache
+33912,Chronic tension type headache
+33920,"Post-traumatic headache, unspecified"
+33921,Acute post-traumatic headache
+33922,Chronic post-traumatic headache
+3393,"Drug induced headache, not elsewhere classified"
+33941,Hemicrania continua
+33942,New daily persistent headache
+33943,Primary thunderclap headache
+33944,Other complicated headache syndrome
+33981,Hypnic headache
+33982,Headache associated with sexual activity
+33983,Primary cough headache
+33984,Primary exertional headache
+33985,Primary stabbing headache
+33989,Other headache syndromes
+7840,Headache
+34600,"Migraine with aura, without mention of intractable migraine without mention of status migrainosus"
+34601,"Migraine with aura, with intractable migraine, so stated, without mention of status migrainosus"
+34602,"Migraine with aura, without mention of intractable migraine with status migrainosus"
+34603,"Migraine with aura, with intractable migraine, so stated, with status migrainosus"
+34610,"Migraine without aura, without mention of intractable migraine without mention of status migrainosus"
+34611,"Migraine without aura, with intractable migraine, so stated, without mention of status migrainosus"
+34612,"Migraine without aura, without mention of intractable migraine with status migrainosus"
+34613,"Migraine without aura, with intractable migraine, so stated, with status migrainosus"
+34620,"Variants of migraine, not elsewhere classified, without mention of intractable migraine without mention of status migrainosus"
+34621,"Variants of migraine, not elsewhere classified, with intractable migraine, so stated, without mention of status migrainosus"
+34622,"Variants of migraine, not elsewhere classified, without mention of intractable migraine with status migrainosus"
+34623,"Variants of migraine, not elsewhere classified, with intractable migraine, so stated, with status migrainosus"
+34630,"Hemiplegic migraine, without mention of intractable migraine without mention of status migrainosus"
+34631,"Hemiplegic migraine, with intractable migraine, so stated, without mention of status migrainosus"
+34632,"Hemiplegic migraine, without mention of intractable migraine with status migrainosus"
+34633,"Hemiplegic migraine, with intractable migraine, so stated, with status migrainosus"
+34640,"Menstrual migraine, without mention of intractable migraine without mention of status migrainosus"
+34641,"Menstrual migraine, with intractable migraine, so stated, without mention of status migrainosus"
+34642,"Menstrual migraine, without mention of intractable migraine with status migrainosus"
+34643,"Menstrual migraine, with intractable migraine, so stated, with status migrainosus"
+34650,"Persistent migraine aura without cerebral infarction, without mention of intractable migraine without mention of status migrainosus"
+34651,"Persistent migraine aura without cerebral infarction, with intractable migraine, so stated, without mention of status migrainosus"
+34652,"Persistent migraine aura without cerebral infarction, without mention of intractable migraine with status migrainosus"
+34653,"Persistent migraine aura without cerebral infarction, with intractable migraine, so stated, with status migrainosus"
+34660,"Persistent migraine aura with cerebral infarction, without mention of intractable migraine without mention of status migrainosus"
+34661,"Persistent migraine aura with cerebral infarction, with intractable migraine, so stated, without mention of status migrainosus"
+34662,"Persistent migraine aura with cerebral infarction, without mention of intractable migraine with status migrainosus"
+34663,"Persistent migraine aura with cerebral infarction, with intractable migraine, so stated, with status migrainosus"
+34670,"Chronic migraine without aura, without mention of intractable migraine without mention of status migrainosus"
+34671,"Chronic migraine without aura, with intractable migraine, so stated, without mention of status migrainosus"
+34672,"Chronic migraine without aura, without mention of intractable migraine with status migrainosus"
+34673,"Chronic migraine without aura, with intractable migraine, so stated, with status migrainosus"
+34680,"Other forms of migraine, without mention of intractable migraine without mention of status migrainosus"
+34681,"Other forms of migraine, with intractable migraine, so stated, without mention of status migrainosus"
+34682,"Other forms of migraine, without mention of intractable migraine with status migrainosus"
+34683,"Other forms of migraine, with intractable migraine, so stated, with status migrainosus"
+34690,"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus"
+34691,"Migraine, unspecified, with intractable migraine, so stated, without mention of status migrainosus"
+34692,"Migraine, unspecified, without mention of intractable migraine with status migrainosus"
+34693,"Migraine, unspecified, with intractable migraine, so stated, with status migrainosus"
+71930,"Palindromic rheumatism, site unspecified"
+71931,"Palindromic rheumatism, shoulder region"
+71932,"Palindromic rheumatism, upper arm"
+71933,"Palindromic rheumatism, forearm"
+71934,"Palindromic rheumatism, hand"
+71935,"Palindromic rheumatism, pelvic region and thigh"
+71936,"Palindromic rheumatism, lower leg"
+71937,"Palindromic rheumatism, ankle and foot"
+71938,"Palindromic rheumatism, other specified sites"
+71939,"Palindromic rheumatism, multiple sites"
+71940,"Pain in joint, site unspecified"
+71941,"Pain in joint, shoulder region"
+71942,"Pain in joint, upper arm"
+71943,"Pain in joint, forearm"
+71944,"Pain in joint, hand"
+71945,"Pain in joint, pelvic region and thigh"
+71946,"Pain in joint, lower leg"
+71947,"Pain in joint, ankle and foot"
+71948,"Pain in joint, other specified sites"
+71949,"Pain in joint, multiple sites"
+7290,"Rheumatism, unspecified and fibrositis"
+7200,Ankylosing spondylitis
+7201,Spinal enthesopathy
+7202,"Sacroiliitis, not elsewhere classified"
+72081,Inflammatory spondylopathies in diseases classified elsewhere
+72089,Other inflammatory spondylopathies
+7209,Unspecified inflammatory spondylopathy
+7213,Lumbosacral spondylosis without myelopathy
+72141,"Spondylosis with myelopathy, thoracic region"
+72142,"Spondylosis with myelopathy, lumbar region"
+7215,Kissing spine
+7216,Ankylosing vertebral hyperostosis
+7217,Traumatic spondylopathy
+7212,Thoracic spondylosis without myelopathy
+72190,"Spondylosis of unspecified site, without mention of myelopathy"
+72191,"Spondylosis of unspecified site, with myelopathy"
+72251,Degeneration of thoracic or thoracolumbar intervertebral disc
+72252,Degeneration of lumbar or lumbosacral intervertebral disc
+7226,"Degeneration of intervertebral disc, site unspecified"
+72270,"Intervertebral disc disorder with myelopathy, unspecified region"
+72271,"Intervertebral disc disorder with myelopathy, cervical region"
+72272,"Intervertebral disc disorder with myelopathy, thoracic region"
+72273,"Intervertebral disc disorder with myelopathy, lumbar region"
+72280,"Postlaminectomy syndrome, unspecified region"
+72282,"Postlaminectomy syndrome, thoracic region"
+72283,"Postlaminectomy syndrome, lumbar region"
+72290,"Other and unspecified disc disorder, unspecified region"
+72291,"Other and unspecified disc disorder, cervical region"
+72292,"Other and unspecified disc disorder, thoracic region"
+72293,"Other and unspecified disc disorder, lumbar region"
+72400,"Spinal stenosis, unspecified region"
+72401,"Spinal stenosis, thoracic region"
+72402,"Spinal stenosis, lumbar region, without neurogenic claudication"
+72403,"Spinal stenosis, lumbar region, with neurogenic claudication"
+72409,"Spinal stenosis, other region"
+7241,Pain in thoracic spine
+7242,Lumbago
+7243,Sciatica
+7244,"Thoracic or lumbosacral neuritis or radiculitis, unspecified"
+7245,"Backache, unspecified"
+95210,T1-T6 level with unspecified spinal cord injury
+95211,T1-T6 level with complete lesion of spinal cord
+95212,T1-T6 level with anterior cord syndrome
+95213,T1-T6 level with central cord syndrome
+95214,T1-T6 level with other specified spinal cord injury
+95215,T7-T12 level with unspecified spinal cord injury
+95216,T7-T12 level with complete lesion of spinal cord
+95217,T7-T12 level with anterior cord syndrome
+95218,T7-T12 level with central cord syndrome
+95219,T7-T12 level with other specified spinal cord injury
+9522,Lumbar spinal cord injury without evidence of spinal bone injury
+9523,Sacral spinal cord injury without evidence of spinal bone injury
+9524,Cauda equina spinal cord injury without evidence of spinal bone injury
+9528,Multiple sites of spinal cord injury without evidence of spinal bone injury
+9529,Unspecified site of spinal cord injury without evidence of spinal bone injury
+9532,Injury to lumbar nerve root
+9533,Injury to sacral nerve root
+9534,Injury to brachial plexus
+9535,Injury to lumbosacral plexus
+9538,Injury to multiple sites of nerve roots and spinal plexus
+9539,Injury to unspecified site of nerve roots and spinal plexus
+9560,Injury to sciatic nerve
+9561,Injury to femoral nerve
+7210,Cervical spondylosis without myelopathy
+7211,Cervical spondylosis with myelopathy
+7224,Degeneration of cervical intervertebral disc
+72281,"Postlaminectomy syndrome, cervical region"
+7230,Spinal stenosis in cervical region
+7231,Cervicalgia
+7232,Cervicocranial syndrome
+7233,Cervicobrachial syndrome (diffuse)
+7234,Brachial neuritis or radiculitis NOS
+7235,"Torticollis, unspecified"
+7236,Panniculitis specified as affecting neck
+7237,Ossification of posterior longitudinal ligament in cervical region
+7238,Other syndromes affecting cervical region
+7239,Unspecified musculoskeletal disorders and symptoms referable to neck
+95200,C1-C4 level with unspecified spinal cord injury
+95201,C1-C4 level with complete lesion of spinal cord
+95202,C1-C4 level with anterior cord syndrome
+95203,C1-C4 level with central cord syndrome
+95204,C1-C4 level with other specified spinal cord injury
+95205,C5-C7 level with unspecified spinal cord injury
+95206,C5-C7 level with complete lesion of spinal cord
+95207,C5-C7 level with anterior cord syndrome
+95208,C5-C7 level with central cord syndrome
+95209,C5-C7 level with other specified spinal cord injury
+9530,Injury to cervical nerve root
+9531,Injury to dorsal nerve root
+9540,"Injury to cervical sympathetic nerve, excluding shoulder and pelvic girdles"
+9541,"Injury to other sympathetic nerve, excluding shoulder and pelvic girdles"
+725,Polymyalgia rheumatica
+3371,Peripheral autonomic neuropathy in disorders classified elsewhere
+3373,Autonomic dysreflexia
+3379,Unspecified disorder of autonomic nervous system
+3380,Central pain syndrome
+3383,Neoplasm related pain (acute) (chronic)
+3384,Chronic pain syndrome
+3501,Trigeminal neuralgia
+3502,Atypical face pain
+3508,Other specified trigeminal nerve disorders
+3509,"Trigeminal nerve disorder, unspecified"
+3532,"Cervical root lesions, not elsewhere classified"
+3533,"Thoracic root lesions, not elsewhere classified"
+3534,"Lumbosacral root lesions, not elsewhere classified"
+3535,Neuralgic amyotrophy
+3536,Phantom limb (syndrome)
+3538,Other nerve root and plexus disorders
+3539,Unspecified nerve root and plexus disorder
+3540,Carpal tunnel syndrome
+3541,Other lesion of median nerve
+3542,Lesion of ulnar nerve
+3543,Lesion of radial nerve
+3544,Causalgia of upper limb
+3545,Mononeuritis multiplex
+3548,Other mononeuritis of upper limb
+3549,"Mononeuritis of upper limb, unspecified"
+3550,Lesion of sciatic nerve
+3551,Meralgia paresthetica
+3552,Other lesion of femoral nerve
+3553,Lesion of lateral popliteal nerve
+3554,Lesion of medial popliteal nerve
+3555,Tarsal tunnel syndrome
+3556,Lesion of plantar nerve
+3558,"Mononeuritis of lower limb, unspecified"
+3559,Mononeuritis of unspecified site
+3560,Hereditary peripheral neuropathy
+3560,Hereditary peripheral neuropathy
+3561,Peroneal muscular atrophy
+3562,Hereditary sensory neuropathy
+3562,Hereditary sensory neuropathy
+3563,Refsum's disease
+3564,Idiopathic progressive polyneuropathy
+3568,Other specified idiopathic peripheral neuropathy
+3569,Unspecified hereditary and idiopathic peripheral neuropathy
+3570,Acute infective polyneuritis
+3571,Polyneuropathy in collagen vascular disease
+3572,Polyneuropathy in diabetes
+3573,Polyneuropathy in malignant disease
+3574,Polyneuropathy in other diseases classified elsewhere
+3575,Alcoholic polyneuropathy
+3575,Alcoholic polyneuropathy
+3576,Polyneuropathy due to drugs
+3576,Polyneuropathy due to drugs
+3577,Polyneuropathy due to other toxic agents
+3577,Polyneuropathy due to other toxic agents
+3579,Unspecified inflammatory and toxic neuropathy
+3579,Unspecified inflammatory and toxic neuropathy
+05313,Postherpetic polyneuropathy
+7260,Adhesive capsulitis of shoulder
+7262,"Other affections of shoulder region, not elsewhere classified"
+7264,Enthesopathy of wrist and carpus
+7265,Enthesopathy of hip region
+7268,Other peripheral enthesopathies
+7271,Bunion
+07272,Mumps polyneuropathy
+7272,Specific bursitides often of occupational origin
+7273,Other bursitis
+7279,"Unspecified disorder of synovium, tendon, and bursa"
+7291,"Myalgia and myositis, unspecified"
+7292,"Neuralgia, neuritis, and radiculitis, unspecified"
+7294,"Fasciitis, unspecified"
+28242,Sickle-cell thalassemia with crisis
+28262,Hb-SS disease with crisis
+28264,Sickle-cell/Hb-C disease with crisis
+28269,Other sickle-cell disease with crisis
+33700,"Idiopathic peripheral autonomic neuropathy, unspecified"
+33709,Other idiopathic peripheral autonomic neuropathy
+33720,"Reflex sympathetic dystrophy, unspecified"
+33721,Reflex sympathetic dystrophy of the upper limb
+33722,Reflex sympathetic dystrophy of the lower limb
+33729,Reflex sympathetic dystrophy of other specified site
+33821,Chronic pain due to trauma
+33822,Chronic post-thoracotomy pain
+33828,Other chronic postoperative pain
+33829,Other chronic pain
+35571,Causalgia of lower limb
+35579,Other mononeuritis of lower limb
+35781,Chronic inflammatory demyelinating polyneuritis
+35781,Chronic inflammatory demyelinating polyneuritis
+35782,Critical illness polyneuropathy
+35782,Critical illness polyneuropathy
+35789,Other inflammatory and toxic neuropathy
+35789,Other inflammatory and toxic neuropathy
+37991,Pain in or around eye
+38870,"Otalgia, unspecified"
+38871,Otogenic pain
+38872,Referred otogenic pain
+44022,Atherosclerosis of native arteries of the extremities with rest pain
+56942,Anal or rectal pain
+72610,"Disorders of bursae and tendons in shoulder region, unspecified"
+72611,Calcifying tendinitis of shoulder
+72612,Bicipital tenosynovitis
+72613,Partial tear of rotator cuff
+72619,Other specified disorders of bursae and tendons in shoulder region
+72630,"Enthesopathy of elbow, unspecified"
+72631,Medial epicondylitis
+72632,Lateral epicondylitis
+72633,Olecranon bursitis
+72639,Other enthesopathy of elbow region
+72660,"Enthesopathy of knee, unspecified"
+72661,Pes anserinus tendinitis or bursitis
+72662,Tibial collateral ligament bursitis
+72663,Fibular collateral ligament bursitis
+72664,Patellar tendinitis
+72665,Prepatellar bursitis
+72669,Other enthesopathy of knee
+72670,"Enthesopathy of ankle and tarsus, unspecified"
+72671,Achilles bursitis or tendinitis
+72672,Tibialis tendinitis
+72673,Calcaneal spur
+72679,Other enthesopathy of ankle and tarsus
+72690,Enthesopathy of unspecified site
+72700,"Synovitis and tenosynovitis, unspecified"
+72701,Synovitis and tenosynovitis in diseases classified elsewhere
+72703,Trigger finger (acquired)
+72704,Radial styloid tenosynovitis
+72705,Other tenosynovitis of hand and wrist
+72706,Tenosynovitis of foot and ankle
+72709,Other synovitis and tenosynovitis
+72759,Other rupture of synovium
+72761,Complete rupture of rotator cuff
+72789,"Other disorders of synovium, tendon, and bursa"
+72881,Interstitial myositis
+72930,"Panniculitis, unspecified site"
+72939,"Panniculitis, other site"
+78096,Generalized pain
+7841,Throat pain
+78492,Jaw pain
+7873,"Flatulence, eructation, and gas pain"
+7880,Renal colic
+78900,"Abdominal pain, unspecified site"
+78901,"Abdominal pain, right upper quadrant"
+78902,"Abdominal pain, left upper quadrant"
+78903,"Abdominal pain, right lower quadrant"
+78904,"Abdominal pain, left lower quadrant"
+78905,"Abdominal pain, periumbilic"
+78906,"Abdominal pain, epigastric"
+78907,"Abdominal pain, generalized"
+78909,"Abdominal pain, other specified site"
+78960,"Abdominal tenderness, unspecified site"
+78961,"Abdominal tenderness, right upper quadrant"
+78962,"Abdominal tenderness, left upper quadrant"
+78963,"Abdominal tenderness, right lower quadrant"
+78964,"Abdominal tenderness, left lower quadrant"
+78965,"Abdominal tenderness, periumbilic"
+78966,"Abdominal tenderness, epigastric"
+78967,"Abdominal tenderness, generalized"
+78969,"Abdominal tenderness, other specified site"
+7897,Colic
+9551,Injury to median nerve
+9552,Injury to ulnar nerve
+9553,Injury to radial nerve
+9554,Injury to musculocutaneous nerve
+9555,"Injury to cutaneous sensory nerve, upper limb"
+9556,"Injury to digital nerve, upper limb"
+9557,Injury to other specified nerve(s) of shoulder girdle and upper limb
+9558,Injury to multiple nerves of shoulder girdle and upper limb
+9559,Injury to unspecified nerve of shoulder girdle and upper limb
+9562,Injury to posterior tibial nerve
+9563,Injury to peroneal nerve
+9564,"Injury to cutaneous sensory nerve, lower limb"
+9565,Injury to other specified nerve(s) of pelvic girdle and lower limb
+9568,Injury to multiple nerves of pelvic girdle and lower limb
+9569,Injury to unspecified nerve of pelvic girdle and lower limb
+9570,Injury to superficial nerves of head and neck
+9571,Injury to other specified nerve(s)
+9578,Injury to multiple nerves in several parts
+9579,"Injury to nerves, unspecified site"
+71930,"Palindromic rheumatism, site unspecified"
+71931,"Palindromic rheumatism, shoulder region"
+71932,"Palindromic rheumatism, upper arm"
+71933,"Palindromic rheumatism, forearm"
+71934,"Palindromic rheumatism, hand"
+71935,"Palindromic rheumatism, pelvic region and thigh"
+71936,"Palindromic rheumatism, lower leg"
+71937,"Palindromic rheumatism, ankle and foot"
+71938,"Palindromic rheumatism, other specified sites"
+71939,"Palindromic rheumatism, multiple sites"
+7290,"Rheumatism, unspecified and fibrositis"
+7142,Other rheumatoid arthritis with visceral or systemic involvement
+71430,"Polyarticular juvenile rheumatoid arthritis, chronic or unspecified"
+71431,"Polyarticular juvenile rheumatoid arthritis, acute"
+71432,Pauciarticular juvenile rheumatoid arthritis
+71433,Monoarticular juvenile rheumatoid arthritis
+7140,Rheumatoid arthritis
+71481,Rheumatoid lung
+00323,Salmonella arthritis
+05671,Arthritis due to rubella
+09850,Gonococcal arthritis
+71100,"Pyogenic arthritis, site unspecified"
+71101,"Pyogenic arthritis, shoulder region"
+71102,"Pyogenic arthritis, upper arm"
+71103,"Pyogenic arthritis, forearm"
+71104,"Pyogenic arthritis, hand"
+71105,"Pyogenic arthritis, pelvic region and thigh"
+71106,"Pyogenic arthritis, lower leg"
+71107,"Pyogenic arthritis, ankle and foot"
+71108,"Pyogenic arthritis, other specified sites"
+71109,"Pyogenic arthritis, multiple sites"
+71110,"Arthropathy associated with Reiter's disease and nonspecific urethritis, site unspecified"
+71111,"Arthropathy associated with Reiter's disease and nonspecific urethritis, shoulder region"
+71112,"Arthropathy associated with Reiter's disease and nonspecific urethritis, upper arm"
+71113,"Arthropathy associated with Reiter's disease and nonspecific urethritis, forearm"
+71114,"Arthropathy associated with Reiter's disease and nonspecific urethritis, hand"
+71115,"Arthropathy associated with Reiter's disease and nonspecific urethritis, pelvic region and thigh"
+71116,"Arthropathy associated with Reiter's disease and nonspecific urethritis, lower leg"
+71117,"Arthropathy associated with Reiter's disease and nonspecific urethritis, ankle and foot"
+71118,"Arthropathy associated with Reiter's disease and nonspecific urethritis, other specified sites"
+71119,"Arthropathy associated with Reiter's disease and nonspecific urethritis, multiple sites"
+71120,"Arthropathy in Behcet's syndrome, site unspecified"
+71121,"Arthropathy in Behcet's syndrome, shoulder region"
+71122,"Arthropathy in Behcet's syndrome, upper arm"
+71123,"Arthropathy in Behcet's syndrome, forearm"
+71124,"Arthropathy in Behcet's syndrome, hand"
+71125,"Arthropathy in Behcet's syndrome, pelvic region and thigh"
+71126,"Arthropathy in Behcet's syndrome, lower leg"
+71127,"Arthropathy in Behcet's syndrome, ankle and foot"
+71128,"Arthropathy in Behcet's syndrome, other specified sites"
+71129,"Arthropathy in Behcet's syndrome, multiple sites"
+71140,"Arthropathy associated with other bacterial diseases, site unspecified"
+71141,"Arthropathy associated with other bacterial diseases, shoulder region"
+71142,"Arthropathy associated with other bacterial diseases, upper arm"
+71143,"Arthropathy associated with other bacterial diseases, forearm"
+71144,"Arthropathy associated with other bacterial diseases, hand"
+71145,"Arthropathy associated with other bacterial diseases, pelvic region and thigh"
+71146,"Arthropathy associated with other bacterial diseases, lower leg"
+71147,"Arthropathy associated with other bacterial diseases, ankle and foot"
+71148,"Arthropathy associated with other bacterial diseases, other specified sites"
+71149,"Arthropathy associated with other bacterial diseases, multiple sites"
+71150,"Arthropathy associated with other viral diseases, site unspecified"
+71151,"Arthropathy associated with other viral diseases, shoulder region"
+71152,"Arthropathy associated with other viral diseases, upper arm"
+71153,"Arthropathy associated with other viral diseases, forearm"
+71154,"Arthropathy associated with other viral diseases, hand"
+71155,"Arthropathy associated with other viral diseases, pelvic region and thigh"
+71156,"Arthropathy associated with other viral diseases, lower leg"
+71157,"Arthropathy associated with other viral diseases, ankle and foot"
+71158,"Arthropathy associated with other viral diseases, other specified sites"
+71159,"Arthropathy associated with other viral diseases, multiple sites"
+71160,"Arthropathy associated with mycoses, site unspecified"
+71161,"Arthropathy associated with mycoses, shoulder region"
+71162,"Arthropathy associated with mycoses, upper arm"
+71163,"Arthropathy associated with mycoses, forearm"
+71164,"Arthropathy associated with mycoses, hand"
+71165,"Arthropathy associated with mycoses, pelvic region and thigh"
+71166,"Arthropathy associated with mycoses, lower leg"
+71167,"Arthropathy associated with mycoses, ankle and foot"
+71168,"Arthropathy associated with mycoses, other specified sites"
+71169,"Arthropathy associated with mycoses, involving multiple sites"
+71180,"Arthropathy associated with other infectious and parasitic diseases, site unspecified"
+71181,"Arthropathy associated with other infectious and parasitic diseases, shoulder region"
+71182,"Arthropathy associated with other infectious and parasitic diseases, upper arm"
+71183,"Arthropathy associated with other infectious and parasitic diseases, forearm"
+71184,"Arthropathy associated with other infectious and parasitic diseases, hand"
+71185,"Arthropathy associated with other infectious and parasitic diseases, pelvic region and thigh"
+71186,"Arthropathy associated with other infectious and parasitic diseases, lower leg"
+71187,"Arthropathy associated with other infectious and parasitic diseases, ankle and foot"
+71188,"Arthropathy associated with other infectious and parasitic diseases, other specified sites"
+71189,"Arthropathy associated with other infectious and parasitic diseases, multiple sites"
+71190,"Unspecified infective arthritis, site unspecified"
+71191,"Unspecified infective arthritis, shoulder region"
+71192,"Unspecified infective arthritis, upper arm"
+71193,"Unspecified infective arthritis, forearm"
+71194,"Unspecified infective arthritis, hand"
+71195,"Unspecified infective arthritis, pelvic region and thigh"
+71196,"Unspecified infective arthritis, lower leg"
+71197,"Unspecified infective arthritis, ankle and foot"
+71198,"Unspecified infective arthritis, other specified sites"
+71199,"Unspecified infective arthritis, multiple sites"
+7140,Rheumatoid arthritis
+7142,Other rheumatoid arthritis with visceral or systemic involvement
+71430,"Polyarticular juvenile rheumatoid arthritis, chronic or unspecified"
+71431,"Polyarticular juvenile rheumatoid arthritis, acute"
+71432,Pauciarticular juvenile rheumatoid arthritis
+71433,Monoarticular juvenile rheumatoid arthritis
+7144,Chronic postrheumatic arthropathy
+71620,"Allergic arthritis, site unspecified"
+71621,"Allergic arthritis, shoulder region"
+71622,"Allergic arthritis, upper arm"
+71623,"Allergic arthritis, forearm"
+71624,"Allergic arthritis, hand"
+71625,"Allergic arthritis, pelvic region and thigh"
+71626,"Allergic arthritis, lower leg"
+71627,"Allergic arthritis, ankle and foot"
+71628,"Allergic arthritis, other specified sites"
+71629,"Allergic arthritis, multiple sites"
+71630,"Climacteric arthritis, site unspecified"
+71631,"Climacteric arthritis, shoulder region"
+71632,"Climacteric arthritis, upper arm"
+71633,"Climacteric arthritis, forearm"
+71634,"Climacteric arthritis, hand"
+71635,"Climacteric arthritis, pelvic region and thigh"
+71636,"Climacteric arthritis, lower leg"
+71637,"Climacteric arthritis, ankle and foot"
+71638,"Climacteric arthritis, other specified sites"
+71639,"Climacteric arthritis, multiple sites"
+71650,"Unspecified polyarthropathy or polyarthritis, site unspecified"
+71651,"Unspecified polyarthropathy or polyarthritis, shoulder region"
+71652,"Unspecified polyarthropathy or polyarthritis, upper arm"
+71653,"Unspecified polyarthropathy or polyarthritis, forearm"
+71654,"Unspecified polyarthropathy or polyarthritis, hand"
+71655,"Unspecified polyarthropathy or polyarthritis, pelvic region and thigh"
+71656,"Unspecified polyarthropathy or polyarthritis, lower leg"
+71657,"Unspecified polyarthropathy or polyarthritis, ankle and foot"
+71658,"Unspecified polyarthropathy or polyarthritis, other specified sites"
+71659,"Unspecified polyarthropathy or polyarthritis, multiple sites"
+71660,"Unspecified monoarthritis, site unspecified"
+71661,"Unspecified monoarthritis, shoulder region"
+71662,"Unspecified monoarthritis, upper arm"
+71663,"Unspecified monoarthritis, forearm"
+71664,"Unspecified monoarthritis, hand"
+71665,"Unspecified monoarthritis, pelvic region and thigh"
+71666,"Unspecified monoarthritis, lower leg"
+71667,"Unspecified monoarthritis, ankle and foot"
+71668,"Unspecified monoarthritis, other specified sites"
+09852,Gonococcal bursitis
+72633,Olecranon bursitis
+72661,Pes anserinus tendinitis or bursitis
+72662,Tibial collateral ligament bursitis
+72663,Fibular collateral ligament bursitis
+72665,Prepatellar bursitis
+72671,Achilles bursitis or tendinitis
+7272,Specific bursitides often of occupational origin
+7273,Other bursitis
+72611,Calcifying tendinitis of shoulder
+72661,Pes anserinus tendinitis or bursitis
+72664,Patellar tendinitis
+72671,Achilles bursitis or tendinitis
+72672,Tibialis tendinitis
+3540,Carpal tunnel syndrome
+3555,Tarsal tunnel syndrome
+78071,Chronic fatigue syndrome
+7105,Eosinophilia myalgia syndrome
+725,Polymyalgia rheumatica
+7291,"Myalgia and myositis, unspecified"
+7200,Ankylosing spondylitis
+7216,Ankylosing vertebral hyperostosis
+37334,Discoid lupus erythematosus of eyelid
+6954,Lupus erythematosus
+7100,Systemic lupus erythematosus
+09853,Gonococcal spondylitis
+37552,Stenosis of lacrimal punctum
+37553,Stenosis of lacrimal canaliculi
+37554,Stenosis of lacrimal sac
+37556,"Stenosis of nasolacrimal duct, acquired"
+38050,"Acquired stenosis of external ear canal, unspecified as to cause"
+38051,Acquired stenosis of external ear canal secondary to trauma
+38052,Acquired stenosis of external ear canal secondary to surgery
+38053,Acquired stenosis of external ear canal secondary to inflammation
+3940,Mitral stenosis
+3942,Mitral stenosis with insufficiency
+3950,Rheumatic aortic stenosis
+3952,Rheumatic aortic stenosis with insufficiency
+3960,Mitral valve stenosis and aortic valve stenosis
+3961,Mitral valve stenosis and aortic valve insufficiency
+3962,Mitral valve insufficiency and aortic valve stenosis
+43300,Occlusion and stenosis of basilar artery without mention of cerebral infarction
+43301,Occlusion and stenosis of basilar artery with cerebral infarction
+43310,Occlusion and stenosis of carotid artery without mention of cerebral infarction
+43311,Occlusion and stenosis of carotid artery with cerebral infarction
+43320,Occlusion and stenosis of vertebral artery without mention of cerebral infarction
+43321,Occlusion and stenosis of vertebral artery with cerebral infarction
+43330,Occlusion and stenosis of multiple and bilateral precerebral arteries without mention of cerebral infarction
+43331,Occlusion and stenosis of multiple and bilateral precerebral arteries with cerebral infarction
+43380,Occlusion and stenosis of other specified precerebral artery without mention of cerebral infarction
+43381,Occlusion and stenosis of other specified precerebral artery with cerebral infarction
+43390,Occlusion and stenosis of unspecified precerebral artery without mention of cerebral infarction
+43391,Occlusion and stenosis of unspecified precerebral artery with cerebral infarction
+47874,Stenosis of larynx
+5303,Stricture and stenosis of esophagus
+5370,Acquired hypertrophic pyloric stenosis
+5376,Hourglass stricture or stenosis of stomach
+5692,Stenosis of rectum and anus
+6224,Stricture and stenosis of cervix
+7230,Spinal stenosis in cervical region
+72400,"Spinal stenosis, unspecified region"
+72401,"Spinal stenosis, thoracic region"
+72402,"Spinal stenosis, lumbar region, without neurogenic claudication"
+72403,"Spinal stenosis, lumbar region, with neurogenic claudication"
+72409,"Spinal stenosis, other region"
+74602,"Stenosis of pulmonary valve, congenital"
+7461,"Tricuspid atresia and stenosis, congenital"
+7463,Congenital stenosis of aortic valve
+7465,Congenital mitral stenosis
+74681,Subaortic stenosis
+74683,Infundibular pulmonic stenosis
+74722,Atresia and stenosis of aorta
+7503,"Tracheoesophageal fistula, esophageal atresia and stenosis"
+7505,Congenital hypertrophic pyloric stenosis
+7511,Atresia and stenosis of small intestine
+7512,"Atresia and stenosis of large intestine, rectum, and anal canal"
+7536,Atresia and stenosis of urethra and bladder neck
+05313,Postherpetic polyneuropathy
+07272,Mumps polyneuropathy
+33700,"Idiopathic peripheral autonomic neuropathy, unspecified"
+33709,Other idiopathic peripheral autonomic neuropathy
+3371,Peripheral autonomic neuropathy in disorders classified elsewhere
+3560,Hereditary peripheral neuropathy
+3562,Hereditary sensory neuropathy
+3564,Idiopathic progressive polyneuropathy
+3568,Other specified idiopathic peripheral neuropathy
+3569,Unspecified hereditary and idiopathic peripheral neuropathy
+3571,Polyneuropathy in collagen vascular disease
+3572,Polyneuropathy in diabetes
+3573,Polyneuropathy in malignant disease
+3574,Polyneuropathy in other diseases classified elsewhere
+3575,Alcoholic polyneuropathy
+3576,Polyneuropathy due to drugs
+3577,Polyneuropathy due to other toxic agents
+35782,Critical illness polyneuropathy
+35789,Other inflammatory and toxic neuropathy
+3579,Unspecified inflammatory and toxic neuropathy
+37733,Nutritional optic neuropathy
+37734,Toxic optic neuropathy
+37741,Ischemic optic neuropathy
+27400,"Gouty arthropathy, unspecified"
+27401,Acute gouty arthropathy
+27402,Chronic gouty arthropathy without mention of tophus (tophi)
+27403,Chronic gouty arthropathy with tophus (tophi)
+27410,"Gouty nephropathy, unspecified"
+27419,Other gouty nephropathy
+27481,Gouty tophi of ear
+27482,"Gouty tophi of other sites, except ear"
+27489,Gout with other specified manifestations
+2749,"Gout, unspecified"
+33524,Primary lateral sclerosis
+05312,Postherpetic trigeminal neuralgia
+3501,Trigeminal neuralgia
+3521,Glossopharyngeal neuralgia
+7292,"Neuralgia, neuritis, and radiculitis, unspecified"
+30780,"Psychogenic pain, site unspecified"
+30789,Other pain disorders related to psychological factors
+30780,"Psychogenic pain, site unspecified"
+30789,Other pain disorders related to psychological factors
+7176,Loose body in knee
+71785,Old disruption of other ligaments of knee
+71789,Other internal derangement of knee
+7179,Unspecified internal derangement of knee
+72660,"Enthesopathy of knee, unspecified"
+72661,Pes anserinus tendinitis or bursitis
+72662,Tibial collateral ligament bursitis
+72663,Fibular collateral ligament bursitis
+72664,Patellar tendinitis
+72665,Prepatellar bursitis
+72669,Other enthesopathy of knee
+72766,Nontraumatic rupture of patellar tendon
+72931,"Hypertrophy of fat pad, knee"
+7366,Other acquired deformities of knee
+75441,Congenital dislocation of knee (with genu recurvatum)
+75564,Congenital deformity of knee (joint)
+8360,"Tear of medial cartilage or meniscus of knee, current"
+8361,"Tear of lateral cartilage or meniscus of knee, current"
+8362,"Other tear of cartilage or meniscus of knee, current"
+8363,"Dislocation of patella, closed"
+8364,"Dislocation of patella, open"
+83650,"Dislocation of knee, unspecified, closed"
+83651,"Anterior dislocation of tibia, proximal end, closed"
+83652,"Posterior dislocation of tibia, proximal end, closed"
+83653,"Medial dislocation of tibia, proximal end, closed"
+83654,"Lateral dislocation of tibia, proximal end, closed"
+83659,"Other dislocation of knee, closed"
+83660,"Dislocation of knee, unspecified, open"
+83661,"Anterior dislocation of tibia, proximal end, open"
+83662,"Posterior dislocation of tibia, proximal end, open"
+83663,"Medial dislocation of tibia, proximal end, open"
+83664,"Lateral dislocation of tibia, proximal end, open"
+83669,"Other dislocation of knee, open"
+8440,Sprain of lateral collateral ligament of knee
+8441,Sprain of medial collateral ligament of knee
+8442,Sprain of cruciate ligament of knee
+8443,"Sprain of tibiofibular (joint) (ligament) superior, of knee"
+8448,Sprains and strains of other specified sites of knee and leg
+8449,Sprains and strains of unspecified site of knee and leg
+8910,"Open wound of knee, leg [except thigh], and ankle, without mention of complication"
+8911,"Open wound of knee, leg [except thigh], and ankle, complicated"
+8912,"Open wound of knee, leg [except thigh], and ankle, with tendon involvement"
+8970,"Traumatic amputation of leg(s) (complete) (partial), unilateral, below knee, without mention of complication"
+8971,"Traumatic amputation of leg(s) (complete) (partial), unilateral, below knee, complicated"
+8972,"Traumatic amputation of leg(s) (complete) (partial), unilateral, at or above knee, without mention of complication"
+8973,"Traumatic amputation of leg(s) (complete) (partial), unilateral, at or above knee, complicated"
+92411,Contusion of knee
+92811,Crushing injury of knee
+94505,Burn of unspecified degree of knee
+94515,Erythema [first degree] of knee
+94525,"Blisters, epidermal loss [second degree] of knee"
+94535,Full-thickness skin loss [third degree NOS] of knee
+94545,"Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part, of knee"
+94555,"Deep necrosis of underlying tissues [deep third degree] with loss of a body part, of knee"
+9597,"Knee, leg, ankle, and foot injury"
+V4365,Knee joint replacement
+V4975,Below knee amputation status
+V4976,Above knee amputation status
+V8822,Acquired absence of knee joint

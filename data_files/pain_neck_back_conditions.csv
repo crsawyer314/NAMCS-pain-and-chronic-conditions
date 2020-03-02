@@ -1,0 +1,91 @@
+code,description
+7200,Ankylosing spondylitis
+7201,Spinal enthesopathy
+7202,"Sacroiliitis, not elsewhere classified"
+72081,Inflammatory spondylopathies in diseases classified elsewhere
+72089,Other inflammatory spondylopathies
+7209,Unspecified inflammatory spondylopathy
+7213,Lumbosacral spondylosis without myelopathy
+72141,"Spondylosis with myelopathy, thoracic region"
+72142,"Spondylosis with myelopathy, lumbar region"
+7215,Kissing spine
+7216,Ankylosing vertebral hyperostosis
+7217,Traumatic spondylopathy
+7212,Thoracic spondylosis without myelopathy
+72190,"Spondylosis of unspecified site, without mention of myelopathy"
+72191,"Spondylosis of unspecified site, with myelopathy"
+72251,Degeneration of thoracic or thoracolumbar intervertebral disc
+72252,Degeneration of lumbar or lumbosacral intervertebral disc
+7226,"Degeneration of intervertebral disc, site unspecified"
+72270,"Intervertebral disc disorder with myelopathy, unspecified region"
+72271,"Intervertebral disc disorder with myelopathy, cervical region"
+72272,"Intervertebral disc disorder with myelopathy, thoracic region"
+72273,"Intervertebral disc disorder with myelopathy, lumbar region"
+72280,"Postlaminectomy syndrome, unspecified region"
+72282,"Postlaminectomy syndrome, thoracic region"
+72283,"Postlaminectomy syndrome, lumbar region"
+72290,"Other and unspecified disc disorder, unspecified region"
+72291,"Other and unspecified disc disorder, cervical region"
+72292,"Other and unspecified disc disorder, thoracic region"
+72293,"Other and unspecified disc disorder, lumbar region"
+72400,"Spinal stenosis, unspecified region"
+72401,"Spinal stenosis, thoracic region"
+72402,"Spinal stenosis, lumbar region, without neurogenic claudication"
+72403,"Spinal stenosis, lumbar region, with neurogenic claudication"
+72409,"Spinal stenosis, other region"
+7241,Pain in thoracic spine
+7242,Lumbago
+7243,Sciatica
+7244,"Thoracic or lumbosacral neuritis or radiculitis, unspecified"
+7245,"Backache, unspecified"
+95210,T1-T6 level with unspecified spinal cord injury
+95211,T1-T6 level with complete lesion of spinal cord
+95212,T1-T6 level with anterior cord syndrome
+95213,T1-T6 level with central cord syndrome
+95214,T1-T6 level with other specified spinal cord injury
+95215,T7-T12 level with unspecified spinal cord injury
+95216,T7-T12 level with complete lesion of spinal cord
+95217,T7-T12 level with anterior cord syndrome
+95218,T7-T12 level with central cord syndrome
+95219,T7-T12 level with other specified spinal cord injury
+9522,Lumbar spinal cord injury without evidence of spinal bone injury
+9523,Sacral spinal cord injury without evidence of spinal bone injury
+9524,Cauda equina spinal cord injury without evidence of spinal bone injury
+9528,Multiple sites of spinal cord injury without evidence of spinal bone injury
+9529,Unspecified site of spinal cord injury without evidence of spinal bone injury
+9532,Injury to lumbar nerve root
+9533,Injury to sacral nerve root
+9534,Injury to brachial plexus
+9535,Injury to lumbosacral plexus
+9538,Injury to multiple sites of nerve roots and spinal plexus
+9539,Injury to unspecified site of nerve roots and spinal plexus
+9560,Injury to sciatic nerve
+9561,Injury to femoral nerve
+7210,Cervical spondylosis without myelopathy
+7211,Cervical spondylosis with myelopathy
+7224,Degeneration of cervical intervertebral disc
+72281,"Postlaminectomy syndrome, cervical region"
+7230,Spinal stenosis in cervical region
+7231,Cervicalgia
+7232,Cervicocranial syndrome
+7233,Cervicobrachial syndrome (diffuse)
+7234,Brachial neuritis or radiculitis NOS
+7235,"Torticollis, unspecified"
+7236,Panniculitis specified as affecting neck
+7237,Ossification of posterior longitudinal ligament in cervical region
+7238,Other syndromes affecting cervical region
+7239,Unspecified musculoskeletal disorders and symptoms referable to neck
+95200,C1-C4 level with unspecified spinal cord injury
+95201,C1-C4 level with complete lesion of spinal cord
+95202,C1-C4 level with anterior cord syndrome
+95203,C1-C4 level with central cord syndrome
+95204,C1-C4 level with other specified spinal cord injury
+95205,C5-C7 level with unspecified spinal cord injury
+95206,C5-C7 level with complete lesion of spinal cord
+95207,C5-C7 level with anterior cord syndrome
+95208,C5-C7 level with central cord syndrome
+95209,C5-C7 level with other specified spinal cord injury
+9530,Injury to cervical nerve root
+9531,Injury to dorsal nerve root
+9540,"Injury to cervical sympathetic nerve, excluding shoulder and pelvic girdles"
+9541,"Injury to other sympathetic nerve, excluding shoulder and pelvic girdles"

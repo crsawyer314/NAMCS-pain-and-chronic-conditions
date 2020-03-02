@@ -1,0 +1,258 @@
+0860,Chagas' disease with heart involvement
+09885,Other gonococcal heart disease
+391,Rheumatic fever with heart involvement
+3910,Acute rheumatic pericarditis
+3911,Acute rheumatic endocarditis
+3912,Acute rheumatic myocarditis
+3918,Other acute rheumatic heart disease
+3919,Acute rheumatic heart disease unspecified
+3920,With heart involvement
+393,Chronic rheumatic pericarditis
+394,Diseases of mitral valve
+3940,Mitral stenosis
+3941,Rheumatic mitral insufficiency
+3942,Mitral stenosis with insufficiency
+3949,Other and unspecified mitral valve diseases
+395,Diseases of aortic valve
+3950,Rheumatic aortic stenosis
+3951,Rheumatic aortic insufficiency
+3952,Rheumatic aortic stenosis with insufficiency
+3959,Other and unspecified rheumatic aortic diseases
+396,Diseases of mitral and aortic valves
+3960,Mitral valve stenosis and aortic valve stenosis
+3961,Mitral valve stenosis and aortic valve insufficiency
+3962,Mitral valve insufficiency and aortic valve stenosis
+3963,Mitral valve insufficiency and aortic valve insufficiency
+3968,Multiple involvement of mitral and aortic valves
+3969,Mitral and aortic valve diseases unspecified
+397,Diseases of other endocardial structures
+3970,Diseases of tricuspid valve
+3971,Rheumatic diseases of pulmonary valve
+3979,Rheumatic diseases of endocardium valve unspecified
+398,Other rheumatic heart disease
+3980,Rheumatic myocarditis
+3989,Other and unspecified rheumatic heart diseases
+39890,Rheumatic heart disease unspecified
+39891,Rheumatic heart failure (congestive)
+39899,Other
+402,Hypertensive heart disease
+4020,Malignant
+40200,Without heart failure
+40201,With heart failure
+4021,Benign
+40210,Without heart failure
+40211,With heart failure
+4029,Unspecified
+40290,Without heart failure
+40291,With heart failure
+404,Hypertensive heart and chronic kidney disease
+4040,Malignant
+4041,Benign
+4049,Unspecified
+410,Acute myocardial infarction
+4100,Of anterolateral wall
+4101,Of other anterior wall
+4102,Of inferolateral wall
+4103,Of inferoposterior wall
+4104,Of other inferior wall
+4105,Of other lateral wall
+4106,True posterior wall infarction
+4107,Subendocardial infarction
+4108,Of other specified sites
+4109,Unspecified site
+411,Other acute and subacute forms of ischemic heart disease
+4110,Postmyocardial infarction syndrome
+4111,Intermediate coronary syndrome
+4118,Other
+41181,Acute coronary occlusion without myocardial infarction
+41189,Other
+412,Old myocardial infarction
+413,Angina pectoris
+4130,Angina decubitus
+4131,Prinzmetal angina
+4139,Other and unspecified angina pectoris
+414,Other forms of chronic ischemic heart disease
+4140,Coronary atherosclerosis
+41400,Of unspecified type of vessel native or graft
+41401,Of native coronary artery
+41402,Of autologous biological bypass graft
+41403,Of nonautologous biological bypass graft
+41404,Of artery bypass graft
+41405,Of unspecified type of bypass graft
+41406,Of native coronary artery of transplanted heart
+41407,Of bypass graft (artery) (vein) of transplanted heart
+4141,Aneurysm and dissection of heart
+41410,Aneurysm of heart (wall)
+41411,Aneurysm of coronary vessels
+41412,Dissection of coronary artery
+41419,Other aneurysm of heart
+4142,Chronic total occlusion of coronary artery
+4143,Coronary atherosclerosis due to lipid rich plaque
+4144,Coronary atherosclerosis due to calcified coronary lesion
+4148,Other specified forms of chronic ischemic heart disease
+4149,Chronic ischemic heart disease unspecified
+415,Acute pulmonary heart disease
+4150,Acute cor pulmonale
+4151,Pulmonary embolism and infarction
+41511,Iatrogenic pulmonary embolism and infarction
+41512,Septic pulmonary embolism
+41513,Saddle embolus of pulmonary artery
+41519,Other
+416,Chronic pulmonary heart disease
+4160,Primary pulmonary hypertension
+4161,Kyphoscoliotic heart disease
+4162,Chronic pulmonary embolism
+4168,Other chronic pulmonary heart diseases
+4169,Chronic pulmonary heart disease unspecified
+417,Other diseases of pulmonary circulation
+4170,Arteriovenous fistula of pulmonary vessels
+4171,Aneurysm of pulmonary artery
+4178,Other specified diseases of pulmonary circulation
+4179,Unspecified disease of pulmonary circulation
+420,Acute pericarditis
+4200,Acute pericarditis in diseases classified elsewhere
+4209,Other and unspecified acute pericarditis
+42090,Acute pericarditis unspecified
+42091,Acute idiopathic pericarditis
+42099,Other
+421,Acute and subacute endocarditis
+4210,Acute and subacute bacterial endocarditis
+4211,Acute and subacute infective endocarditis in diseases classified elsewhere
+4219,Acute endocarditis unspecified
+422,Acute myocarditis
+4220,Acute myocarditis in diseases classified elsewhere
+4229,Other and unspecified acute myocarditis
+42290,Acute myocarditis unspecified
+42291,Idiopathic myocarditis
+42292,Septic myocarditis
+42293,Toxic myocarditis
+42299,Other
+423,Other diseases of pericardium
+4230,Hemopericardium
+4231,Adhesive pericarditis
+4232,Constrictive pericarditis
+4233,Cardiac tamponade
+4238,Other specified diseases of pericardium
+4239,Unspecified disease of pericardium
+424,Other diseases of endocardium
+4240,Mitral valve disorders
+4241,Aortic valve disorders
+4242,Tricuspid valve disorders specified as nonrheumatic
+4243,Pulmonary valve disorders
+4249,Endocarditis valve unspecified
+42490,Endocarditis valve unspecified unspecified cause
+42491,Endocarditis in diseases classified elsewhere
+42499,Other
+425,Cardiomyopathy
+4250,Endomyocardial fibrosis
+4251,Hypertrophic cardiomyopathy
+42511,Hypertrophic obstructive cardiomyopathy
+42518,Other hypertrophic cardiomyopathy
+4252,Obscure cardiomyopathy of Africa
+4253,Endocardial fibroelastosis
+4254,Other primary cardiomyopathies
+4255,Alcoholic cardiomyopathy
+4257,Nutritional and metabolic cardiomyopathy
+4258,Cardiomyopathy in other diseases classified elsewhere
+4259,Secondary cardiomyopathy unspecified
+426,Conduction disorders
+4260,Atrioventricular block complete
+4261,Atrioventricular block other and unspecified
+42610,Atrioventricular block unspecified
+42611,First degree atrioventricular block
+42612,Mobitz (type) II atrioventricular block
+42613,Other second degree atrioventricular block
+4262,Left bundle branch hemiblock
+4263,Other left bundle branch block
+4264,Right bundle branch block
+4265,Bundle branch block other and unspecified
+42650,Bundle branch block unspecified
+42651,Right bundle branch block and left posterior fascicular block
+42652,Right bundle branch block and left anterior fascicular block
+42653,Other bilateral bundle branch block
+42654,Trifascicular block
+4266,Other heart block
+4267,Anomalous atrioventricular excitation
+4268,Other specified conduction disorders
+42681,Lown-Ganong-Levine syndrome
+42682,Long QT syndrome
+42689,Other
+4269,Conduction disorder unspecified
+427,Cardiac dysrhythmias
+4270,Paroxysmal supraventricular tachycardia
+4271,Paroxysmal ventricular tachycardia
+4272,Paroxysmal tachycardia unspecified
+4273,Atrial fibrillation and flutter
+42731,Atrial fibrillation
+42732,Atrial flutter
+4274,Ventricular fibrillation and flutter
+42741,Ventricular fibrillation
+42742,Ventricular flutter
+4275,Cardiac arrest
+4276,Premature beats
+42760,Premature beats unspecified
+42761,Supraventricular premature beats
+42769,Other
+4278,Other specified cardiac dysrhythmias
+42781,Sinoatrial node dysfunction
+42789,Other
+4279,Cardiac dysrhythmia unspecified
+428,Heart failure
+4280,Congestive heart failure unspecified
+4281,Left heart failure
+4282,Systolic heart failure
+42820,Unspecified
+42821,Acute
+42822,Chronic
+42823,Acute on chronic
+4283,Diastolic heart failure
+42830,Unspecified
+42831,Acute
+42832,Chronic
+42833,Acute on chronic
+4284,Combined systolic and diastolic heart failure
+42840,Unspecified
+42841,Acute
+42842,Chronic
+42843,Acute on chronic
+4289,Heart failure unspecified
+429,Ill-defined descriptions and complications of heart disease
+4290,Myocarditis unspecified
+4291,Myocardial degeneration
+4292,Cardiovascular disease unspecified
+4293,Cardiomegaly
+4294,Functional disturbances following cardiac surgery
+4295,Rupture of chordae tendineae
+4296,Rupture of papillary muscle
+4297,Certain sequelae of myocardial infarction not elsewhere classified
+42971,Acquired cardiac septal defect
+42979,Other
+4298,Other ill-defined heart diseases
+42981,Other disorders of papillary muscle
+42982,Hyperkinetic heart disease
+42983,Takotsubo syndrome
+42989,Other
+4299,Heart disease unspecified
+861,Injury to heart and lung
+8610,Heart without mention of open wound into thorax
+86100,Unspecified injury
+86101,Contusion
+86102,Laceration without penetration of heart chambers
+86103,Laceration with penetration of heart chambers
+8611,Heart with open wound into thorax
+86110,Unspecified injury
+86111,Contusion
+86112,Laceration without penetration of heart chambers
+86113,Laceration with penetration of heart chambers
+8612,Lung without mention of open wound into thorax
+86120,Unspecified injury
+86121,Contusion
+86122,Laceration
+8613,Lung with open wound into thorax
+86130,Unspecified injury
+86131,Contusion
+86132,Laceration
+99661,Due to cardiac device implant and graft
+99671,Due to heart valve prosthesis
+99683,Heart
+9971,Cardiac complications

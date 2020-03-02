@@ -1,0 +1,67 @@
+code,condition
+30781,Tension headache
+33900,"Cluster headache syndrome, unspecified"
+33901,Episodic cluster headache
+33902,Chronic cluster headache
+33903,Episodic paroxysmal hemicrania
+33904,Chronic paroxysmal hemicrania
+33905,Short lasting unilateral neuralgiform headache with conjunctival injection and tearing
+33909,Other trigeminal autonomic cephalgias
+33910,"Tension type headache, unspecified"
+33911,Episodic tension type headache
+33912,Chronic tension type headache
+33920,"Post-traumatic headache, unspecified"
+33921,Acute post-traumatic headache
+33922,Chronic post-traumatic headache
+3393,"Drug induced headache, not elsewhere classified"
+33941,Hemicrania continua
+33942,New daily persistent headache
+33943,Primary thunderclap headache
+33944,Other complicated headache syndrome
+33981,Hypnic headache
+33982,Headache associated with sexual activity
+33983,Primary cough headache
+33984,Primary exertional headache
+33985,Primary stabbing headache
+33989,Other headache syndromes
+7840,Headache
+34600,"Migraine with aura, without mention of intractable migraine without mention of status migrainosus"
+34601,"Migraine with aura, with intractable migraine, so stated, without mention of status migrainosus"
+34602,"Migraine with aura, without mention of intractable migraine with status migrainosus"
+34603,"Migraine with aura, with intractable migraine, so stated, with status migrainosus"
+34610,"Migraine without aura, without mention of intractable migraine without mention of status migrainosus"
+34611,"Migraine without aura, with intractable migraine, so stated, without mention of status migrainosus"
+34612,"Migraine without aura, without mention of intractable migraine with status migrainosus"
+34613,"Migraine without aura, with intractable migraine, so stated, with status migrainosus"
+34620,"Variants of migraine, not elsewhere classified, without mention of intractable migraine without mention of status migrainosus"
+34621,"Variants of migraine, not elsewhere classified, with intractable migraine, so stated, without mention of status migrainosus"
+34622,"Variants of migraine, not elsewhere classified, without mention of intractable migraine with status migrainosus"
+34623,"Variants of migraine, not elsewhere classified, with intractable migraine, so stated, with status migrainosus"
+34630,"Hemiplegic migraine, without mention of intractable migraine without mention of status migrainosus"
+34631,"Hemiplegic migraine, with intractable migraine, so stated, without mention of status migrainosus"
+34632,"Hemiplegic migraine, without mention of intractable migraine with status migrainosus"
+34633,"Hemiplegic migraine, with intractable migraine, so stated, with status migrainosus"
+34640,"Menstrual migraine, without mention of intractable migraine without mention of status migrainosus"
+34641,"Menstrual migraine, with intractable migraine, so stated, without mention of status migrainosus"
+34642,"Menstrual migraine, without mention of intractable migraine with status migrainosus"
+34643,"Menstrual migraine, with intractable migraine, so stated, with status migrainosus"
+34650,"Persistent migraine aura without cerebral infarction, without mention of intractable migraine without mention of status migrainosus"
+34651,"Persistent migraine aura without cerebral infarction, with intractable migraine, so stated, without mention of status migrainosus"
+34652,"Persistent migraine aura without cerebral infarction, without mention of intractable migraine with status migrainosus"
+34653,"Persistent migraine aura without cerebral infarction, with intractable migraine, so stated, with status migrainosus"
+34660,"Persistent migraine aura with cerebral infarction, without mention of intractable migraine without mention of status migrainosus"
+34661,"Persistent migraine aura with cerebral infarction, with intractable migraine, so stated, without mention of status migrainosus"
+34662,"Persistent migraine aura with cerebral infarction, without mention of intractable migraine with status migrainosus"
+34663,"Persistent migraine aura with cerebral infarction, with intractable migraine, so stated, with status migrainosus"
+34670,"Chronic migraine without aura, without mention of intractable migraine without mention of status migrainosus"
+34671,"Chronic migraine without aura, with intractable migraine, so stated, without mention of status migrainosus"
+34672,"Chronic migraine without aura, without mention of intractable migraine with status migrainosus"
+34673,"Chronic migraine without aura, with intractable migraine, so stated, with status migrainosus"
+34680,"Other forms of migraine, without mention of intractable migraine without mention of status migrainosus"
+34681,"Other forms of migraine, with intractable migraine, so stated, without mention of status migrainosus"
+34682,"Other forms of migraine, without mention of intractable migraine with status migrainosus"
+34683,"Other forms of migraine, with intractable migraine, so stated, with status migrainosus"
+34690,"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus"
+34691,"Migraine, unspecified, with intractable migraine, so stated, without mention of status migrainosus"
+34692,"Migraine, unspecified, without mention of intractable migraine with status migrainosus"
+34693,"Migraine, unspecified, with intractable migraine, so stated, with status migrainosus"

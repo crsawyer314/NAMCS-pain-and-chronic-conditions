@@ -1,0 +1,778 @@
+1740,Breast Cancer
+1741,Breast Cancer
+1742,Breast Cancer
+1743,Breast Cancer
+1744,Breast Cancer
+1745,Breast Cancer
+1746,Breast Cancer
+1748,Breast Cancer
+1749,Breast Cancer
+1750,Breast Cancer
+1759,Breast Cancer
+2330,Breast Cancer
+1530,Colorectal Cancer
+1531,Colorectal Cancer
+1532,Colorectal Cancer
+1533,Colorectal Cancer
+1534,Colorectal Cancer
+1535,Colorectal Cancer
+1536,Colorectal Cancer
+1537,Colorectal Cancer
+1538,Colorectal Cancer
+1539,Colorectal Cancer
+1540,Colorectal Cancer
+1541,Colorectal Cancer
+2303,Colorectal Cancer
+2304,Colorectal Cancer
+185,Prostate Cancer
+2334,Prostate Cancer
+1622,Lung Cancer
+1623,Lung Cancer
+1624,Lung Cancer
+1625,Lung Cancer
+1628,Lung Cancer
+1629,Lung Cancer
+2312,Lung Cancer
+1820,Endometrial Cancer
+2332,Endometrial Cancer
+3383,Neoplasm related pain (acute) (chronic)
+1519,Stomach unspecified (Gastric cancer)
+1990,Disseminated -cancer unspecified site (primary) (secondary)
+1991,Other-Cancer unspecified site (primary) (secondary)
+3383,Neoplasm related pain (acute) (chronic)-Cancer associated pain
+1970,cancer metastatic to lung
+79582,Elevated cancer antigen 125 [CA 125]
+79589,Other abnormal tumor markers
+79581,Elevated carcinoembryonic antigen [CEA]
+7958,Abnormal tumor markers
+1400,Upper lip vermilion border
+1401,Lower lip vermilion border
+1403,Upper lip inner aspect
+1404,Lower lip inner aspect
+1405,Lip unspecified inner aspect
+1406,Commissure of lip
+1408,Other sites of lip
+1409,Lip unspecified vermilion border
+1410,Base of tongue
+1411,Dorsal surface of tongue
+1412,Tip and lateral border of tongue
+1413,Ventral surface of tongue
+1414,Anterior two-thirds of tongue part unspecified
+1415,Junctional zone
+1416,Lingual tonsil
+1418,Other sites of tongue
+1419,Tongue unspecified
+1420,Parotid gland
+1421,Submandibular gland
+1422,Sublingual gland
+1428,Other major salivary glands
+1429,Salivary gland unspecified
+1430,Upper gum
+1431,Lower gum
+1438,Other sites of gum
+1439,Gum unspecified
+1440,Anterior portion
+1441,Lateral portion
+1448,Other sites of floor of mouth
+1449,Floor of mouth part unspecified
+1450,Cheek mucosa
+1451,Vestibule of mouth
+1452,Hard palate
+1453,Soft palate
+1454,Uvula
+1455,Palate unspecified
+1456,Retromolar area
+1458,Other specified parts of mouth
+1459,Mouth unspecified
+1460,Tonsil
+1461,Tonsillar fossa
+1462,Tonsillar pillars (anterior) (posterior)
+1463,Vallecula
+1464,Anterior aspect of epiglottis
+1465,Junctional region
+1466,Lateral wall of oropharynx
+1467,Posterior wall of oropharynx
+1468,Other specified sites of oropharynx
+1469,Oropharynx unspecified
+1470,Superior wall
+1471,Posterior wall
+1472,Lateral wall
+1473,Anterior wall
+1478,Other specified sites of nasopharynx
+1479,Nasopharynx unspecified
+1480,Postcricoid region
+1481,Pyriform sinus
+1482,Aryepiglottic fold hypopharyngeal aspect
+1483,Posterior hypopharyngeal wall
+1488,Other specified sites of hypopharynx
+1489,Hypopharynx unspecified
+1490,Pharynx unspecified
+1491,Waldeyer's ring
+1498,Other
+1499,Ill-defined
+1500,Cervical esophagus
+1501,Thoracic esophagus
+1502,Abdominal esophagus
+1503,Upper third of esophagus
+1504,Middle third of esophagus
+1505,Lower third of esophagus
+1508,Other specified part
+1509,Esophagus unspecified
+1510,Cardia
+1511,Pylorus
+1512,Pyloric antrum
+1513,Fundus of stomach
+1514,Body of stomach
+1515,Lesser curvature unspecified
+1516,Greater curvature unspecified
+1518,Other specified sites of stomach
+1519,Stomach unspecified
+1520,Duodenum
+1521,Jejunum
+1522,Ileum
+1523,Meckel's diverticulum
+1528,Other specified sites of small intestine
+1529,Small intestine unspecified
+1530,Hepatic flexure
+1531,Transverse colon
+1532,Descending colon
+1533,Sigmoid colon
+1534,Cecum
+1535,Appendix
+1536,Ascending colon
+1537,Splenic flexure
+1538,Other specified sites of large intestine
+1539,Colon unspecified
+1540,Rectosigmoid junction
+1541,Rectum
+1542,Anal canal
+1543,Anus unspecified
+1548,Other
+1550,Liver primary
+1551,Intrahepatic bile ducts
+1552,Liver not specified as primary or secondary
+1560,Gallbladder
+1561,Extrahepatic bile ducts
+1562,Ampulla of Vater
+1568,Other specified sites of gallbladder and extrahepatic bile ducts
+1569,Biliary tract part unspecified
+1570,Head of pancreas
+1571,Body of pancreas
+1572,Tail of pancreas
+1573,Pancreatic duct
+1574,Islets of Langerhans
+1578,Other specified sites of pancreas
+1579,Pancreas part unspecified
+1580,Retroperitoneum
+1588,Specified parts of peritoneum
+1589,Peritoneum unspecified
+1590,Intestinal tract part unspecified
+1591,Spleen not elsewhere classified
+1598,Other sites of digestive system and intra-abdominal organs
+1599,Ill-defined
+1600,Nasal cavities
+1601,Auditory tube middle ear and mastoid air cells
+1602,Maxillary sinus
+1603,Ethmoidal sinus
+1604,Frontal sinus
+1605,Sphenoidal sinus
+1608,Other
+1609,Accessory sinus unspecified
+1610,Glottis
+1611,Supraglottis
+1612,Subglottis
+1613,Laryngeal cartilages
+1618,Other specified sites of larynx
+1619,Larynx unspecified
+1620,Trachea
+1622,Main bronchus
+1623,Upper lobe bronchus or lung
+1624,Middle lobe bronchus or lung
+1625,Lower lobe bronchus or lung
+1628,Other parts of bronchus or lung
+1629,Bronchus and lung unspecified
+1630,Parietal pleura
+1631,Visceral pleura
+1638,Other specified sites of pleura
+1639,Pleura unspecified
+1640,Thymus
+1641,Heart
+1642,Anterior mediastinum
+1643,Posterior mediastinum
+1648,Other
+1649,Mediastinum part unspecified
+1650,Upper respiratory tract part unspecified
+1658,Other
+1659,Ill-defined sites within the respiratory system
+1700,Bones of skull and face except mandible
+1701,Mandible
+1702,Vertebral column excluding sacrum and coccyx
+1703,Ribs sternum and clavicle
+1704,Scapula and long bones of upper limb
+1705,Short bones of upper limb
+1706,Pelvic bones sacrum and coccyx
+1707,Long bones of lower limb
+1708,Short bones of lower limb
+1709,Bone and articular cartilage site unspecified
+1710,Head face and neck
+1712,Upper limb including shoulder
+1713,Lower limb including hip
+1714,Thorax
+1715,Abdomen
+1716,Pelvis
+1717,Trunk unspecified
+1718,Other specified sites of connective and other soft tissue
+1719,Connective and other soft tissue site unspecified
+1720,Lip
+1721,Eyelid including canthus
+1722,Ear and external auditory canal
+1723,Other and unspecified parts of face
+1724,Scalp and neck
+1725,Trunk except scrotum
+1726,Upper limb including shoulder
+1727,Lower limb including hip
+1728,Other specified sites of skin
+1729,Melanoma of skin site unspecified
+1730,Other and unspecified malignant neoplasm of skin of lip
+1730,Unspecified malignant neoplasm of skin of lip
+1730,Basal cell carcinoma of skin of lip
+1730,Squamous cell carcinoma of skin of lip
+1730,Other specified malignant neoplasm of skin of lip
+1731,Other and unspecified malignant neoplasm of eyelid including canthus
+1731,Unspecified malignant neoplasm of eyelid including canthus
+1731,Basal cell carcinoma of eyelid including canthus
+1731,Squamous cell carcinoma of eyelid including canthus
+1731,Other specified malignant neoplasm of eyelid including canthus
+1732,Other and unspecified malignant neoplasm of skin of ear and external auditory canal
+1732,Unspecified malignant neoplasm of skin of ear and external auditory canal
+1732,Basal cell carcinoma of skin of ear and external auditory canal
+1732,Squamous cell carcinoma of skin of ear and external auditory canal
+1732,Other specified malignant neoplasm of skin of ear and external auditory canal
+1733,Other and unspecified malignant neoplasm of skin of other and unspecified parts of face
+1733,Unspecified malignant neoplasm of skin of other and unspecified parts of face
+1733,Basal cell carcinoma of skin of other and unspecified parts of face
+1733,Squamous cell carcinoma of skin of other and unspecified parts of face
+1733,Other specified malignant neoplasm of skin of other and unspecified parts of face
+1734,Other and unspecified malignant neoplasm of scalp and skin of neck
+1734,Unspecified malignant neoplasm of scalp and skin of neck
+1734,Basal cell carcinoma of scalp and skin of neck
+1734,Squamous cell carcinoma of scalp and skin of neck
+1734,Other specified malignant neoplasm of scalp and skin of neck
+1735,Other and unspecified malignant neoplasm of skin of trunk except scrotum
+1735,Unspecified malignant neoplasm of skin of trunk except scrotum
+1735,Basal cell carcinoma of skin of trunk except scrotum
+1735,Squamous cell carcinoma of skin of trunk except scrotum
+1735,Other specified malignant neoplasm of skin of trunk except scrotum
+1736,Other and unspecified malignant neoplasm of skin of upper limb including shoulder
+1736,Unspecified malignant neoplasm of skin of upper limb including shoulder
+1736,Basal cell carcinoma of skin of upper limb including shoulder
+1736,Squamous cell carcinoma of skin of upper limb including shoulder
+1736,Other specified malignant neoplasm of skin of upper limb including shoulder
+1737,Other and unspecified malignant neoplasm of skin of lower limb including hip
+1737,Unspecified malignant neoplasm of skin of lower limb including hip
+1737,Basal cell carcinoma of skin of lower limb including hip
+1737,Squamous cell carcinoma of skin of lower limb including hip
+1737,Other specified malignant neoplasm of skin of lower limb including hip
+1738,Other and unspecified malignant neoplasm of other specified sites of skin
+1738,Unspecified malignant neoplasm of other specified sites of skin
+1738,Basal cell carcinoma of other specified sites of skin
+1738,Squamous cell carcinoma of other specified sites of skin
+1738,Other specified malignant neoplasm of other specified sites of skin
+1739,Other and unspecified malignant neoplasm of skin site unspecified
+1739,Unspecified malignant neoplasm of skin site unspecified
+1739,Basal cell carcinoma of skin site unspecified
+1739,Squamous cell carcinoma of skin site unspecified
+1739,Other specified malignant neoplasm of skin site unspecified
+1740,Nipple and areola
+1741,Central portion
+1742,Upper-inner quadrant
+1743,Lower-inner quadrant
+1744,Upper-outer quadrant
+1745,Lower-outer quadrant
+1746,Axillary tail
+1748,Other specified sites of female breast
+1749,Breast (female) unspecified
+1750,Nipple and areola
+1759,Other and unspecified sites of male breast
+1760,Skin
+1761,Soft tissue
+1762,Palate
+1763,Gastrointestinal sites
+1764,Lung
+1765,Lymph nodes
+1768,Other specified sites
+1769,Unspecified
+1800,Endocervix
+1801,Exocervix
+1808,Other specified sites of cervix
+1809,Cervix uteri unspecified
+1820,Corpus uteri except isthmus
+1821,Isthmus
+1828,Other specified sites of body of uterus
+1830,Ovary
+1832,Fallopian tube
+1833,Broad ligament
+1834,Parametrium
+1835,Round ligament
+1838,Other specified sites of uterine adnexa
+1839,Uterine adnexa unspecified
+1840,Vagina
+1841,Labia majora
+1842,Labia minora
+1843,Clitoris
+1844,Vulva unspecified
+1848,Other specified sites of female genital organs
+1849,Female genital organ site unspecified
+1860,Undescended testis
+1869,Other and unspecified testis
+1871,Prepuce
+1872,Glans penis
+1873,Body of penis
+1874,Penis part unspecified
+1875,Epididymis
+1876,Spermatic cord
+1877,Scrotum
+1878,Other specified sites of male genital organs
+1879,Male genital organ site unspecified
+1880,Trigone of urinary bladder
+1881,Dome of urinary bladder
+1882,Lateral wall of urinary bladder
+1883,Anterior wall of urinary bladder
+1884,Posterior wall of urinary bladder
+1885,Bladder neck
+1886,Ureteric orifice
+1887,Urachus
+1888,Other specified sites of bladder
+1889,Bladder part unspecified
+1890,Kidney except pelvis
+1891,Renal pelvis
+1892,Ureter
+1893,Urethra
+1894,Paraurethral glands
+1898,Other specified sites of urinary organs
+1899,Urinary organ site unspecified
+1900,Eyeball except conjunctiva cornea retina and choroid
+1901,Orbit
+1902,Lacrimal gland
+1903,Conjunctiva
+1904,Cornea
+1905,Retina
+1906,Choroid
+1907,Lacrimal duct
+1908,Other specified sites of eye
+1909,Eye part unspecified
+1910,Cerebrum except lobes and ventricles
+1911,Frontal lobe
+1912,Temporal lobe
+1913,Parietal lobe
+1914,Occipital lobe
+1915,Ventricles
+1916,Cerebellum NOS
+1917,Brain stem
+1918,Other parts of brain
+1919,Brain unspecified
+1920,Cranial nerves
+1921,Cerebral meninges
+1922,Spinal cord
+1923,Spinal meninges
+1928,Other specified sites of nervous system
+1929,Nervous system part unspecified
+1940,Adrenal gland
+1941,Parathyroid gland
+1943,Pituitary gland and craniopharyngeal duct
+1944,Pineal gland
+1945,Carotid body
+1946,Aortic body and other paraganglia
+1948,Other
+1949,Endocrine gland site unspecified
+1950,Head face and neck
+1951,Thorax
+1952,Abdomen
+1953,Pelvis
+1954,Upper limb
+1955,Lower limb
+1958,Other specified sites
+1960,Lymph nodes of head face and neck
+1961,Intrathoracic lymph nodes
+1962,Intra-abdominal lymph nodes
+1963,Lymph nodes of axilla and upper limb
+1965,Lymph nodes of inguinal region and lower limb
+1966,Intrapelvic lymph nodes
+1968,Lymph nodes of multiple sites
+1969,Site unspecified
+1970,Lung
+1971,Mediastinum
+1972,Pleura
+1973,Other respiratory organs
+1974,Small intestine including duodenum
+1975,Large intestine and rectum
+1976,Retroperitoneum and peritoneum
+1977,Liver specified as secondary
+1978,Other digestive organs and spleen
+1980,Kidney
+1981,Other urinary organs
+1982,Skin
+1983,Brain and spinal cord
+1984,Other parts of nervous system
+1985,Bone and bone marrow
+1986,Ovary
+1987,Adrenal gland
+1988,Other specified sites
+1988,Breast
+1988,Genital organs
+1988,Other
+1990,Disseminated
+1991,Other
+1992,Malignant neoplasm associated with transplanted organ
+2000,Reticulosarcoma
+2001,Lymphosarcoma
+2002,Burkitt's tumor or lymphoma
+2003,Marginal zone lymphoma
+2004,Mantle cell lymphoma
+2005,Primary central nervous system lymphoma
+2006,Anaplastic large cell lymphoma
+2007,Large cell lymphoma
+2008,Other named variants
+2010,Hodgkin's paragranuloma
+2011,Hodgkin's granuloma
+2012,Hodgkin's sarcoma
+2014,Lymphocytic-histiocytic predominance
+2015,Nodular sclerosis
+2016,Mixed cellularity
+2017,Lymphocytic depletion
+2019,Hodgkin's disease unspecified
+2020,Nodular lymphoma
+2021,Mycosis fungoides
+2022,Sézary's disease
+2023,Malignant histiocytosis
+2024,Leukemic reticuloendotheliosis
+2025,Letterer-Siwe disease
+2026,Malignant mast cell tumors
+2027,Peripheral T cell lymphoma
+2028,Other lymphomas
+2029,Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue
+2030,Multiple myeloma
+2031,Plasma cell leukemia
+2038,Other immunoproliferative neoplasms
+2040,Acute
+2041,Chronic
+2042,Subacute
+2048,Other lymphoid leukemia
+2049,Unspecified lymphoid leukemia
+2050,Acute
+2051,Chronic
+2052,Subacute
+2053,Myeloid sarcoma
+2058,Other myeloid leukemia
+2059,Unspecified myeloid leukemia
+2060,Acute
+2061,Chronic
+2062,Subacute
+2068,Other monocytic leukemia
+2069,Unspecified monocytic leukemia
+2070,Acute erythremia and erythroleukemia
+2071,Chronic erythremia
+2072,Megakaryocytic leukemia
+2078,Other specified leukemia
+2080,Acute
+2081,Chronic
+2082,Subacute
+2088,Other leukemia of unspecified cell type
+2089,Unspecified leukemia
+2090,Malignant carcinoid tumors of the small intestine
+2090,Malignant carcinoid tumor of the small intestine unspecified portion
+2090,Malignant carcinoid tumor of the duodenum
+2090,Malignant carcinoid tumor of the jejunum
+2090,Malignant carcinoid tumor of the ileum
+2091,Malignant carcinoid tumors of the appendix large intestine and rectum
+2091,Malignant carcinoid tumor of the large intestine unspecified portion
+2091,Malignant carcinoid tumor of the appendix
+2091,Malignant carcinoid tumor of the cecum
+2091,Malignant carcinoid tumor of the ascending colon
+2091,Malignant carcinoid tumor of the transverse colon
+2091,Malignant carcinoid tumor of the descending colon
+2091,Malignant carcinoid tumor of the sigmoid colon
+2091,Malignant carcinoid tumor of the rectum
+2092,Malignant carcinoid tumors of other and unspecified sites
+2092,Malignant carcinoid tumor of unknown primary site
+2092,Malignant carcinoid tumor of the bronchus and lung
+2092,Malignant carcinoid tumor of the thymus
+2092,Malignant carcinoid tumor of the stomach
+2092,Malignant carcinoid tumor of the kidney
+2092,Malignant carcinoid tumor of the foregut NOS
+2092,Malignant carcinoid tumor of the midgut NOS
+2092,Malignant carcinoid tumor of the hindgut NOS
+2092,Malignant carcinoid tumors of other sites
+2093,Malignant poorly differentiated neuroendocrine tumors
+2093,Malignant poorly differentiated neuroendocrine carcinoma any site
+2093,Merkel cell carcinoma of the face
+2093,Merkel cell carcinoma of the scalp and neck
+2093,Merkel cell carcinoma of the upper limb
+2093,Merkel cell carcinoma of the lower limb
+2093,Merkel cell carcinoma of the trunk
+2093,Merkel cell carcinoma of other sites
+2094,Benign carcinoid tumors of the small intestine
+2094,Benign carcinoid tumor of the small intestine unspecified portion
+2094,Benign carcinoid tumor of the duodenum
+2094,Benign carcinoid tumor of the jejunum
+2094,Benign carcinoid tumor of the ileum
+2095,Benign carcinoid tumors of the appendix large intestine and rectum
+2095,Benign carcinoid tumor of the large intestine unspecified portion
+2095,Benign carcinoid tumor of the appendix
+2095,Benign carcinoid tumor of the cecum
+2095,Benign carcinoid tumor of the ascending colon
+2095,Benign carcinoid tumor of the transverse colon
+2095,Benign carcinoid tumor of the descending colon
+2095,Benign carcinoid tumor of the sigmoid colon
+2095,Benign carcinoid tumor of the rectum
+2096,Benign carcinoid tumors of other and unspecified sites
+2096,Benign carcinoid tumor of unknown primary site
+2096,Benign carcinoid tumor of the bronchus and lung
+2096,Benign carcinoid tumor of the thymus
+2096,Benign carcinoid tumor of the stomach
+2096,Benign carcinoid tumor of the kidney
+2096,Benign carcinoid tumor of the foregut NOS
+2096,Benign carcinoid tumor of the midgut NOS
+2096,Benign carcinoid tumor of the hindgut NOS
+2096,Benign carcinoid tumors of other sites
+2097,Secondary neuroendocrine tumors
+2097,Secondary neuroendocrine tumor unspecified site
+2097,Secondary neuroendocrine tumor of distant lymph nodes
+2097,Secondary neuroendocrine tumor of liver
+2097,Secondary neuroendocrine tumor of bone
+2097,Secondary neuroendocrine tumor of peritoneum
+2097,Secondary Merkel cell carcinoma
+2097,Secondary neuroendocrine tumor of other sites
+2100,Lip
+2101,Tongue
+2102,Major salivary glands
+2103,Floor of mouth
+2104,Other and unspecified parts of mouth
+2105,Tonsil
+2106,Other parts of oropharynx
+2107,Nasopharynx
+2108,Hypopharynx
+2110,Esophagus
+2111,Stomach
+2112,Duodenum jejunum and ileum
+2113,Colon
+2114,Rectum and anal canal
+2115,Liver and biliary passages
+2116,Pancreas except islets of Langerhans
+2117,Islets of Langerhans
+2118,Retroperitoneum and peritoneum
+2119,Other and unspecified site
+2120,Nasal cavities middle ear and accessory sinuses
+2121,Larynx
+2122,Trachea
+2123,Bronchus and lung
+2124,Pleura
+2125,Mediastinum
+2126,Thymus
+2127,Heart
+2128,Other specified sites
+2129,Site unspecified
+2130,Bones of skull and face
+2131,Lower jaw bone
+2132,Vertebral column excluding sacrum and coccyx
+2133,Ribs sternum and clavicle
+2134,Scapula and long bones of upper limb
+2135,Short bones of upper limb
+2136,Pelvic bones sacrum and coccyx
+2137,Long bones of lower limb
+2138,Short bones of lower limb
+2139,Bone and articular cartilage site unspecified
+2140,Skin and subcutaneous tissue of face
+2141,Other skin and subcutaneous tissue
+2142,Intrathoracic organs
+2143,Intra-abdominal organs
+2144,Spermatic cord
+2148,Other specified sites
+2149,Lipoma unspecified site
+2150,Head face and neck
+2152,Upper limb including shoulder
+2153,Lower limb including hip
+2154,Thorax
+2155,Abdomen
+2156,Pelvis
+2157,Trunk unspecified
+2158,Other specified sites
+2159,Site unspecified
+2160,Skin of lip
+2161,Eyelid including canthus
+2162,Ear and external auditory canal
+2163,Skin of other and unspecified parts of face
+2164,Scalp and skin of neck
+2165,Skin of trunk except scrotum
+2166,Skin of upper limb including shoulder
+2167,Skin of lower limb including hip
+2168,Other specified sites of skin
+2169,Skin site unspecified
+2180,Submucous leiomyoma of uterus
+2181,Intramural leiomyoma of uterus
+2182,Subserous leiomyoma of uterus
+2189,Leiomyoma of uterus unspecified
+2190,Cervix uteri
+2191,Corpus uteri
+2198,Other specified parts of uterus
+2199,Uterus part unspecified
+2210,Fallopian tube and uterine ligaments
+2211,Vagina
+2212,Vulva
+2218,Other specified sites of female genital organs
+2219,Female genital organ site unspecified
+2220,Testis
+2221,Penis
+2222,Prostate
+2223,Epididymis
+2224,Scrotum
+2228,Other specified sites of male genital organs
+2229,Male genital organ site unspecified
+2230,Kidney except pelvis
+2231,Renal pelvis
+2232,Ureter
+2233,Bladder
+2238,Other specified sites of urinary organs
+2238,Urethra
+2238,Other
+2239,Urinary organ site unspecified
+2240,Eyeball except conjunctiva cornea retina and choroid
+2241,Orbit
+2242,Lacrimal gland
+2243,Conjunctiva
+2244,Cornea
+2245,Retina
+2246,Choroid
+2247,Lacrimal duct
+2248,Other specified parts of eye
+2249,Eye part unspecified
+2250,Brain
+2251,Cranial nerves
+2252,Cerebral meninges
+2253,Spinal cord
+2254,Spinal meninges
+2258,Other specified sites of nervous system
+2259,Nervous system part unspecified
+2270,Adrenal gland
+2271,Parathyroid gland
+2273,Pituitary gland and craniopharyngeal duct (pouch)
+2274,Pineal gland
+2275,Carotid body
+2276,Aortic body and other paraganglia
+2278,Other
+2279,Endocrine gland site unspecified
+2280,Hemangioma any site
+2280,Of unspecified site
+2280,Of skin and subcutaneous tissue
+2280,Of intracranial structures
+2280,Of retina
+2280,Of intra-abdominal structures
+2280,Of other sites
+2281,Lymphangioma any site
+2290,Lymph nodes
+2298,Other specified sites
+2299,Site unspecified
+2300,Lip oral cavity and pharynx
+2301,Esophagus
+2302,Stomach
+2303,Colon
+2304,Rectum
+2305,Anal canal
+2306,Anus unspecified
+2307,Other and unspecified parts of intestine
+2308,Liver and biliary system
+2309,Other and unspecified digestive organs
+2310,Larynx
+2311,Trachea
+2312,Bronchus and lung
+2318,Other specified parts of respiratory system
+2319,Respiratory system part unspecified
+2320,Skin of lip
+2321,Eyelid including canthus
+2322,Ear and external auditory canal
+2323,Skin of other and unspecified parts of face
+2324,Scalp and skin of neck
+2325,Skin of trunk except scrotum
+2326,Skin of upper limb including shoulder
+2327,Skin of lower limb including hip
+2328,Other specified sites of skin
+2329,Skin site unspecified
+2330,Breast
+2331,Cervix uteri
+2332,Other and unspecified parts of uterus
+2333,Other and unspecified female genital organs
+2333,Unspecified female genital organ
+2333,Vagina 
+2333,Vulva
+2333,Other female genital organ
+2334,Prostate
+2335,Penis
+2336,Other and unspecified male genital organs
+2337,Bladder
+2339,Other and unspecified urinary organs
+2340,Eye
+2348,Other specified sites
+2349,Site unspecified
+2350,Major salivary glands
+2351,Lip oral cavity and pharynx
+2352,Stomach intestines and rectum
+2353,Liver and biliary passages
+2354,Retroperitoneum and peritoneum
+2355,Other and unspecified digestive organs
+2356,Larynx
+2357,Trachea bronchus and lung
+2358,Pleura thymus and mediastinum
+2359,Other and unspecified respiratory organs
+2360,Uterus
+2361,Placenta
+2362,Ovary
+2363,Other and unspecified female genital organs
+2364,Testis
+2365,Prostate
+2366,Other and unspecified male genital organs
+2367,Bladder
+2369,Other and unspecified urinary organs
+2369,Urinary organ unspecified
+2369,Kidney and ureter
+2369,Other
+2370,Pituitary gland and craniopharyngeal duct
+2371,Pineal gland
+2372,Adrenal gland
+2373,Paraganglia
+2374,Other and unspecified endocrine glands
+2375,Brain and spinal cord
+2376,Meninges
+2377,Neurofibromatosis
+2377,Neurofibromatosis unspecified
+2377,Neurofibromatosis type 1 [von Recklinghausen's disease]
+2377,Neurofibromatosis type 2 [acoustic neurofibromatosis]
+2377,Schwannomatosis
+2377,Other neurofibromatosis
+2379,Other and unspecified parts of nervous system
+2380,Bone and articular cartilage
+2381,Connective and other soft tissue
+2382,Skin
+2384,Polycythemia vera
+2385,Histiocytic and mast cells
+2386,Plasma cells
+2387,Other lymphatic and hematopoietic tissues
+2387,Essential thrombocythemia
+2387,Low grade myelodysplastic syndrome lesions
+2387,High grade myelodysplastic syndrome lesions
+2387,Myelodysplastic syndrome with 5q deletion
+2387,Myelodysplastic syndrome unspecified
+2387,Myelofibrosis with myeloid metaplasia
+2387,Post-transplant lymphoproliferative disorder (PTLD)
+2387,Other lymphatic and hematopoietic tissues
+2388,Other specified sites
+2389,Site unspecified
+2390,Digestive system
+2391,Respiratory system
+2392,Bone soft tissue and skin
+2393,Breast
+2394,Bladder
+2395,Other genitourinary organs
+2396,Brain
+2397,Endocrine glands and other parts of nervous system
+2398,Other specified sites
+2399,Site unspecified

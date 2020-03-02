@@ -1,0 +1,225 @@
+code,description
+71930,"Palindromic rheumatism, site unspecified"
+71931,"Palindromic rheumatism, shoulder region"
+71932,"Palindromic rheumatism, upper arm"
+71933,"Palindromic rheumatism, forearm"
+71934,"Palindromic rheumatism, hand"
+71935,"Palindromic rheumatism, pelvic region and thigh"
+71936,"Palindromic rheumatism, lower leg"
+71937,"Palindromic rheumatism, ankle and foot"
+71938,"Palindromic rheumatism, other specified sites"
+71939,"Palindromic rheumatism, multiple sites"
+71940,"Pain in joint, site unspecified"
+71941,"Pain in joint, shoulder region"
+71942,"Pain in joint, upper arm"
+71943,"Pain in joint, forearm"
+71944,"Pain in joint, hand"
+71945,"Pain in joint, pelvic region and thigh"
+71946,"Pain in joint, lower leg"
+71947,"Pain in joint, ankle and foot"
+71948,"Pain in joint, other specified sites"
+71949,"Pain in joint, multiple sites"
+7290,"Rheumatism, unspecified and fibrositis"
+7176,Loose body in knee
+71785,Old disruption of other ligaments of knee
+71789,Other internal derangement of knee
+7179,Unspecified internal derangement of knee
+72660,"Enthesopathy of knee, unspecified"
+72661,Pes anserinus tendinitis or bursitis
+72662,Tibial collateral ligament bursitis
+72663,Fibular collateral ligament bursitis
+72664,Patellar tendinitis
+72665,Prepatellar bursitis
+72669,Other enthesopathy of knee
+72766,Nontraumatic rupture of patellar tendon
+72931,"Hypertrophy of fat pad, knee"
+7366,Other acquired deformities of knee
+75441,Congenital dislocation of knee (with genu recurvatum)
+75564,Congenital deformity of knee (joint)
+8360,"Tear of medial cartilage or meniscus of knee, current"
+8361,"Tear of lateral cartilage or meniscus of knee, current"
+8362,"Other tear of cartilage or meniscus of knee, current"
+8363,"Dislocation of patella, closed"
+8364,"Dislocation of patella, open"
+83650,"Dislocation of knee, unspecified, closed"
+83651,"Anterior dislocation of tibia, proximal end, closed"
+83652,"Posterior dislocation of tibia, proximal end, closed"
+83653,"Medial dislocation of tibia, proximal end, closed"
+83654,"Lateral dislocation of tibia, proximal end, closed"
+83659,"Other dislocation of knee, closed"
+83660,"Dislocation of knee, unspecified, open"
+83661,"Anterior dislocation of tibia, proximal end, open"
+83662,"Posterior dislocation of tibia, proximal end, open"
+83663,"Medial dislocation of tibia, proximal end, open"
+83664,"Lateral dislocation of tibia, proximal end, open"
+83669,"Other dislocation of knee, open"
+8440,Sprain of lateral collateral ligament of knee
+8441,Sprain of medial collateral ligament of knee
+8442,Sprain of cruciate ligament of knee
+8443,"Sprain of tibiofibular (joint) (ligament) superior, of knee"
+8448,Sprains and strains of other specified sites of knee and leg
+8449,Sprains and strains of unspecified site of knee and leg
+8910,"Open wound of knee, leg [except thigh], and ankle, without mention of complication"
+8911,"Open wound of knee, leg [except thigh], and ankle, complicated"
+8912,"Open wound of knee, leg [except thigh], and ankle, with tendon involvement"
+8970,"Traumatic amputation of leg(s) (complete) (partial), unilateral, below knee, without mention of complication"
+8971,"Traumatic amputation of leg(s) (complete) (partial), unilateral, below knee, complicated"
+8972,"Traumatic amputation of leg(s) (complete) (partial), unilateral, at or above knee, without mention of complication"
+8973,"Traumatic amputation of leg(s) (complete) (partial), unilateral, at or above knee, complicated"
+92411,Contusion of knee
+92811,Crushing injury of knee
+94505,Burn of unspecified degree of knee
+94515,Erythema [first degree] of knee
+94525,"Blisters, epidermal loss [second degree] of knee"
+94535,Full-thickness skin loss [third degree NOS] of knee
+94545,"Deep necrosis of underlying tissues [deep third degree] without mention of loss of a body part, of knee"
+94555,"Deep necrosis of underlying tissues [deep third degree] with loss of a body part, of knee"
+9597,"Knee, leg, ankle, and foot injury"
+V4365,Knee joint replacement
+V4975,Below knee amputation status
+V4976,Above knee amputation status
+V8822,Acquired absence of knee joint
+7200,Ankylosing spondylitis
+7201,Spinal enthesopathy
+7202,"Sacroiliitis, not elsewhere classified"
+72081,Inflammatory spondylopathies in diseases classified elsewhere
+72089,Other inflammatory spondylopathies
+7209,Unspecified inflammatory spondylopathy
+7213,Lumbosacral spondylosis without myelopathy
+72141,"Spondylosis with myelopathy, thoracic region"
+72142,"Spondylosis with myelopathy, lumbar region"
+7215,Kissing spine
+7216,Ankylosing vertebral hyperostosis
+7217,Traumatic spondylopathy
+7212,Thoracic spondylosis without myelopathy
+72190,"Spondylosis of unspecified site, without mention of myelopathy"
+72191,"Spondylosis of unspecified site, with myelopathy"
+72251,Degeneration of thoracic or thoracolumbar intervertebral disc
+72252,Degeneration of lumbar or lumbosacral intervertebral disc
+7226,"Degeneration of intervertebral disc, site unspecified"
+72270,"Intervertebral disc disorder with myelopathy, unspecified region"
+72271,"Intervertebral disc disorder with myelopathy, cervical region"
+72272,"Intervertebral disc disorder with myelopathy, thoracic region"
+72273,"Intervertebral disc disorder with myelopathy, lumbar region"
+72280,"Postlaminectomy syndrome, unspecified region"
+72282,"Postlaminectomy syndrome, thoracic region"
+72283,"Postlaminectomy syndrome, lumbar region"
+72290,"Other and unspecified disc disorder, unspecified region"
+72291,"Other and unspecified disc disorder, cervical region"
+72292,"Other and unspecified disc disorder, thoracic region"
+72293,"Other and unspecified disc disorder, lumbar region"
+72400,"Spinal stenosis, unspecified region"
+72401,"Spinal stenosis, thoracic region"
+72402,"Spinal stenosis, lumbar region, without neurogenic claudication"
+72403,"Spinal stenosis, lumbar region, with neurogenic claudication"
+72409,"Spinal stenosis, other region"
+7241,Pain in thoracic spine
+7242,Lumbago
+7243,Sciatica
+7244,"Thoracic or lumbosacral neuritis or radiculitis, unspecified"
+7245,"Backache, unspecified"
+95210,T1-T6 level with unspecified spinal cord injury
+95211,T1-T6 level with complete lesion of spinal cord
+95212,T1-T6 level with anterior cord syndrome
+95213,T1-T6 level with central cord syndrome
+95214,T1-T6 level with other specified spinal cord injury
+95215,T7-T12 level with unspecified spinal cord injury
+95216,T7-T12 level with complete lesion of spinal cord
+95217,T7-T12 level with anterior cord syndrome
+95218,T7-T12 level with central cord syndrome
+95219,T7-T12 level with other specified spinal cord injury
+9522,Lumbar spinal cord injury without evidence of spinal bone injury
+9523,Sacral spinal cord injury without evidence of spinal bone injury
+9524,Cauda equina spinal cord injury without evidence of spinal bone injury
+9528,Multiple sites of spinal cord injury without evidence of spinal bone injury
+9529,Unspecified site of spinal cord injury without evidence of spinal bone injury
+9532,Injury to lumbar nerve root
+9533,Injury to sacral nerve root
+9534,Injury to brachial plexus
+9535,Injury to lumbosacral plexus
+9538,Injury to multiple sites of nerve roots and spinal plexus
+9539,Injury to unspecified site of nerve roots and spinal plexus
+9560,Injury to sciatic nerve
+9561,Injury to femoral nerve
+7210,Cervical spondylosis without myelopathy
+7211,Cervical spondylosis with myelopathy
+7224,Degeneration of cervical intervertebral disc
+72281,"Postlaminectomy syndrome, cervical region"
+7230,Spinal stenosis in cervical region
+7231,Cervicalgia
+7232,Cervicocranial syndrome
+7233,Cervicobrachial syndrome (diffuse)
+7234,Brachial neuritis or radiculitis NOS
+7235,"Torticollis, unspecified"
+7236,Panniculitis specified as affecting neck
+7237,Ossification of posterior longitudinal ligament in cervical region
+7238,Other syndromes affecting cervical region
+7239,Unspecified musculoskeletal disorders and symptoms referable to neck
+95200,C1-C4 level with unspecified spinal cord injury
+95201,C1-C4 level with complete lesion of spinal cord
+95202,C1-C4 level with anterior cord syndrome
+95203,C1-C4 level with central cord syndrome
+95204,C1-C4 level with other specified spinal cord injury
+95205,C5-C7 level with unspecified spinal cord injury
+95206,C5-C7 level with complete lesion of spinal cord
+95207,C5-C7 level with anterior cord syndrome
+95208,C5-C7 level with central cord syndrome
+95209,C5-C7 level with other specified spinal cord injury
+9530,Injury to cervical nerve root
+9531,Injury to dorsal nerve root
+9540,"Injury to cervical sympathetic nerve, excluding shoulder and pelvic girdles"
+9541,"Injury to other sympathetic nerve, excluding shoulder and pelvic girdles"
+71500,"Osteoarthrosis, generalized, site unspecified"
+71504,"Osteoarthrosis, generalized, hand"
+71509,"Osteoarthrosis, generalized, multiple sites"
+71510,"Osteoarthrosis, localized, primary, site unspecified"
+71511,"Osteoarthrosis, localized, primary, shoulder region"
+71512,"Osteoarthrosis, localized, primary, upper arm"
+71513,"Osteoarthrosis, localized, primary, forearm"
+71514,"Osteoarthrosis, localized, primary, hand"
+71515,"Osteoarthrosis, localized, primary, pelvic region and thigh"
+71516,"Osteoarthrosis, localized, primary, lower leg"
+71517,"Osteoarthrosis, localized, primary, ankle and foot"
+71518,"Osteoarthrosis, localized, primary, other specified sites"
+71520,"Osteoarthrosis, localized, secondary, site unspecified"
+71521,"Osteoarthrosis, localized, secondary, shoulder region"
+71522,"Osteoarthrosis, localized, secondary, upper arm"
+71523,"Osteoarthrosis, localized, secondary, forearm"
+71524,"Osteoarthrosis, localized, secondary, hand"
+71525,"Osteoarthrosis, localized, secondary, pelvic region and thigh"
+71526,"Osteoarthrosis, localized, secondary, lower leg"
+71527,"Osteoarthrosis, localized, secondary, ankle and foot"
+71528,"Osteoarthrosis, localized, secondary, other specified sites"
+71530,"Osteoarthrosis, localized, not specified whether primary or secondary, site unspecified"
+71531,"Osteoarthrosis, localized, not specified whether primary or secondary, shoulder region"
+71532,"Osteoarthrosis, localized, not specified whether primary or secondary, upper arm"
+71533,"Osteoarthrosis, localized, not specified whether primary or secondary, forearm"
+71534,"Osteoarthrosis, localized, not specified whether primary or secondary, hand"
+71535,"Osteoarthrosis, localized, not specified whether primary or secondary, pelvic region and thigh"
+71536,"Osteoarthrosis, localized, not specified whether primary or secondary, lower leg"
+71537,"Osteoarthrosis, localized, not specified whether primary or secondary, ankle and foot"
+71538,"Osteoarthrosis, localized, not specified whether primary or secondary, other specified sites"
+71580,"Osteoarthrosis involving, or with mention of more than one site, but not specified as generalized, site unspecified"
+71589,"Osteoarthrosis involving, or with mention of more than one site, but not specified as generalized, multiple sites"
+71590,"Osteoarthrosis, unspecified whether generalized or localized, site unspecified"
+71591,"Osteoarthrosis, unspecified whether generalized or localized, shoulder region"
+71592,"Osteoarthrosis, unspecified whether generalized or localized, upper arm"
+71593,"Osteoarthrosis, unspecified whether generalized or localized, forearm"
+71594,"Osteoarthrosis, unspecified whether generalized or localized, hand"
+71595,"Osteoarthrosis, unspecified whether generalized or localized, pelvic region and thigh"
+71596,"Osteoarthrosis, unspecified whether generalized or localized, lower leg"
+71597,"Osteoarthrosis, unspecified whether generalized or localized, ankle and foot"
+71598,"Osteoarthrosis, unspecified whether generalized or localized, other specified sites"
+7312,Hypertrophic pulmonary osteoarthropathy
+7210,Cervical spondylosis without myelopathy
+7211,Cervical spondylosis with myelopathy
+7212,Thoracic spondylosis without myelopathy
+7213,Lumbosacral spondylosis without myelopathy
+72141,"Spondylosis with myelopathy, thoracic region"
+72142,"Spondylosis with myelopathy, lumbar region"
+7215,Kissing spine
+7216,Ankylosing vertebral hyperostosis
+7217,Traumatic spondylopathy
+7218,Other allied disorders of spine
+72190,"Spondylosis of unspecified site, without mention of myelopathy"
+72191,"Spondylosis of unspecified site, with myelopathy"

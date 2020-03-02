@@ -1,0 +1,153 @@
+code,condition
+20940,"Benign carcinoid tumor of the small intestine, unspecified portion"
+20941,Benign carcinoid tumor of the duodenum
+20942,Benign carcinoid tumor of the jejunum
+20943,Benign carcinoid tumor of the ileum
+20950,"Benign carcinoid tumor of the large intestine, unspecified portion"
+20951,Benign carcinoid tumor of the appendix
+20952,Benign carcinoid tumor of the cecum
+20953,Benign carcinoid tumor of the ascending colon
+20954,Benign carcinoid tumor of the transverse colon
+20955,Benign carcinoid tumor of the descending colon
+20956,Benign carcinoid tumor of the sigmoid colon
+20957,Benign carcinoid tumor of the rectum
+20960,Benign carcinoid tumor of unknown primary site
+20961,Benign carcinoid tumor of the bronchus and lung
+20962,Benign carcinoid tumor of the thymus
+20963,Benign carcinoid tumor of the stomach
+20964,Benign carcinoid tumor of the kidney
+20965,"Benign carcinoid tumor of foregut, not otherwise specified"
+20966,"Benign carcinoid tumor of midgut, not otherwise specified"
+20967,"Benign carcinoid tumor of hindgut, not otherwise specified"
+20969,Benign carcinoid tumor of other sites
+2100,Benign neoplasm of lip
+2101,Benign neoplasm of tongue
+2102,Benign neoplasm of major salivary glands
+2103,Benign neoplasm of floor of mouth
+2104,Benign neoplasm of other and unspecified parts of mouth
+2105,Benign neoplasm of tonsil
+2106,Benign neoplasm of other parts of oropharynx
+2107,Benign neoplasm of nasopharynx
+2108,Benign neoplasm of hypopharynx
+2109,"Benign neoplasm of pharynx, unspecified"
+2110,Benign neoplasm of esophagus
+2111,Benign neoplasm of stomach
+2112,"Benign neoplasm of duodenum, jejunum, and ileum"
+2113,Benign neoplasm of colon
+2114,Benign neoplasm of rectum and anal canal
+2115,Benign neoplasm of liver and biliary passages
+2116,"Benign neoplasm of pancreas, except islets of Langerhans"
+2117,Benign neoplasm of islets of Langerhans
+2118,Benign neoplasm of retroperitoneum and peritoneum
+2119,Benign neoplasm of other and unspecified site in the digestive system
+2120,"Benign neoplasm of nasal cavities, middle ear, and accessory sinuses"
+2121,Benign neoplasm of larynx
+2122,Benign neoplasm of trachea
+2123,Benign neoplasm of bronchus and lung
+2124,Benign neoplasm of pleura
+2125,Benign neoplasm of mediastinum
+2126,Benign neoplasm of thymus
+2127,Benign neoplasm of heart
+2128,Benign neoplasm of other specified sites of respiratory and intrathoracic organs
+2129,"Benign neoplasm of respiratory and intrathoracic organs, site unspecified"
+2130,Benign neoplasm of bones of skull and face
+2131,Benign neoplasm of lower jaw bone
+2132,"Benign neoplasm of vertebral column, excluding sacrum and coccyx"
+2133,"Benign neoplasm of ribs, sternum, and clavicle"
+2134,Benign neoplasm of scapula and long bones of upper limb
+2135,Benign neoplasm of short bones of upper limb
+2136,"Benign neoplasm of pelvic bones, sacrum, and coccyx"
+2137,Benign neoplasm of long bones of lower limb
+2138,Benign neoplasm of short bones of lower limb
+2139,"Benign neoplasm of bone and articular cartilage, site unspecified"
+2140,Lipoma of skin and subcutaneous tissue of face
+2141,Lipoma of other skin and subcutaneous tissue
+2142,Lipoma of intrathoracic organs
+2143,Lipoma of intra-abdominal organs
+2144,Lipoma of spermatic cord
+2148,Lipoma of other specified sites
+2149,"Lipoma, unspecified site"
+2150,"Other benign neoplasm of connective and other soft tissue of head, face, and neck"
+2152,"Other benign neoplasm of connective and other soft tissue of upper limb, including shoulder"
+2153,"Other benign neoplasm of connective and other soft tissue of lower limb, including hip"
+2154,Other benign neoplasm of connective and other soft tissue of thorax
+2155,Other benign neoplasm of connective and other soft tissue of abdomen
+2156,Other benign neoplasm of connective and other soft tissue of pelvis
+2157,"Other benign neoplasm of connective and other soft tissue of trunk, unspecified"
+2158,Other benign neoplasm of connective and other soft tissue of other specified sites
+2159,"Other benign neoplasm of connective and other soft tissue, site unspecified"
+2160,Benign neoplasm of skin of lip
+2161,"Benign neoplasm of eyelid, including canthus"
+2162,Benign neoplasm of ear and external auditory canal
+2163,Benign neoplasm of skin of other and unspecified parts of face
+2164,Benign neoplasm of scalp and skin of neck
+2165,"Benign neoplasm of skin of trunk, except scrotum"
+2166,"Benign neoplasm of skin of upper limb, including shoulder"
+2167,"Benign neoplasm of skin of lower limb, including hip"
+2168,Benign neoplasm of other specified sites of skin
+2169,"Benign neoplasm of skin, site unspecified"
+217,Benign neoplasm of breast
+2180,Submucous leiomyoma of uterus
+2181,Intramural leiomyoma of uterus
+2182,Subserous leiomyoma of uterus
+2189,"Leiomyoma of uterus, unspecified"
+2190,Benign neoplasm of cervix uteri
+2191,Benign neoplasm of corpus uteri
+2198,Benign neoplasm of other specified parts of uterus
+2199,"Benign neoplasm of uterus, part unspecified"
+220,Benign neoplasm of ovary
+2210,Benign neoplasm of fallopian tube and uterine ligaments
+2211,Benign neoplasm of vagina
+2212,Benign neoplasm of vulva
+2218,Benign neoplasm of other specified sites of female genital organs
+2219,"Benign neoplasm of female genital organ, site unspecified"
+2220,Benign neoplasm of testis
+2221,Benign neoplasm of penis
+2222,Benign neoplasm of prostate
+2223,Benign neoplasm of epididymis
+2224,Benign neoplasm of scrotum
+2228,Benign neoplasm of other specified sites of male genital organs
+2229,"Benign neoplasm of male genital organ, site unspecified"
+2230,"Benign neoplasm of kidney, except pelvis"
+2231,Benign neoplasm of renal pelvis
+2232,Benign neoplasm of ureter
+2233,Benign neoplasm of bladder
+22381,Benign neoplasm of urethra
+22389,Benign neoplasm of other specified sites of urinary organs
+2239,"Benign neoplasm of urinary organ, site unspecified"
+2240,"Benign neoplasm of eyeball, except conjunctiva, cornea, retina, and choroid"
+2241,Benign neoplasm of orbit
+2242,Benign neoplasm of lacrimal gland
+2243,Benign neoplasm of conjunctiva
+2244,Benign neoplasm of cornea
+2245,Benign neoplasm of retina
+2246,Benign neoplasm of choroid
+2247,Benign neoplasm of lacrimal duct
+2248,Benign neoplasm of other specified parts of eye
+2249,"Benign neoplasm of eye, part unspecified"
+2250,Benign neoplasm of brain
+2251,Benign neoplasm of cranial nerves
+2252,Benign neoplasm of cerebral meninges
+2253,Benign neoplasm of spinal cord
+2254,Benign neoplasm of spinal meninges
+2258,Benign neoplasm of other specified sites of nervous system
+2259,"Benign neoplasm of nervous system, part unspecified"
+226,Benign neoplasm of thyroid glands
+2270,Benign neoplasm of adrenal gland
+2271,Benign neoplasm of parathyroid gland
+2273,Benign neoplasm of pituitary gland and craniopharyngeal duct
+2274,Benign neoplasm of pineal gland
+2275,Benign neoplasm of carotid body
+2276,Benign neoplasm of aortic body and other paraganglia
+2278,Benign neoplasm of other endocrine glands and related structures
+2279,"Benign neoplasm of endocrine gland, site unspecified"
+22800,Hemangioma of unspecified site
+22801,Hemangioma of skin and subcutaneous tissue
+22802,Hemangioma of intracranial structures
+22803,Hemangioma of retina
+22804,Hemangioma of intra-abdominal structures
+22809,Hemangioma of other sites
+2281,"Lymphangioma, any site"
+2290,Benign neoplasm of lymph nodes
+2298,Benign neoplasm of other specified sites
+2299,Benign neoplasm of unspecified site

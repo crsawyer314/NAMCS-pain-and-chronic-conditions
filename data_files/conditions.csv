@@ -1,0 +1,2577 @@
+code,condition
+725,Polymyalgia rheumatica
+3371,Peripheral autonomic neuropathy in disorders classified elsewhere
+3373,Autonomic dysreflexia
+3379,Unspecified disorder of autonomic nervous system
+3380,Central pain syndrome
+3383,Neoplasm related pain (acute) (chronic)
+3384,Chronic pain syndrome
+3501,Trigeminal neuralgia
+3502,Atypical face pain
+3508,Other specified trigeminal nerve disorders
+3509,"Trigeminal nerve disorder, unspecified"
+3532,"Cervical root lesions, not elsewhere classified"
+3533,"Thoracic root lesions, not elsewhere classified"
+3534,"Lumbosacral root lesions, not elsewhere classified"
+3535,Neuralgic amyotrophy
+3536,Phantom limb (syndrome)
+3538,Other nerve root and plexus disorders
+3539,Unspecified nerve root and plexus disorder
+3540,Carpal tunnel syndrome
+3541,Other lesion of median nerve
+3542,Lesion of ulnar nerve
+3543,Lesion of radial nerve
+3544,Causalgia of upper limb
+3545,Mononeuritis multiplex
+3548,Other mononeuritis of upper limb
+3549,"Mononeuritis of upper limb, unspecified"
+3550,Lesion of sciatic nerve
+3551,Meralgia paresthetica
+3552,Other lesion of femoral nerve
+3553,Lesion of lateral popliteal nerve
+3554,Lesion of medial popliteal nerve
+3555,Tarsal tunnel syndrome
+3556,Lesion of plantar nerve
+3558,"Mononeuritis of lower limb, unspecified"
+3559,Mononeuritis of unspecified site
+3560,Hereditary peripheral neuropathy
+3560,Hereditary peripheral neuropathy
+3561,Peroneal muscular atrophy
+3562,Hereditary sensory neuropathy
+3562,Hereditary sensory neuropathy
+3563,Refsum's disease
+3564,Idiopathic progressive polyneuropathy
+3568,Other specified idiopathic peripheral neuropathy
+3569,Unspecified hereditary and idiopathic peripheral neuropathy
+3570,Acute infective polyneuritis
+3571,Polyneuropathy in collagen vascular disease
+3572,Polyneuropathy in diabetes
+3573,Polyneuropathy in malignant disease
+3574,Polyneuropathy in other diseases classified elsewhere
+3575,Alcoholic polyneuropathy
+3575,Alcoholic polyneuropathy
+3576,Polyneuropathy due to drugs
+3576,Polyneuropathy due to drugs
+3577,Polyneuropathy due to other toxic agents
+3577,Polyneuropathy due to other toxic agents
+3579,Unspecified inflammatory and toxic neuropathy
+3579,Unspecified inflammatory and toxic neuropathy
+05313,Postherpetic polyneuropathy
+7260,Adhesive capsulitis of shoulder
+7262,"Other affections of shoulder region, not elsewhere classified"
+7264,Enthesopathy of wrist and carpus
+7265,Enthesopathy of hip region
+7268,Other peripheral enthesopathies
+7271,Bunion
+07272,Mumps polyneuropathy
+7272,Specific bursitides often of occupational origin
+7273,Other bursitis
+7279,"Unspecified disorder of synovium, tendon, and bursa"
+7291,"Myalgia and myositis, unspecified"
+7292,"Neuralgia, neuritis, and radiculitis, unspecified"
+7294,"Fasciitis, unspecified"
+28242,Sickle-cell thalassemia with crisis
+28262,Hb-SS disease with crisis
+28264,Sickle-cell/Hb-C disease with crisis
+28269,Other sickle-cell disease with crisis
+33700,"Idiopathic peripheral autonomic neuropathy, unspecified"
+33709,Other idiopathic peripheral autonomic neuropathy
+33720,"Reflex sympathetic dystrophy, unspecified"
+33721,Reflex sympathetic dystrophy of the upper limb
+33722,Reflex sympathetic dystrophy of the lower limb
+33729,Reflex sympathetic dystrophy of other specified site
+33821,Chronic pain due to trauma
+33822,Chronic post-thoracotomy pain
+33828,Other chronic postoperative pain
+33829,Other chronic pain
+35571,Causalgia of lower limb
+35579,Other mononeuritis of lower limb
+35781,Chronic inflammatory demyelinating polyneuritis
+35781,Chronic inflammatory demyelinating polyneuritis
+35782,Critical illness polyneuropathy
+35782,Critical illness polyneuropathy
+35789,Other inflammatory and toxic neuropathy
+35789,Other inflammatory and toxic neuropathy
+37991,Pain in or around eye
+38870,"Otalgia, unspecified"
+38871,Otogenic pain
+38872,Referred otogenic pain
+44022,Atherosclerosis of native arteries of the extremities with rest pain
+56942,Anal or rectal pain
+72610,"Disorders of bursae and tendons in shoulder region, unspecified"
+72611,Calcifying tendinitis of shoulder
+72612,Bicipital tenosynovitis
+72613,Partial tear of rotator cuff
+72619,Other specified disorders of bursae and tendons in shoulder region
+72630,"Enthesopathy of elbow, unspecified"
+72631,Medial epicondylitis
+72632,Lateral epicondylitis
+72633,Olecranon bursitis
+72639,Other enthesopathy of elbow region
+72660,"Enthesopathy of knee, unspecified"
+72661,Pes anserinus tendinitis or bursitis
+72662,Tibial collateral ligament bursitis
+72663,Fibular collateral ligament bursitis
+72664,Patellar tendinitis
+72665,Prepatellar bursitis
+72669,Other enthesopathy of knee
+72670,"Enthesopathy of ankle and tarsus, unspecified"
+72671,Achilles bursitis or tendinitis
+72672,Tibialis tendinitis
+72673,Calcaneal spur
+72679,Other enthesopathy of ankle and tarsus
+72690,Enthesopathy of unspecified site
+72700,"Synovitis and tenosynovitis, unspecified"
+72701,Synovitis and tenosynovitis in diseases classified elsewhere
+72703,Trigger finger (acquired)
+72704,Radial styloid tenosynovitis
+72705,Other tenosynovitis of hand and wrist
+72706,Tenosynovitis of foot and ankle
+72709,Other synovitis and tenosynovitis
+72759,Other rupture of synovium
+72761,Complete rupture of rotator cuff
+72789,"Other disorders of synovium, tendon, and bursa"
+72881,Interstitial myositis
+72930,"Panniculitis, unspecified site"
+72939,"Panniculitis, other site"
+78096,Generalized pain
+7841,Throat pain
+78492,Jaw pain
+7873,"Flatulence, eructation, and gas pain"
+7880,Renal colic
+78900,"Abdominal pain, unspecified site"
+78901,"Abdominal pain, right upper quadrant"
+78902,"Abdominal pain, left upper quadrant"
+78903,"Abdominal pain, right lower quadrant"
+78904,"Abdominal pain, left lower quadrant"
+78905,"Abdominal pain, periumbilic"
+78906,"Abdominal pain, epigastric"
+78907,"Abdominal pain, generalized"
+78909,"Abdominal pain, other specified site"
+78960,"Abdominal tenderness, unspecified site"
+78961,"Abdominal tenderness, right upper quadrant"
+78962,"Abdominal tenderness, left upper quadrant"
+78963,"Abdominal tenderness, right lower quadrant"
+78964,"Abdominal tenderness, left lower quadrant"
+78965,"Abdominal tenderness, periumbilic"
+78966,"Abdominal tenderness, epigastric"
+78967,"Abdominal tenderness, generalized"
+78969,"Abdominal tenderness, other specified site"
+7897,Colic
+9551,Injury to median nerve
+9552,Injury to ulnar nerve
+9553,Injury to radial nerve
+9554,Injury to musculocutaneous nerve
+9555,"Injury to cutaneous sensory nerve, upper limb"
+9556,"Injury to digital nerve, upper limb"
+9557,Injury to other specified nerve(s) of shoulder girdle and upper limb
+9558,Injury to multiple nerves of shoulder girdle and upper limb
+9559,Injury to unspecified nerve of shoulder girdle and upper limb
+9562,Injury to posterior tibial nerve
+9563,Injury to peroneal nerve
+9564,"Injury to cutaneous sensory nerve, lower limb"
+9565,Injury to other specified nerve(s) of pelvic girdle and lower limb
+9568,Injury to multiple nerves of pelvic girdle and lower limb
+9569,Injury to unspecified nerve of pelvic girdle and lower limb
+9570,Injury to superficial nerves of head and neck
+9571,Injury to other specified nerve(s)
+9578,Injury to multiple nerves in several parts
+9579,"Injury to nerves, unspecified site"
+71930,"Palindromic rheumatism, site unspecified"
+71931,"Palindromic rheumatism, shoulder region"
+71932,"Palindromic rheumatism, upper arm"
+71933,"Palindromic rheumatism, forearm"
+71934,"Palindromic rheumatism, hand"
+71935,"Palindromic rheumatism, pelvic region and thigh"
+71936,"Palindromic rheumatism, lower leg"
+71937,"Palindromic rheumatism, ankle and foot"
+71938,"Palindromic rheumatism, other specified sites"
+71939,"Palindromic rheumatism, multiple sites"
+7290,"Rheumatism, unspecified and fibrositis"
+7142,Other rheumatoid arthritis with visceral or systemic involvement
+71430,"Polyarticular juvenile rheumatoid arthritis, chronic or unspecified"
+71431,"Polyarticular juvenile rheumatoid arthritis, acute"
+71432,Pauciarticular juvenile rheumatoid arthritis
+71433,Monoarticular juvenile rheumatoid arthritis
+7140,Rheumatoid arthritis
+71481,Rheumatoid lung
+00323,Salmonella arthritis
+05671,Arthritis due to rubella
+09850,Gonococcal arthritis
+71100,"Pyogenic arthritis, site unspecified"
+71101,"Pyogenic arthritis, shoulder region"
+71102,"Pyogenic arthritis, upper arm"
+71103,"Pyogenic arthritis, forearm"
+71104,"Pyogenic arthritis, hand"
+71105,"Pyogenic arthritis, pelvic region and thigh"
+71106,"Pyogenic arthritis, lower leg"
+71107,"Pyogenic arthritis, ankle and foot"
+71108,"Pyogenic arthritis, other specified sites"
+71109,"Pyogenic arthritis, multiple sites"
+71110,"Arthropathy associated with Reiter's disease and nonspecific urethritis, site unspecified"
+71111,"Arthropathy associated with Reiter's disease and nonspecific urethritis, shoulder region"
+71112,"Arthropathy associated with Reiter's disease and nonspecific urethritis, upper arm"
+71113,"Arthropathy associated with Reiter's disease and nonspecific urethritis, forearm"
+71114,"Arthropathy associated with Reiter's disease and nonspecific urethritis, hand"
+71115,"Arthropathy associated with Reiter's disease and nonspecific urethritis, pelvic region and thigh"
+71116,"Arthropathy associated with Reiter's disease and nonspecific urethritis, lower leg"
+71117,"Arthropathy associated with Reiter's disease and nonspecific urethritis, ankle and foot"
+71118,"Arthropathy associated with Reiter's disease and nonspecific urethritis, other specified sites"
+71119,"Arthropathy associated with Reiter's disease and nonspecific urethritis, multiple sites"
+71120,"Arthropathy in Behcet's syndrome, site unspecified"
+71121,"Arthropathy in Behcet's syndrome, shoulder region"
+71122,"Arthropathy in Behcet's syndrome, upper arm"
+71123,"Arthropathy in Behcet's syndrome, forearm"
+71124,"Arthropathy in Behcet's syndrome, hand"
+71125,"Arthropathy in Behcet's syndrome, pelvic region and thigh"
+71126,"Arthropathy in Behcet's syndrome, lower leg"
+71127,"Arthropathy in Behcet's syndrome, ankle and foot"
+71128,"Arthropathy in Behcet's syndrome, other specified sites"
+71129,"Arthropathy in Behcet's syndrome, multiple sites"
+71140,"Arthropathy associated with other bacterial diseases, site unspecified"
+71141,"Arthropathy associated with other bacterial diseases, shoulder region"
+71142,"Arthropathy associated with other bacterial diseases, upper arm"
+71143,"Arthropathy associated with other bacterial diseases, forearm"
+71144,"Arthropathy associated with other bacterial diseases, hand"
+71145,"Arthropathy associated with other bacterial diseases, pelvic region and thigh"
+71146,"Arthropathy associated with other bacterial diseases, lower leg"
+71147,"Arthropathy associated with other bacterial diseases, ankle and foot"
+71148,"Arthropathy associated with other bacterial diseases, other specified sites"
+71149,"Arthropathy associated with other bacterial diseases, multiple sites"
+71150,"Arthropathy associated with other viral diseases, site unspecified"
+71151,"Arthropathy associated with other viral diseases, shoulder region"
+71152,"Arthropathy associated with other viral diseases, upper arm"
+71153,"Arthropathy associated with other viral diseases, forearm"
+71154,"Arthropathy associated with other viral diseases, hand"
+71155,"Arthropathy associated with other viral diseases, pelvic region and thigh"
+71156,"Arthropathy associated with other viral diseases, lower leg"
+71157,"Arthropathy associated with other viral diseases, ankle and foot"
+71158,"Arthropathy associated with other viral diseases, other specified sites"
+71159,"Arthropathy associated with other viral diseases, multiple sites"
+71160,"Arthropathy associated with mycoses, site unspecified"
+71161,"Arthropathy associated with mycoses, shoulder region"
+71162,"Arthropathy associated with mycoses, upper arm"
+71163,"Arthropathy associated with mycoses, forearm"
+71164,"Arthropathy associated with mycoses, hand"
+71165,"Arthropathy associated with mycoses, pelvic region and thigh"
+71166,"Arthropathy associated with mycoses, lower leg"
+71167,"Arthropathy associated with mycoses, ankle and foot"
+71168,"Arthropathy associated with mycoses, other specified sites"
+71169,"Arthropathy associated with mycoses, involving multiple sites"
+71180,"Arthropathy associated with other infectious and parasitic diseases, site unspecified"
+71181,"Arthropathy associated with other infectious and parasitic diseases, shoulder region"
+71182,"Arthropathy associated with other infectious and parasitic diseases, upper arm"
+71183,"Arthropathy associated with other infectious and parasitic diseases, forearm"
+71184,"Arthropathy associated with other infectious and parasitic diseases, hand"
+71185,"Arthropathy associated with other infectious and parasitic diseases, pelvic region and thigh"
+71186,"Arthropathy associated with other infectious and parasitic diseases, lower leg"
+71187,"Arthropathy associated with other infectious and parasitic diseases, ankle and foot"
+71188,"Arthropathy associated with other infectious and parasitic diseases, other specified sites"
+71189,"Arthropathy associated with other infectious and parasitic diseases, multiple sites"
+71190,"Unspecified infective arthritis, site unspecified"
+71191,"Unspecified infective arthritis, shoulder region"
+71192,"Unspecified infective arthritis, upper arm"
+71193,"Unspecified infective arthritis, forearm"
+71194,"Unspecified infective arthritis, hand"
+71195,"Unspecified infective arthritis, pelvic region and thigh"
+71196,"Unspecified infective arthritis, lower leg"
+71197,"Unspecified infective arthritis, ankle and foot"
+71198,"Unspecified infective arthritis, other specified sites"
+71199,"Unspecified infective arthritis, multiple sites"
+7140,Rheumatoid arthritis
+7142,Other rheumatoid arthritis with visceral or systemic involvement
+71430,"Polyarticular juvenile rheumatoid arthritis, chronic or unspecified"
+71431,"Polyarticular juvenile rheumatoid arthritis, acute"
+71432,Pauciarticular juvenile rheumatoid arthritis
+71433,Monoarticular juvenile rheumatoid arthritis
+7144,Chronic postrheumatic arthropathy
+71620,"Allergic arthritis, site unspecified"
+71621,"Allergic arthritis, shoulder region"
+71622,"Allergic arthritis, upper arm"
+71623,"Allergic arthritis, forearm"
+71624,"Allergic arthritis, hand"
+71625,"Allergic arthritis, pelvic region and thigh"
+71626,"Allergic arthritis, lower leg"
+71627,"Allergic arthritis, ankle and foot"
+71628,"Allergic arthritis, other specified sites"
+71629,"Allergic arthritis, multiple sites"
+71630,"Climacteric arthritis, site unspecified"
+71631,"Climacteric arthritis, shoulder region"
+71632,"Climacteric arthritis, upper arm"
+71633,"Climacteric arthritis, forearm"
+71634,"Climacteric arthritis, hand"
+71635,"Climacteric arthritis, pelvic region and thigh"
+71636,"Climacteric arthritis, lower leg"
+71637,"Climacteric arthritis, ankle and foot"
+71638,"Climacteric arthritis, other specified sites"
+71639,"Climacteric arthritis, multiple sites"
+71650,"Unspecified polyarthropathy or polyarthritis, site unspecified"
+71651,"Unspecified polyarthropathy or polyarthritis, shoulder region"
+71652,"Unspecified polyarthropathy or polyarthritis, upper arm"
+71653,"Unspecified polyarthropathy or polyarthritis, forearm"
+71654,"Unspecified polyarthropathy or polyarthritis, hand"
+71655,"Unspecified polyarthropathy or polyarthritis, pelvic region and thigh"
+71656,"Unspecified polyarthropathy or polyarthritis, lower leg"
+71657,"Unspecified polyarthropathy or polyarthritis, ankle and foot"
+71658,"Unspecified polyarthropathy or polyarthritis, other specified sites"
+71659,"Unspecified polyarthropathy or polyarthritis, multiple sites"
+71660,"Unspecified monoarthritis, site unspecified"
+71661,"Unspecified monoarthritis, shoulder region"
+71662,"Unspecified monoarthritis, upper arm"
+71663,"Unspecified monoarthritis, forearm"
+71664,"Unspecified monoarthritis, hand"
+71665,"Unspecified monoarthritis, pelvic region and thigh"
+71666,"Unspecified monoarthritis, lower leg"
+71667,"Unspecified monoarthritis, ankle and foot"
+71668,"Unspecified monoarthritis, other specified sites"
+09852,Gonococcal bursitis
+72633,Olecranon bursitis
+72661,Pes anserinus tendinitis or bursitis
+72662,Tibial collateral ligament bursitis
+72663,Fibular collateral ligament bursitis
+72665,Prepatellar bursitis
+72671,Achilles bursitis or tendinitis
+7272,Specific bursitides often of occupational origin
+7273,Other bursitis
+72611,Calcifying tendinitis of shoulder
+72661,Pes anserinus tendinitis or bursitis
+72664,Patellar tendinitis
+72671,Achilles bursitis or tendinitis
+72672,Tibialis tendinitis
+3540,Carpal tunnel syndrome
+3555,Tarsal tunnel syndrome
+78071,Chronic fatigue syndrome
+7105,Eosinophilia myalgia syndrome
+725,Polymyalgia rheumatica
+7291,"Myalgia and myositis, unspecified"
+7200,Ankylosing spondylitis
+7216,Ankylosing vertebral hyperostosis
+37334,Discoid lupus erythematosus of eyelid
+6954,Lupus erythematosus
+7100,Systemic lupus erythematosus
+09853,Gonococcal spondylitis
+37552,Stenosis of lacrimal punctum
+37553,Stenosis of lacrimal canaliculi
+37554,Stenosis of lacrimal sac
+37556,"Stenosis of nasolacrimal duct, acquired"
+38050,"Acquired stenosis of external ear canal, unspecified as to cause"
+38051,Acquired stenosis of external ear canal secondary to trauma
+38052,Acquired stenosis of external ear canal secondary to surgery
+38053,Acquired stenosis of external ear canal secondary to inflammation
+3940,Mitral stenosis
+3942,Mitral stenosis with insufficiency
+3950,Rheumatic aortic stenosis
+3952,Rheumatic aortic stenosis with insufficiency
+3960,Mitral valve stenosis and aortic valve stenosis
+3961,Mitral valve stenosis and aortic valve insufficiency
+3962,Mitral valve insufficiency and aortic valve stenosis
+43300,Occlusion and stenosis of basilar artery without mention of cerebral infarction
+43301,Occlusion and stenosis of basilar artery with cerebral infarction
+43310,Occlusion and stenosis of carotid artery without mention of cerebral infarction
+43311,Occlusion and stenosis of carotid artery with cerebral infarction
+43320,Occlusion and stenosis of vertebral artery without mention of cerebral infarction
+43321,Occlusion and stenosis of vertebral artery with cerebral infarction
+43330,Occlusion and stenosis of multiple and bilateral precerebral arteries without mention of cerebral infarction
+43331,Occlusion and stenosis of multiple and bilateral precerebral arteries with cerebral infarction
+43380,Occlusion and stenosis of other specified precerebral artery without mention of cerebral infarction
+43381,Occlusion and stenosis of other specified precerebral artery with cerebral infarction
+43390,Occlusion and stenosis of unspecified precerebral artery without mention of cerebral infarction
+43391,Occlusion and stenosis of unspecified precerebral artery with cerebral infarction
+47874,Stenosis of larynx
+5303,Stricture and stenosis of esophagus
+5370,Acquired hypertrophic pyloric stenosis
+5376,Hourglass stricture or stenosis of stomach
+5692,Stenosis of rectum and anus
+6224,Stricture and stenosis of cervix
+7230,Spinal stenosis in cervical region
+72400,"Spinal stenosis, unspecified region"
+72401,"Spinal stenosis, thoracic region"
+72402,"Spinal stenosis, lumbar region, without neurogenic claudication"
+72403,"Spinal stenosis, lumbar region, with neurogenic claudication"
+72409,"Spinal stenosis, other region"
+74602,"Stenosis of pulmonary valve, congenital"
+7461,"Tricuspid atresia and stenosis, congenital"
+7463,Congenital stenosis of aortic valve
+7465,Congenital mitral stenosis
+74681,Subaortic stenosis
+74683,Infundibular pulmonic stenosis
+74722,Atresia and stenosis of aorta
+7503,"Tracheoesophageal fistula, esophageal atresia and stenosis"
+7505,Congenital hypertrophic pyloric stenosis
+7511,Atresia and stenosis of small intestine
+7512,"Atresia and stenosis of large intestine, rectum, and anal canal"
+7536,Atresia and stenosis of urethra and bladder neck
+05313,Postherpetic polyneuropathy
+07272,Mumps polyneuropathy
+33700,"Idiopathic peripheral autonomic neuropathy, unspecified"
+33709,Other idiopathic peripheral autonomic neuropathy
+3371,Peripheral autonomic neuropathy in disorders classified elsewhere
+3560,Hereditary peripheral neuropathy
+3562,Hereditary sensory neuropathy
+3564,Idiopathic progressive polyneuropathy
+3568,Other specified idiopathic peripheral neuropathy
+3569,Unspecified hereditary and idiopathic peripheral neuropathy
+3571,Polyneuropathy in collagen vascular disease
+3572,Polyneuropathy in diabetes
+3573,Polyneuropathy in malignant disease
+3574,Polyneuropathy in other diseases classified elsewhere
+3575,Alcoholic polyneuropathy
+3576,Polyneuropathy due to drugs
+3577,Polyneuropathy due to other toxic agents
+35782,Critical illness polyneuropathy
+35789,Other inflammatory and toxic neuropathy
+3579,Unspecified inflammatory and toxic neuropathy
+37733,Nutritional optic neuropathy
+37734,Toxic optic neuropathy
+37741,Ischemic optic neuropathy
+27400,"Gouty arthropathy, unspecified"
+27401,Acute gouty arthropathy
+27402,Chronic gouty arthropathy without mention of tophus (tophi)
+27403,Chronic gouty arthropathy with tophus (tophi)
+27410,"Gouty nephropathy, unspecified"
+27419,Other gouty nephropathy
+27481,Gouty tophi of ear
+27482,"Gouty tophi of other sites, except ear"
+27489,Gout with other specified manifestations
+2749,"Gout, unspecified"
+33524,Primary lateral sclerosis
+05312,Postherpetic trigeminal neuralgia
+3501,Trigeminal neuralgia
+3521,Glossopharyngeal neuralgia
+7292,"Neuralgia, neuritis, and radiculitis, unspecified"
+7210,Cervical spondylosis without myelopathy
+7211,Cervical spondylosis with myelopathy
+7224,Degeneration of cervical intervertebral disc
+72281,"Postlaminectomy syndrome, cervical region"
+7230,Spinal stenosis in cervical region
+7231,Cervicalgia
+7232,Cervicocranial syndrome
+7233,Cervicobrachial syndrome (diffuse)
+7234,Brachial neuritis or radiculitis NOS
+7235,"Torticollis, unspecified"
+7236,Panniculitis specified as affecting neck
+7237,Ossification of posterior longitudinal ligament in cervical region
+7238,Other syndromes affecting cervical region
+7239,Unspecified musculoskeletal disorders and symptoms referable to neck
+95200,C1-C4 level with unspecified spinal cord injury
+95201,C1-C4 level with complete lesion of spinal cord
+95202,C1-C4 level with anterior cord syndrome
+95203,C1-C4 level with central cord syndrome
+95204,C1-C4 level with other specified spinal cord injury
+95205,C5-C7 level with unspecified spinal cord injury
+95206,C5-C7 level with complete lesion of spinal cord
+95207,C5-C7 level with anterior cord syndrome
+95208,C5-C7 level with central cord syndrome
+95209,C5-C7 level with other specified spinal cord injury
+9530,Injury to cervical nerve root
+9531,Injury to dorsal nerve root
+9540,"Injury to cervical sympathetic nerve, excluding shoulder and pelvic girdles"
+9541,"Injury to other sympathetic nerve, excluding shoulder and pelvic girdles"
+71930,"Palindromic rheumatism, site unspecified"
+71931,"Palindromic rheumatism, shoulder region"
+71932,"Palindromic rheumatism, upper arm"
+71933,"Palindromic rheumatism, forearm"
+71934,"Palindromic rheumatism, hand"
+71935,"Palindromic rheumatism, pelvic region and thigh"
+71936,"Palindromic rheumatism, lower leg"
+71937,"Palindromic rheumatism, ankle and foot"
+71938,"Palindromic rheumatism, other specified sites"
+71939,"Palindromic rheumatism, multiple sites"
+71940,"Pain in joint, site unspecified"
+71941,"Pain in joint, shoulder region"
+71942,"Pain in joint, upper arm"
+71943,"Pain in joint, forearm"
+71944,"Pain in joint, hand"
+71945,"Pain in joint, pelvic region and thigh"
+71946,"Pain in joint, lower leg"
+71947,"Pain in joint, ankle and foot"
+71948,"Pain in joint, other specified sites"
+71949,"Pain in joint, multiple sites"
+7290,"Rheumatism, unspecified and fibrositis"
+30781,Tension headache
+33900,"Cluster headache syndrome, unspecified"
+33901,Episodic cluster headache
+33902,Chronic cluster headache
+33903,Episodic paroxysmal hemicrania
+33904,Chronic paroxysmal hemicrania
+33905,Short lasting unilateral neuralgiform headache with conjunctival injection and tearing
+33909,Other trigeminal autonomic cephalgias
+33910,"Tension type headache, unspecified"
+33911,Episodic tension type headache
+33912,Chronic tension type headache
+33920,"Post-traumatic headache, unspecified"
+33921,Acute post-traumatic headache
+33922,Chronic post-traumatic headache
+3393,"Drug induced headache, not elsewhere classified"
+33941,Hemicrania continua
+33942,New daily persistent headache
+33943,Primary thunderclap headache
+33944,Other complicated headache syndrome
+33981,Hypnic headache
+33982,Headache associated with sexual activity
+33983,Primary cough headache
+33984,Primary exertional headache
+33985,Primary stabbing headache
+33989,Other headache syndromes
+7840,Headache
+34600,"Migraine with aura, without mention of intractable migraine without mention of status migrainosus"
+34601,"Migraine with aura, with intractable migraine, so stated, without mention of status migrainosus"
+34602,"Migraine with aura, without mention of intractable migraine with status migrainosus"
+34603,"Migraine with aura, with intractable migraine, so stated, with status migrainosus"
+34610,"Migraine without aura, without mention of intractable migraine without mention of status migrainosus"
+34611,"Migraine without aura, with intractable migraine, so stated, without mention of status migrainosus"
+34612,"Migraine without aura, without mention of intractable migraine with status migrainosus"
+34613,"Migraine without aura, with intractable migraine, so stated, with status migrainosus"
+34620,"Variants of migraine, not elsewhere classified, without mention of intractable migraine without mention of status migrainosus"
+34621,"Variants of migraine, not elsewhere classified, with intractable migraine, so stated, without mention of status migrainosus"
+34622,"Variants of migraine, not elsewhere classified, without mention of intractable migraine with status migrainosus"
+34623,"Variants of migraine, not elsewhere classified, with intractable migraine, so stated, with status migrainosus"
+34630,"Hemiplegic migraine, without mention of intractable migraine without mention of status migrainosus"
+34631,"Hemiplegic migraine, with intractable migraine, so stated, without mention of status migrainosus"
+34632,"Hemiplegic migraine, without mention of intractable migraine with status migrainosus"
+34633,"Hemiplegic migraine, with intractable migraine, so stated, with status migrainosus"
+34640,"Menstrual migraine, without mention of intractable migraine without mention of status migrainosus"
+34641,"Menstrual migraine, with intractable migraine, so stated, without mention of status migrainosus"
+34642,"Menstrual migraine, without mention of intractable migraine with status migrainosus"
+34643,"Menstrual migraine, with intractable migraine, so stated, with status migrainosus"
+34650,"Persistent migraine aura without cerebral infarction, without mention of intractable migraine without mention of status migrainosus"
+34651,"Persistent migraine aura without cerebral infarction, with intractable migraine, so stated, without mention of status migrainosus"
+34652,"Persistent migraine aura without cerebral infarction, without mention of intractable migraine with status migrainosus"
+34653,"Persistent migraine aura without cerebral infarction, with intractable migraine, so stated, with status migrainosus"
+34660,"Persistent migraine aura with cerebral infarction, without mention of intractable migraine without mention of status migrainosus"
+34661,"Persistent migraine aura with cerebral infarction, with intractable migraine, so stated, without mention of status migrainosus"
+34662,"Persistent migraine aura with cerebral infarction, without mention of intractable migraine with status migrainosus"
+34663,"Persistent migraine aura with cerebral infarction, with intractable migraine, so stated, with status migrainosus"
+34670,"Chronic migraine without aura, without mention of intractable migraine without mention of status migrainosus"
+34671,"Chronic migraine without aura, with intractable migraine, so stated, without mention of status migrainosus"
+34672,"Chronic migraine without aura, without mention of intractable migraine with status migrainosus"
+34673,"Chronic migraine without aura, with intractable migraine, so stated, with status migrainosus"
+34680,"Other forms of migraine, without mention of intractable migraine without mention of status migrainosus"
+34681,"Other forms of migraine, with intractable migraine, so stated, without mention of status migrainosus"
+34682,"Other forms of migraine, without mention of intractable migraine with status migrainosus"
+34683,"Other forms of migraine, with intractable migraine, so stated, with status migrainosus"
+34690,"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus"
+34691,"Migraine, unspecified, with intractable migraine, so stated, without mention of status migrainosus"
+34692,"Migraine, unspecified, without mention of intractable migraine with status migrainosus"
+34693,"Migraine, unspecified, with intractable migraine, so stated, with status migrainosus"
+179,"Malignant neoplasm of uterus, part unspecified"
+181,Malignant neoplasm of placenta
+185,Malignant neoplasm of prostate
+193,Malignant neoplasm of thyroid gland
+1400,"Malignant neoplasm of upper lip, vermilion border"
+1401,"Malignant neoplasm of lower lip, vermilion border"
+1403,"Malignant neoplasm of upper lip, inner aspect"
+1404,"Malignant neoplasm of lower lip, inner aspect"
+1405,"Malignant neoplasm of lip, unspecified, inner aspect"
+1406,Malignant neoplasm of commissure of lip
+1408,Malignant neoplasm of other sites of lip
+1409,"Malignant neoplasm of lip, unspecified, vermilion border"
+1410,Malignant neoplasm of base of tongue
+1411,Malignant neoplasm of dorsal surface of tongue
+1412,Malignant neoplasm of tip and lateral border of tongue
+1413,Malignant neoplasm of ventral surface of tongue
+1414,"Malignant neoplasm of anterior two-thirds of tongue, part unspecified"
+1415,Malignant neoplasm of junctional zone of tongue
+1416,Malignant neoplasm of lingual tonsil
+1418,Malignant neoplasm of other sites of tongue
+1419,"Malignant neoplasm of tongue, unspecified"
+1420,Malignant neoplasm of parotid gland
+1421,Malignant neoplasm of submandibular gland
+1422,Malignant neoplasm of sublingual gland
+1428,Malignant neoplasm of other major salivary glands
+1429,"Malignant neoplasm of salivary gland, unspecified"
+1430,Malignant neoplasm of upper gum
+1431,Malignant neoplasm of lower gum
+1438,Malignant neoplasm of other sites of gum
+1439,"Malignant neoplasm of gum, unspecified"
+1440,Malignant neoplasm of anterior portion of floor of mouth
+1441,Malignant neoplasm of lateral portion of floor of mouth
+1448,Malignant neoplasm of other sites of floor of mouth
+1449,"Malignant neoplasm of floor of mouth, part unspecified"
+1450,Malignant neoplasm of cheek mucosa
+1451,Malignant neoplasm of vestibule of mouth
+1452,Malignant neoplasm of hard palate
+1453,Malignant neoplasm of soft palate
+1454,Malignant neoplasm of uvula
+1455,"Malignant neoplasm of palate, unspecified"
+1456,Malignant neoplasm of retromolar area
+1458,Malignant neoplasm of other specified parts of mouth
+1459,"Malignant neoplasm of mouth, unspecified"
+1460,Malignant neoplasm of tonsil
+1461,Malignant neoplasm of tonsillar fossa
+1462,Malignant neoplasm of tonsillar pillars (anterior) (posterior)
+1463,Malignant neoplasm of vallecula epiglottica
+1464,Malignant neoplasm of anterior aspect of epiglottis
+1465,Malignant neoplasm of junctional region of oropharynx
+1466,Malignant neoplasm of lateral wall of oropharynx
+1467,Malignant neoplasm of posterior wall of oropharynx
+1468,Malignant neoplasm of other specified sites of oropharynx
+1469,"Malignant neoplasm of oropharynx, unspecified site"
+1470,Malignant neoplasm of superior wall of nasopharynx
+1471,Malignant neoplasm of posterior wall of nasopharynx
+1472,Malignant neoplasm of lateral wall of nasopharynx
+1473,Malignant neoplasm of anterior wall of nasopharynx
+1478,Malignant neoplasm of other specified sites of nasopharynx
+1479,"Malignant neoplasm of nasopharynx, unspecified site"
+1480,Malignant neoplasm of postcricoid region of hypopharynx
+1481,Malignant neoplasm of pyriform sinus
+1482,"Malignant neoplasm of aryepiglottic fold, hypopharyngeal aspect"
+1483,Malignant neoplasm of posterior hypopharyngeal wall
+1488,Malignant neoplasm of other specified sites of hypopharynx
+1489,"Malignant neoplasm of hypopharynx, unspecified site"
+1490,"Malignant neoplasm of pharynx, unspecified"
+1491,Malignant neoplasm of waldeyer's ring
+1498,Malignant neoplasm of other sites within the lip and oral cavity
+1499,Malignant neoplasm of ill-defined sites within the lip and oral cavity
+1500,Malignant neoplasm of cervical esophagus
+1501,Malignant neoplasm of thoracic esophagus
+1502,Malignant neoplasm of abdominal esophagus
+1503,Malignant neoplasm of upper third of esophagus
+1504,Malignant neoplasm of middle third of esophagus
+1505,Malignant neoplasm of lower third of esophagus
+1508,Malignant neoplasm of other specified part of esophagus
+1509,"Malignant neoplasm of esophagus, unspecified site"
+1510,Malignant neoplasm of cardia
+1511,Malignant neoplasm of pylorus
+1512,Malignant neoplasm of pyloric antrum
+1513,Malignant neoplasm of fundus of stomach
+1514,Malignant neoplasm of body of stomach
+1515,"Malignant neoplasm of lesser curvature of stomach, unspecified"
+1516,"Malignant neoplasm of greater curvature of stomach, unspecified"
+1518,Malignant neoplasm of other specified sites of stomach
+1519,"Malignant neoplasm of stomach, unspecified site"
+1520,Malignant neoplasm of duodenum
+1521,Malignant neoplasm of jejunum
+1522,Malignant neoplasm of ileum
+1523,Malignant neoplasm of Meckel's diverticulum
+1528,Malignant neoplasm of other specified sites of small intestine
+1529,"Malignant neoplasm of small intestine, unspecified site"
+1530,Malignant neoplasm of hepatic flexure
+1531,Malignant neoplasm of transverse colon
+1532,Malignant neoplasm of descending colon
+1533,Malignant neoplasm of sigmoid colon
+1534,Malignant neoplasm of cecum
+1535,Malignant neoplasm of appendix vermiformis
+1536,Malignant neoplasm of ascending colon
+1537,Malignant neoplasm of splenic flexure
+1538,Malignant neoplasm of other specified sites of large intestine
+1539,"Malignant neoplasm of colon, unspecified site"
+1540,Malignant neoplasm of rectosigmoid junction
+1541,Malignant neoplasm of rectum
+1542,Malignant neoplasm of anal canal
+1543,"Malignant neoplasm of anus, unspecified site"
+1548,"Malignant neoplasm of other sites of rectum, rectosigmoid junction, and anus"
+1550,"Malignant neoplasm of liver, primary"
+1551,Malignant neoplasm of intrahepatic bile ducts
+1552,"Malignant neoplasm of liver, not specified as primary or secondary"
+1560,Malignant neoplasm of gallbladder
+1561,Malignant neoplasm of extrahepatic bile ducts
+1562,Malignant neoplasm of ampulla of vater
+1568,Malignant neoplasm of other specified sites of gallbladder and extrahepatic bile ducts
+1569,"Malignant neoplasm of biliary tract, part unspecified site"
+1570,Malignant neoplasm of head of pancreas
+1571,Malignant neoplasm of body of pancreas
+1572,Malignant neoplasm of tail of pancreas
+1573,Malignant neoplasm of pancreatic duct
+1574,Malignant neoplasm of islets of langerhans
+1578,Malignant neoplasm of other specified sites of pancreas
+1579,"Malignant neoplasm of pancreas, part unspecified"
+1580,Malignant neoplasm of retroperitoneum
+1588,Malignant neoplasm of specified parts of peritoneum
+1589,"Malignant neoplasm of peritoneum, unspecified"
+1590,"Malignant neoplasm of intestinal tract, part unspecified"
+1591,"Malignant neoplasm of spleen, not elsewhere classified"
+1598,Malignant neoplasm of other sites of digestive system and intra-abdominal organs
+1599,Malignant neoplasm of ill-defined sites within the digestive organs and peritoneum
+1600,Malignant neoplasm of nasal cavities
+1601,"Malignant neoplasm of auditory tube, middle ear, and mastoid air cells"
+1602,Malignant neoplasm of maxillary sinus
+1603,Malignant neoplasm of ethmoidal sinus
+1604,Malignant neoplasm of frontal sinus
+1605,Malignant neoplasm of sphenoidal sinus
+1608,Malignant neoplasm of other accessory sinuses
+1609,"Malignant neoplasm of accessory sinus, unspecified"
+1610,Malignant neoplasm of glottis
+1611,Malignant neoplasm of supraglottis
+1612,Malignant neoplasm of subglottis
+1613,Malignant neoplasm of laryngeal cartilages
+1618,Malignant neoplasm of other specified sites of larynx
+1619,"Malignant neoplasm of larynx, unspecified"
+1620,Malignant neoplasm of trachea
+1622,Malignant neoplasm of main bronchus
+1623,"Malignant neoplasm of upper lobe, bronchus or lung"
+1624,"Malignant neoplasm of middle lobe, bronchus or lung"
+1625,"Malignant neoplasm of lower lobe, bronchus or lung"
+1628,Malignant neoplasm of other parts of bronchus or lung
+1629,"Malignant neoplasm of bronchus and lung, unspecified"
+1630,Malignant neoplasm of parietal pleura
+1631,Malignant neoplasm of visceral pleura
+1638,Malignant neoplasm of other specified sites of pleura
+1639,"Malignant neoplasm of pleura, unspecified"
+1640,Malignant neoplasm of thymus
+1641,Malignant neoplasm of heart
+1642,Malignant neoplasm of anterior mediastinum
+1643,Malignant neoplasm of posterior mediastinum
+1648,Malignant neoplasm of other parts of mediastinum
+1649,"Malignant neoplasm of mediastinum, part unspecified"
+1650,"Malignant neoplasm of upper respiratory tract, part unspecified"
+1658,Malignant neoplasm of other sites within the respiratory system and intrathoracic organs
+1659,Malignant neoplasm of ill-defined sites within the respiratory system
+1700,"Malignant neoplasm of bones of skull and face, except mandible"
+1701,Malignant neoplasm of mandible
+1702,"Malignant neoplasm of vertebral column, excluding sacrum and coccyx"
+1703,"Malignant neoplasm of ribs, sternum, and clavicle"
+1704,Malignant neoplasm of scapula and long bones of upper limb
+1705,Malignant neoplasm of short bones of upper limb
+1706,"Malignant neoplasm of pelvic bones, sacrum, and coccyx"
+1707,Malignant neoplasm of long bones of lower limb
+1708,Malignant neoplasm of short bones of lower limb
+1709,"Malignant neoplasm of bone and articular cartilage, site unspecified"
+1710,"Malignant neoplasm of connective and other soft tissue of head, face, and neck"
+1712,"Malignant neoplasm of connective and other soft tissue of upper limb, including shoulder"
+1713,"Malignant neoplasm of connective and other soft tissue of lower limb, including hip"
+1714,Malignant neoplasm of connective and other soft tissue of thorax
+1715,Malignant neoplasm of connective and other soft tissue of abdomen
+1716,Malignant neoplasm of connective and other soft tissue of pelvis
+1717,"Malignant neoplasm of connective and other soft tissue of trunk, unspecified"
+1718,Malignant neoplasm of other specified sites of connective and other soft tissue
+1719,"Malignant neoplasm of connective and other soft tissue, site unspecified"
+1720,Malignant melanoma of skin of lip
+1721,"Malignant melanoma of skin of eyelid, including canthus"
+1722,Malignant melanoma of skin of ear and external auditory canal
+1723,Malignant melanoma of skin of other and unspecified parts of face
+1724,Malignant melanoma of skin of scalp and neck
+1725,"Malignant melanoma of skin of trunk, except scrotum"
+1726,"Malignant melanoma of skin of upper limb, including shoulder"
+1727,"Malignant melanoma of skin of lower limb, including hip"
+1728,Malignant melanoma of other specified sites of skin
+1729,"Melanoma of skin, site unspecified"
+1740,Malignant neoplasm of nipple and areola of female breast
+1741,Malignant neoplasm of central portion of female breast
+1742,Malignant neoplasm of upper-inner quadrant of female breast
+1743,Malignant neoplasm of lower-inner quadrant of female breast
+1744,Malignant neoplasm of upper-outer quadrant of female breast
+1745,Malignant neoplasm of lower-outer quadrant of female breast
+1746,Malignant neoplasm of axillary tail of female breast
+1748,Malignant neoplasm of other specified sites of female breast
+1749,"Malignant neoplasm of breast (female), unspecified"
+1750,Malignant neoplasm of nipple and areola of male breast
+1759,Malignant neoplasm of other and unspecified sites of male breast
+1760,"Kaposi's sarcoma, skin"
+1761,"Kaposi's sarcoma, soft tissue"
+1762,"Kaposi's sarcoma, palate"
+1763,"Kaposi's sarcoma, gastrointestinal sites"
+1764,"Kaposi's sarcoma, lung"
+1765,"Kaposi's sarcoma, lymph nodes"
+1768,"Kaposi's sarcoma, other specified sites"
+1769,"Kaposi's sarcoma, unspecified site"
+1800,Malignant neoplasm of endocervix
+1801,Malignant neoplasm of exocervix
+1808,Malignant neoplasm of other specified sites of cervix
+1809,"Malignant neoplasm of cervix uteri, unspecified site"
+1820,"Malignant neoplasm of corpus uteri, except isthmus"
+1821,Malignant neoplasm of isthmus
+1828,Malignant neoplasm of other specified sites of body of uterus
+1830,Malignant neoplasm of ovary
+1832,Malignant neoplasm of fallopian tube
+1833,Malignant neoplasm of broad ligament of uterus
+1834,Malignant neoplasm of parametrium
+1835,Malignant neoplasm of round ligament of uterus
+1838,Malignant neoplasm of other specified sites of uterine adnexa
+1839,"Malignant neoplasm of uterine adnexa, unspecified site"
+1840,Malignant neoplasm of vagina
+1841,Malignant neoplasm of labia majora
+1842,Malignant neoplasm of labia minora
+1843,Malignant neoplasm of clitoris
+1844,"Malignant neoplasm of vulva, unspecified site"
+1848,Malignant neoplasm of other specified sites of female genital organs
+1849,"Malignant neoplasm of female genital organ, site unspecified"
+1860,Malignant neoplasm of undescended testis
+1869,Malignant neoplasm of other and unspecified testis
+1871,Malignant neoplasm of prepuce
+1872,Malignant neoplasm of glans penis
+1873,Malignant neoplasm of body of penis
+1874,"Malignant neoplasm of penis, part unspecified"
+1875,Malignant neoplasm of epididymis
+1876,Malignant neoplasm of spermatic cord
+1877,Malignant neoplasm of scrotum
+1878,Malignant neoplasm of other specified sites of male genital organs
+1879,"Malignant neoplasm of male genital organ, site unspecified"
+1880,Malignant neoplasm of trigone of urinary bladder
+1881,Malignant neoplasm of dome of urinary bladder
+1882,Malignant neoplasm of lateral wall of urinary bladder
+1883,Malignant neoplasm of anterior wall of urinary bladder
+1884,Malignant neoplasm of posterior wall of urinary bladder
+1885,Malignant neoplasm of bladder neck
+1886,Malignant neoplasm of ureteric orifice
+1887,Malignant neoplasm of urachus
+1888,Malignant neoplasm of other specified sites of bladder
+1889,"Malignant neoplasm of bladder, part unspecified"
+1890,"Malignant neoplasm of kidney, except pelvis"
+1891,Malignant neoplasm of renal pelvis
+1892,Malignant neoplasm of ureter
+1893,Malignant neoplasm of urethra
+1894,Malignant neoplasm of paraurethral glands
+1898,Malignant neoplasm of other specified sites of urinary organs
+1899,"Malignant neoplasm of urinary organ, site unspecified"
+1900,"Malignant neoplasm of eyeball, except conjunctiva, cornea, retina, and choroid"
+1901,Malignant neoplasm of orbit
+1902,Malignant neoplasm of lacrimal gland
+1903,Malignant neoplasm of conjunctiva
+1904,Malignant neoplasm of cornea
+1905,Malignant neoplasm of retina
+1906,Malignant neoplasm of choroid
+1907,Malignant neoplasm of lacrimal duct
+1908,Malignant neoplasm of other specified sites of eye
+1909,"Malignant neoplasm of eye, part unspecified"
+1910,"Malignant neoplasm of cerebrum, except lobes and ventricles"
+1911,Malignant neoplasm of frontal lobe
+1912,Malignant neoplasm of temporal lobe
+1913,Malignant neoplasm of parietal lobe
+1914,Malignant neoplasm of occipital lobe
+1915,Malignant neoplasm of ventricles
+1916,Malignant neoplasm of cerebellum nos
+1917,Malignant neoplasm of brain stem
+1918,Malignant neoplasm of other parts of brain
+1919,"Malignant neoplasm of brain, unspecified"
+1920,Malignant neoplasm of cranial nerves
+1921,Malignant neoplasm of cerebral meninges
+1922,Malignant neoplasm of spinal cord
+1923,Malignant neoplasm of spinal meninges
+1928,Malignant neoplasm of other specified sites of nervous system
+1929,"Malignant neoplasm of nervous system, part unspecified"
+1940,Malignant neoplasm of adrenal gland
+1941,Malignant neoplasm of parathyroid gland
+1943,Malignant neoplasm of pituitary gland and craniopharyngeal duct
+1944,Malignant neoplasm of pineal gland
+1945,Malignant neoplasm of carotid body
+1946,Malignant neoplasm of aortic body and other paraganglia
+1948,Malignant neoplasm of other endocrine glands and related structures
+1949,"Malignant neoplasm of endocrine gland, site unspecified"
+1950,"Malignant neoplasm of head, face, and neck"
+1951,Malignant neoplasm of thorax
+1952,Malignant neoplasm of abdomen
+1953,Malignant neoplasm of pelvis
+1954,Malignant neoplasm of upper limb
+1955,Malignant neoplasm of lower limb
+1958,Malignant neoplasm of other specified sites
+1960,"Secondary and unspecified malignant neoplasm of lymph nodes of head, face, and neck"
+1961,Secondary and unspecified malignant neoplasm of intrathoracic lymph nodes
+1962,Secondary and unspecified malignant neoplasm of intra-abdominal lymph nodes
+1963,Secondary and unspecified malignant neoplasm of lymph nodes of axilla and upper limb
+1965,Secondary and unspecified malignant neoplasm of lymph nodes of inguinal region and lower limb
+1966,Secondary and unspecified malignant neoplasm of intrapelvic lymph nodes
+1968,Secondary and unspecified malignant neoplasm of lymph nodes of multiple sites
+1969,"Secondary and unspecified malignant neoplasm of lymph nodes, site unspecified"
+1970,Secondary malignant neoplasm of lung
+1971,Secondary malignant neoplasm of mediastinum
+1972,Secondary malignant neoplasm of pleura
+1973,Secondary malignant neoplasm of other respiratory organs
+1974,Secondary malignant neoplasm of small intestine including duodenum
+1975,Secondary malignant neoplasm of large intestine and rectum
+1976,Secondary malignant neoplasm of retroperitoneum and peritoneum
+1977,"Malignant neoplasm of liver, secondary"
+1978,Secondary malignant neoplasm of other digestive organs and spleen
+1980,Secondary malignant neoplasm of kidney
+1981,Secondary malignant neoplasm of other urinary organs
+1982,Secondary malignant neoplasm of skin
+1983,Secondary malignant neoplasm of brain and spinal cord
+1984,Secondary malignant neoplasm of other parts of nervous system
+1985,Secondary malignant neoplasm of bone and bone marrow
+1986,Secondary malignant neoplasm of ovary
+1987,Secondary malignant neoplasm of adrenal gland
+1990,Disseminated malignant neoplasm without specification of site
+1991,Other malignant neoplasm without specification of site
+1992,Malignant neoplasm associated with transplant organ
+2300,"Carcinoma in situ of lip, oral cavity, and pharynx"
+2301,Carcinoma in situ of esophagus
+2302,Carcinoma in situ of stomach
+2303,Carcinoma in situ of colon
+2304,Carcinoma in situ of rectum
+2305,Carcinoma in situ of anal canal
+2306,"Carcinoma in situ of anus, unspecified"
+2307,Carcinoma in situ of other and unspecified parts of intestine
+2308,Carcinoma in situ of liver and biliary system
+2309,Carcinoma in situ of other and unspecified digestive organs
+2310,Carcinoma in situ of larynx
+2311,Carcinoma in situ of trachea
+2312,Carcinoma in situ of bronchus and lung
+2318,Carcinoma in situ of other specified parts of respiratory system
+2319,"Carcinoma in situ of respiratory system, part unspecified"
+2320,Carcinoma in situ of skin of lip
+2321,"Carcinoma in situ of eyelid, including canthus"
+2322,Carcinoma in situ of skin of ear and external auditory canal
+2323,Carcinoma in situ of skin of other and unspecified parts of face
+2324,Carcinoma in situ of scalp and skin of neck
+2325,"Carcinoma in situ of skin of trunk, except scrotum"
+2326,"Carcinoma in situ of skin of upper limb, including shoulder"
+2327,"Carcinoma in situ of skin of lower limb, including hip"
+2328,Carcinoma in situ of other specified sites of skin
+2329,"Carcinoma in situ of skin, site unspecified"
+2330,Carcinoma in situ of breast
+2331,Carcinoma in situ of cervix uteri
+2332,Carcinoma in situ of other and unspecified parts of uterus
+2334,Carcinoma in situ of prostate
+2335,Carcinoma in situ of penis
+2336,Carcinoma in situ of other and unspecified male genital organs
+2337,Carcinoma in situ of bladder
+2339,Carcinoma in situ of other and unspecified urinary organs
+2340,Carcinoma in situ of eye
+2348,Carcinoma in situ of other specified sites
+2349,"Carcinoma in situ, site unspecified"
+2350,Neoplasm of uncertain behavior of major salivary glands
+2351,"Neoplasm of uncertain behavior of lip, oral cavity, and pharynx"
+2352,"Neoplasm of uncertain behavior of stomach, intestines, and rectum"
+2353,Neoplasm of uncertain behavior of liver and biliary passages
+2354,Neoplasm of uncertain behavior of retroperitoneum and peritoneum
+2355,Neoplasm of uncertain behavior of other and unspecified digestive organs
+2356,Neoplasm of uncertain behavior of larynx
+2357,"Neoplasm of uncertain behavior of trachea, bronchus, and lung"
+2358,"Neoplasm of uncertain behavior of pleura, thymus, and mediastinum"
+2359,Neoplasm of uncertain behavior of other and unspecified respiratory organs
+2360,Neoplasm of uncertain behavior of uterus
+2361,Neoplasm of uncertain behavior of placenta
+2362,Neoplasm of uncertain behavior of ovary
+2363,Neoplasm of uncertain behavior of other and unspecified female genital organs
+2364,Neoplasm of uncertain behavior of testis
+2365,Neoplasm of uncertain behavior of prostate
+2366,Neoplasm of uncertain behavior of other and unspecified male genital organs
+2367,Neoplasm of uncertain behavior of bladder
+2370,Neoplasm of uncertain behavior of pituitary gland and craniopharyngeal duct
+2371,Neoplasm of uncertain behavior of pineal gland
+2372,Neoplasm of uncertain behavior of adrenal gland
+2373,Neoplasm of uncertain behavior of paraganglia
+2374,Neoplasm of uncertain behavior of other and unspecified endocrine glands
+2375,Neoplasm of uncertain behavior of brain and spinal cord
+2376,Neoplasm of uncertain behavior of meninges
+2379,Neoplasm of uncertain behavior of other and unspecified parts of nervous system
+2380,Neoplasm of uncertain behavior of bone and articular cartilage
+2381,Neoplasm of uncertain behavior of connective and other soft tissue
+2382,Neoplasm of uncertain behavior of skin
+2383,Neoplasm of uncertain behavior of breast
+2384,Polycythemia vera
+2385,Neoplasm of uncertain behavior of histiocytic and mast cells
+2386,Neoplasm of uncertain behavior of plasma cells
+2388,Neoplasm of uncertain behavior of other specified sites
+2389,"Neoplasm of uncertain behavior, site unspecified"
+2390,Neoplasm of unspecified nature of digestive system
+2391,Neoplasm of unspecified nature of respiratory system
+2392,"Neoplasm of unspecified nature of bone, soft tissue, and skin"
+2393,Neoplasm of unspecified nature of breast
+2394,Neoplasm of unspecified nature of bladder
+2395,Neoplasm of unspecified nature of other genitourinary organs
+2396,Neoplasm of unspecified nature of brain
+2397,Neoplasm of unspecified nature of endocrine glands and other parts of nervous system
+2399,"Neoplasm of unspecified nature, site unspecified"
+17300,Unspecified malignant neoplasm of skin of lip
+17301,Basal cell carcinoma of skin of lip
+17302,Squamous cell carcinoma of skin of lip
+17309,Other specified malignant neoplasm of skin of lip
+17310,"Unspecified malignant neoplasm of eyelid, including canthus"
+17311,"Basal cell carcinoma of eyelid, including canthus"
+17312,"Squamous cell carcinoma of eyelid, including canthus"
+17319,"Other specified malignant neoplasm of eyelid, including canthus"
+17320,Unspecified malignant neoplasm of skin of ear and external auditory canal
+17321,Basal cell carcinoma of skin of ear and external auditory canal
+17322,Squamous cell carcinoma of skin of ear and external auditory canal
+17329,Other specified malignant neoplasm of skin of ear and external auditory canal
+17330,Unspecified malignant neoplasm of skin of other and unspecified parts of face
+17331,Basal cell carcinoma of skin of other and unspecified parts of face
+17332,Squamous cell carcinoma of skin of other and unspecified parts of face
+17339,Other specified malignant neoplasm of skin of other and unspecified parts of face
+17340,Unspecified malignant neoplasm of scalp and skin of neck
+17341,Basal cell carcinoma of scalp and skin of neck
+17342,Squamous cell carcinoma of scalp and skin of neck
+17349,Other specified malignant neoplasm of scalp and skin of neck
+17350,"Unspecified malignant neoplasm of skin of trunk, except scrotum"
+17351,"Basal cell carcinoma of skin of trunk, except scrotum"
+17352,"Squamous cell carcinoma of skin of trunk, except scrotum"
+17359,"Other specified malignant neoplasm of skin of trunk, except scrotum"
+17360,"Unspecified malignant neoplasm of skin of upper limb, including shoulder"
+17361,"Basal cell carcinoma of skin of upper limb, including shoulder"
+17362,"Squamous cell carcinoma of skin of upper limb, including shoulder"
+17369,"Other specified malignant neoplasm of skin of upper limb, including shoulder"
+17370,"Unspecified malignant neoplasm of skin of lower limb, including hip"
+17371,"Basal cell carcinoma of skin of lower limb, including hip"
+17372,"Squamous cell carcinoma of skin of lower limb, including hip"
+17379,"Other specified malignant neoplasm of skin of lower limb, including hip"
+17380,Unspecified malignant neoplasm of other specified sites of skin
+17381,Basal cell carcinoma of other specified sites of skin
+17382,Squamous cell carcinoma of other specified sites of skin
+17389,Other specified malignant neoplasm of other specified sites of skin
+17390,"Unspecified malignant neoplasm of skin, site unspecified"
+17391,"Basal cell carcinoma of skin, site unspecified"
+17392,"Squamous cell carcinoma of skin, site unspecified"
+17399,"Other specified malignant neoplasm of skin, site unspecified"
+19881,Secondary malignant neoplasm of breast
+19882,Secondary malignant neoplasm of genital organs
+19889,Secondary malignant neoplasm of other specified sites
+20000,"Reticulosarcoma, unspecified site, extranodal and solid organ sites"
+20001,"Reticulosarcoma, lymph nodes of head, face, and neck"
+20002,"Reticulosarcoma, intrathoracic lymph nodes"
+20003,"Reticulosarcoma, intra-abdominal lymph nodes"
+20004,"Reticulosarcoma, lymph nodes of axilla and upper limb"
+20005,"Reticulosarcoma, lymph nodes of inguinal region and lower limb"
+20006,"Reticulosarcoma, intrapelvic lymph nodes"
+20007,"Reticulosarcoma, spleen"
+20008,"Reticulosarcoma, lymph nodes of multiple sites"
+20010,"Lymphosarcoma, unspecified site, extranodal and solid organ sites"
+20011,"Lymphosarcoma, lymph nodes of head, face, and neck"
+20012,"Lymphosarcoma, intrathoracic lymph nodes"
+20013,"Lymphosarcoma, intra-abdominal lymph nodes"
+20014,"Lymphosarcoma, lymph nodes of axilla and upper limb"
+20015,"Lymphosarcoma, lymph nodes of inguinal region and lower limb"
+20016,"Lymphosarcoma, intrapelvic lymph nodes"
+20017,"Lymphosarcoma, spleen"
+20018,"Lymphosarcoma, lymph nodes of multiple sites"
+20020,"Burkitt's tumor or lymphoma, unspecified site, extranodal and solid organ sites"
+20021,"Burkitt's tumor or lymphoma, lymph nodes of head, face, and neck"
+20022,"Burkitt's tumor or lymphoma, intrathoracic lymph nodes"
+20023,"Burkitt's tumor or lymphoma, intra-abdominal lymph nodes"
+20024,"Burkitt's tumor or lymphoma, lymph nodes of axilla and upper limb"
+20025,"Burkitt's tumor or lymphoma, lymph nodes of inguinal region and lower limb"
+20026,"Burkitt's tumor or lymphoma, intrapelvic lymph nodes"
+20027,"Burkitt's tumor or lymphoma, spleen"
+20028,"Burkitt's tumor or lymphoma, lymph nodes of multiple sites"
+20030,"Marginal zone lymphoma, unspecified site, extranodal and solid organ sites"
+20031,"Marginal zone lymphoma, lymph nodes of head, face, and neck"
+20032,"Marginal zone lymphoma, intrathoracic lymph nodes"
+20033,"Marginal zone lymphoma, intraabdominal lymph nodes"
+20034,"Marginal zone lymphoma, lymph nodes of axilla and upper limb"
+20035,"Marginal zone lymphoma, lymph nodes of inguinal region and lower limb"
+20036,"Marginal zone lymphoma, intrapelvic lymph nodes"
+20037,"Marginal zone lymphoma, spleen"
+20038,"Marginal zone lymphoma, lymph nodes of multiple sites"
+20040,"Mantle cell lymphoma, unspecified site, extranodal and solid organ sites"
+20041,"Mantle cell lymphoma, lymph nodes of head, face, and neck"
+20042,"Mantle cell lymphoma, intrathoracic lymph nodes"
+20043,"Mantle cell lymphoma, intra-abdominal lymph nodes"
+20044,"Mantle cell lymphoma, lymph nodes of axilla and upper limb"
+20045,"Mantle cell lymphoma, lymph nodes of inguinal region and lower limb"
+20046,"Mantle cell lymphoma, intrapelvic lymph nodes"
+20047,"Mantle cell lymphoma, spleen"
+20048,"Mantle cell lymphoma, lymph nodes of multiple sites"
+20050,"Primary central nervous system lymphoma, unspecified site, extranodal and solid organ sites"
+20051,"Primary central nervous system lymphoma, lymph nodes of head, face, and neck"
+20052,"Primary central nervous system lymphoma, intrathoracic lymph nodes"
+20053,"Primary central nervous system lymphoma, intra-abdominal lymph nodes"
+20054,"Primary central nervous system lymphoma, lymph nodes of axilla and upper limb"
+20055,"Primary central nervous system lymphoma, lymph nodes of inguinal region and lower limb"
+20056,"Primary central nervous system lymphoma, intrapelvic lymph nodes"
+20057,"Primary central nervous system lymphoma, spleen"
+20058,"Primary central nervous system lymphoma, lymph nodes of multiple sites"
+20060,"Anaplastic large cell lymphoma, unspecified site, extranodal and solid organ sites"
+20061,"Anaplastic large cell lymphoma, lymph nodes of head, face, and neck"
+20062,"Anaplastic large cell lymphoma, intrathoracic lymph nodes"
+20063,"Anaplastic large cell lymphoma, intra-abdominal lymph nodes"
+20064,"Anaplastic large cell lymphoma, lymph nodes of axilla and upper limb"
+20065,"Anaplastic large cell lymphoma, lymph nodes of inguinal region and lower limb"
+20066,"Anaplastic large cell lymphoma, intrapelvic lymph nodes"
+20067,"Anaplastic large cell lymphoma, spleen"
+20068,"Anaplastic large cell lymphoma, lymph nodes of multiple sites"
+20070,"Large cell lymphoma, unspecified site, extranodal and solid organ sites"
+20071,"Large cell lymphoma, lymph nodes of head, face, and neck"
+20072,"Large cell lymphoma, intrathoracic lymph nodes"
+20073,"Large cell lymphoma, intra-abdominal lymph nodes"
+20074,"Large cell lymphoma, lymph nodes of axilla and upper limb"
+20075,"Large cell lymphoma, lymph nodes of inguinal region and lower limb"
+20076,"Large cell lymphoma, intrapelvic lymph nodes"
+20077,"Large cell lymphoma, spleen"
+20078,"Large cell lymphoma, lymph nodes of multiple sites"
+20080,"Other named variants of lymphosarcoma and reticulosarcoma, unspecified site, extranodal and solid organ sites"
+20081,"Other named variants of lymphosarcoma and reticulosarcoma, lymph nodes of head, face, and neck"
+20082,"Other named variants of lymphosarcoma and reticulosarcoma,intrathoracic lymph nodes"
+20083,"Other named variants of lymphosarcoma and reticulosarcoma, intra-abdominal lymph nodes"
+20084,"Other named variants of lymphosarcoma and reticulosarcoma, lymph nodes of axilla and upper limb"
+20085,"Other named variants of lymphosarcoma and reticulosarcoma, lymph nodes of inguinal region and lower limb"
+20086,"Other named variants of lymphosarcoma and reticulosarcoma, intrapelvic lymph nodes"
+20087,"Other named variants of lymphosarcoma and reticulosarcoma, spleen"
+20088,"Other named variants of lymphosarcoma and reticulosarcoma, lymph nodes of multiple sites"
+20100,"Hodgkin's paragranuloma, unspecified site, extranodal and solid organ sites"
+20101,"Hodgkin's paragranuloma, lymph nodes of head, face, and neck"
+20102,"Hodgkin's paragranuloma, intrathoracic lymph nodes"
+20103,"Hodgkin's paragranuloma, intra-abdominal lymph nodes"
+20104,"Hodgkin's paragranuloma, lymph nodes of axilla and upper limb"
+20105,"Hodgkin's paragranuloma, lymph nodes of inguinal region and lower limb"
+20106,"Hodgkin's paragranuloma, intrapelvic lymph nodes"
+20107,"Hodgkin's paragranuloma, spleen"
+20108,"Hodgkin's paragranuloma, lymph nodes of multiple sites"
+20110,"Hodgkin's granuloma, unspecified site, extranodal and solid organ sites"
+20111,"Hodgkin's granuloma, lymph nodes of head, face, and neck"
+20112,"Hodgkin's granuloma, intrathoracic lymph nodes"
+20113,"Hodgkin's granuloma, intra-abdominal lymph nodes"
+20114,"Hodgkin's granuloma, lymph nodes of axilla and upper limb"
+20115,"Hodgkin's granuloma, lymph nodes of inguinal region and lower limb"
+20116,"Hodgkin's granuloma, intrapelvic lymph nodes"
+20117,"Hodgkin's granuloma, spleen"
+20118,"Hodgkin's granuloma, lymph nodes of multiple sites"
+20120,"Hodgkin's sarcoma, unspecified site, extranodal and solid organ sites"
+20121,"Hodgkin's sarcoma, lymph nodes of head, face, and neck"
+20122,"Hodgkin's sarcoma, intrathoracic lymph nodes"
+20123,"Hodgkin's sarcoma, intra-abdominal lymph nodes"
+20124,"Hodgkin's sarcoma, lymph nodes of axilla and upper limb"
+20125,"Hodgkin's sarcoma, lymph nodes of inguinal region and lower limb"
+20126,"Hodgkin's sarcoma, intrapelvic lymph nodes"
+20127,"Hodgkin's sarcoma, spleen"
+20128,"Hodgkin's sarcoma, lymph nodes of multiple sites"
+20140,"Hodgkin's disease, lymphocytic-histiocytic predominance, unspecified site, extranodal and solid organ sites"
+20141,"Hodgkin's disease, lymphocytic-histiocytic predominance, lymph nodes of head, face, and neck"
+20142,"Hodgkin's disease, lymphocytic-histiocytic predominance, intrathoracic lymph nodes"
+20143,"Hodgkin's disease, lymphocytic-histiocytic predominance, intra-abdominal lymph nodes"
+20144,"Hodgkin's disease, lymphocytic-histiocytic predominance, lymph nodes of axilla and upper limb"
+20145,"Hodgkin's disease, lymphocytic-histiocytic predominance, lymph nodes of inguinal region and lower limb"
+20146,"Hodgkin's disease, lymphocytic-histiocytic predominance, intrapelvic lymph nodes"
+20147,"Hodgkin's disease, lymphocytic-histiocytic predominance, spleen"
+20148,"Hodgkin's disease, lymphocytic-histiocytic predominance, lymph nodes of multiple sites"
+20150,"Hodgkin's disease, nodular sclerosis, unspecified site, extranodal and solid organ sites"
+20151,"Hodgkin's disease, nodular sclerosis, lymph nodes of head, face, and neck"
+20152,"Hodgkin's disease, nodular sclerosis, intrathoracic lymph nodes"
+20153,"Hodgkin's disease, nodular sclerosis, intra-abdominal lymph nodes"
+20154,"Hodgkin's disease, nodular sclerosis, lymph nodes of axilla and upper limb"
+20155,"Hodgkin's disease, nodular sclerosis, lymph nodes of inguinal region and lower limb"
+20156,"Hodgkin's disease, nodular sclerosis, intrapelvic lymph nodes"
+20157,"Hodgkin's disease, nodular sclerosis, spleen"
+20158,"Hodgkin's disease, nodular sclerosis, lymph nodes of multiple sites"
+20160,"Hodgkin's disease, mixed cellularity, unspecified site, extranodal and solid organ sites"
+20161,"Hodgkin's disease, mixed cellularity, lymph nodes of head, face, and neck"
+20162,"Hodgkin's disease, mixed cellularity, intrathoracic lymph nodes"
+20163,"Hodgkin's disease, mixed cellularity, intra-abdominal lymph nodes"
+20164,"Hodgkin's disease, mixed cellularity, lymph nodes of axilla and upper limb"
+20165,"Hodgkin's disease, mixed cellularity, lymph nodes of inguinal region and lower limb"
+20166,"Hodgkin's disease, mixed cellularity, intrapelvic lymph nodes"
+20167,"Hodgkin's disease, mixed cellularity, spleen"
+20168,"Hodgkin's disease, mixed cellularity, lymph nodes of multiple sites"
+20170,"Hodgkin's disease, lymphocytic depletion, unspecified site, extranodal and solid organ sites"
+20171,"Hodgkin's disease, lymphocytic depletion, lymph nodes of head, face, and neck"
+20172,"Hodgkin's disease, lymphocytic depletion, intrathoracic lymph nodes"
+20173,"Hodgkin's disease, lymphocytic depletion, intra-abdominal lymph nodes"
+20174,"Hodgkin's disease, lymphocytic depletion, lymph nodes of axilla and upper limb"
+20175,"Hodgkin's disease, lymphocytic depletion, lymph nodes of inguinal region and lower limb"
+20176,"Hodgkin's disease, lymphocytic depletion, intrapelvic lymph nodes"
+20177,"Hodgkin's disease, lymphocytic depletion, spleen"
+20178,"Hodgkin's disease, lymphocytic depletion, lymph nodes of multiple sites"
+20190,"Hodgkin's disease, unspecified type, unspecified site, extranodal and solid organ sites"
+20191,"Hodgkin's disease, unspecified type, lymph nodes of head, face, and neck"
+20192,"Hodgkin's disease, unspecified type, intrathoracic lymph nodes"
+20193,"Hodgkin's disease, unspecified type, intra-abdominal lymph nodes"
+20194,"Hodgkin's disease, unspecified type, lymph nodes of axilla and upper limb"
+20195,"Hodgkin's disease, unspecified type, lymph nodes of inguinal region and lower limb"
+20196,"Hodgkin's disease, unspecified type, intrapelvic lymph nodes"
+20197,"Hodgkin's disease, unspecified type, spleen"
+20198,"Hodgkin's disease, unspecified type, lymph nodes of multiple sites"
+20200,"Nodular lymphoma, unspecified site, extranodal and solid organ sites"
+20201,"Nodular lymphoma, lymph nodes of head, face, and neck"
+20202,"Nodular lymphoma, intrathoracic lymph nodes"
+20203,"Nodular lymphoma, intra-abdominal lymph nodes"
+20204,"Nodular lymphoma, lymph nodes of axilla and upper limb"
+20205,"Nodular lymphoma, lymph nodes of inguinal region and lower limb"
+20206,"Nodular lymphoma, intrapelvic lymph nodes"
+20207,"Nodular lymphoma, spleen"
+20208,"Nodular lymphoma, lymph nodes of multiple sites"
+20210,"Mycosis fungoides, unspecified site, extranodal and solid organ sites"
+20211,"Mycosis fungoides, lymph nodes of head, face, and neck"
+20212,"Mycosis fungoides, intrathoracic lymph nodes"
+20213,"Mycosis fungoides, intra-abdominal lymph nodes"
+20214,"Mycosis fungoides, lymph nodes of axilla and upper limb"
+20215,"Mycosis fungoides, lymph nodes of inguinal region and lower limb"
+20216,"Mycosis fungoides, intrapelvic lymph nodes"
+20217,"Mycosis fungoides, spleen"
+20218,"Mycosis fungoides, lymph nodes of multiple sites"
+20220,"Sezary's disease, unspecified site, extranodal and solid organ sites"
+20221,"Sezary's disease, lymph nodes of head, face, and neck"
+20222,"Sezary's disease, intrathoracic lymph nodes"
+20223,"Sezary's disease, intra-abdominal lymph nodes"
+20224,"Sezary's disease, lymph nodes of axilla and upper limb"
+20225,"Sezary's disease, lymph nodes of inguinal region and lower limb"
+20226,"Sezary's disease, intrapelvic lymph nodes"
+20227,"Sezary's disease, spleen"
+20228,"Sezary's disease, lymph nodes of multiple sites"
+20230,"Malignant histiocytosis, unspecified site, extranodal and solid organ sites"
+20231,"Malignant histiocytosis, lymph nodes of head, face, and neck"
+20232,"Malignant histiocytosis, intrathoracic lymph nodes"
+20233,"Malignant histiocytosis, intra-abdominal lymph nodes"
+20234,"Malignant histiocytosis, lymph nodes of axilla and upper limb"
+20235,"Malignant histiocytosis, lymph nodes of inguinal region and lower limb"
+20236,"Malignant histiocytosis, intrapelvic lymph nodes"
+20237,"Malignant histiocytosis, spleen"
+20238,"Malignant histiocytosis, lymph nodes of multiple sites"
+20240,"Leukemic reticuloendotheliosis, unspecified site, extranodal and solid organ sites"
+20241,"Leukemic reticuloendotheliosis, lymph nodes of head, face, and neck"
+20242,"Leukemic reticuloendotheliosis, intrathoracic lymph nodes"
+20243,"Leukemic reticuloendotheliosis, intra-abdominal lymph nodes"
+20244,"Leukemic reticuloendotheliosis, lymph nodes of axilla and upper arm"
+20245,"Leukemic reticuloendotheliosis, lymph nodes of inguinal region and lower limb"
+20246,"Leukemic reticuloendotheliosis, intrapelvic lymph nodes"
+20247,"Leukemic reticuloendotheliosis, spleen"
+20248,"Leukemic reticuloendotheliosis, lymph nodes of multiple sites"
+20250,"Letterer-siwe disease, unspecified site, extranodal and solid organ sites"
+20251,"Letterer-siwe disease, lymph nodes of head, face, and neck"
+20252,"Letterer-siwe disease, intrathoracic lymph nodes"
+20253,"Letterer-siwe disease, intra-abdominal lymph nodes"
+20254,"Letterer-siwe disease, lymph nodes of axilla and upper limb"
+20255,"Letterer-siwe disease, lymph nodes of inguinal region and lower limb"
+20256,"Letterer-siwe disease, intrapelvic lymph nodes"
+20257,"Letterer-siwe disease, spleen"
+20258,"Letterer-siwe disease, lymph nodes of multiple sites"
+20260,"Malignant mast cell tumors, unspecified site, extranodal and solid organ sites"
+20261,"Malignant mast cell tumors, lymph nodes of head, face, and neck"
+20262,"Malignant mast cell tumors, intrathoracic lymph nodes"
+20263,"Malignant mast cell tumors, intra-abdominal lymph nodes"
+20264,"Malignant mast cell tumors, lymph nodes of axilla and upper limb"
+20265,"Malignant mast cell tumors, lymph nodes of inguinal region and lower limb"
+20266,"Malignant mast cell tumors, intrapelvic lymph nodes"
+20267,"Malignant mast cell tumors, spleen"
+20268,"Malignant mast cell tumors, lymph nodes of multiple sites"
+20270,"Peripheral T cell lymphoma, unspecified site, extranodal and solid organ sites"
+20271,"Peripheral T cell lymphoma, lymph nodes of head, face, and neck"
+20272,"Peripheral T cell lymphoma, intrathoracic lymph nodes"
+20273,"Peripheral T cell lymphoma, intra-abdominal lymph nodes"
+20274,"Peripheral T cell lymphoma, lymph nodes of axilla and upper limb"
+20275,"Peripheral T cell lymphoma, lymph nodes of inguinal region and lower limb"
+20276,"Peripheral T cell lymphoma, intrapelvic lymph nodes"
+20277,"Peripheral T cell lymphoma, spleen"
+20278,"Peripheral T cell lymphoma, lymph nodes of multiple sites"
+20280,"Other malignant lymphomas, unspecified site, extranodal and solid organ sites"
+20281,"Other malignant lymphomas, lymph nodes of head, face, and neck"
+20282,"Other malignant lymphomas, intrathoracic lymph nodes"
+20283,"Other malignant lymphomas, intra-abdominal lymph nodes"
+20284,"Other malignant lymphomas, lymph nodes of axilla and upper limb"
+20285,"Other malignant lymphomas, lymph nodes of inguinal region and lower limb"
+20286,"Other malignant lymphomas, intrapelvic lymph nodes"
+20287,"Other malignant lymphomas, spleen"
+20288,"Other malignant lymphomas, lymph nodes of multiple sites"
+20290,"Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, unspecified site, extranodal and solid organ sites"
+20291,"Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, lymph nodes of head, face, and neck"
+20292,"Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, intrathoracic lymph nodes"
+20293,"Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, intra-abdominal lymph nodes"
+20294,"Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, lymph nodes of axilla and upper limb"
+20295,"Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, lymph nodes of inguinal region and lower limb"
+20296,"Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, intrapelvic lymph nodes"
+20297,"Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, spleen"
+20298,"Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, lymph nodes of multiple sites"
+20300,"Multiple myeloma, without mention of having achieved remission"
+20301,"Multiple myeloma, in remission"
+20302,"Multiple myeloma, in relapse"
+20310,"Plasma cell leukemia, without mention of having achieved remission"
+20311,"Plasma cell leukemia, in remission"
+20312,"Plasma cell leukemia, in relapse"
+20380,"Other immunoproliferative neoplasms, without mention of having achieved remission"
+20381,"Other immunoproliferative neoplasms, in remission"
+20382,"Other immunoproliferative neoplasms, in relapse"
+20400,"Acute lymphoid leukemia, without mention of having achieved remission"
+20401,"Acute lymphoid leukemia, in remission"
+20402,"Acute lymphoid leukemia, in relapse"
+20410,"Chronic lymphoid leukemia, without mention of having achieved remission"
+20411,"Chronic lymphoid leukemia, in remission"
+20412,"Chronic lymphoid leukemia, in relapse"
+20420,"Subacute lymphoid leukemia, without mention of having achieved remission"
+20421,"Subacute lymphoid leukemia, in remission"
+20422,"Subacute lymphoid leukemia, in relapse"
+20480,"Other lymphoid leukemia, without mention of having achieved remission"
+20481,"Other lymphoid leukemia, in remission"
+20482,"Other lymphoid leukemia, in relapse"
+20490,"Unspecified lymphoid leukemia, without mention of having achieved remission"
+20491,"Unspecified lymphoid leukemia, in remission"
+20492,"Unspecified lymphoid leukemia, in relapse"
+20500,"Acute myeloid leukemia, without mention of having achieved remission"
+20501,"Acute myeloid leukemia, in remission"
+20502,"Acute myeloid leukemia, in relapse"
+20510,"Chronic myeloid leukemia, without mention of having achieved remission"
+20511,"Chronic myeloid leukemia, in remission"
+20512,"Chronic myeloid leukemia, in relapse"
+20520,"Subacute myeloid leukemia, without mention of having achieved remission"
+20521,"Subacute myeloid leukemia,in remission"
+20522,"Subacute myeloid leukemia, in relapse"
+20530,"Myeloid sarcoma, without mention of having achieved remission"
+20531,"Myeloid sarcoma, in remission"
+20532,"Myeloid sarcoma, in relapse"
+20580,"Other myeloid leukemia, without mention of having achieved remission"
+20581,"Other myeloid leukemia, in remission"
+20582,"Other myeloid leukemia, in relapse"
+20590,"Unspecified myeloid leukemia, without mention of having achieved remission"
+20591,"Unspecified myeloid leukemia, in remission"
+20592,"Unspecified myeloid leukemia, in relapse"
+20600,"Acute monocytic leukemia, without mention of having achieved remission"
+20601,"Acute monocytic leukemia,in remission"
+20602,"Acute monocytic leukemia, in relapse"
+20610,"Chronic monocytic leukemia, without mention of having achieved remission"
+20611,"Chronic monocytic leukemia, in remission"
+20612,"Chronic monocytic leukemia, in relapse"
+20620,"Subacute monocytic leukemia, without mention of having achieved remission"
+20621,"Subacute monocytic leukemia, in remission"
+20622,"Subacute monocytic leukemia, in relapse"
+20680,"Other monocytic leukemia, without mention of having achieved remission"
+20681,"Other monocytic leukemia, in remission"
+20682,"Other monocytic leukemia, in relapse"
+20690,"Unspecified monocytic leukemia, without mention of having achieved remission"
+20691,"Unspecified monocytic leukemia, in remission"
+20692,"Unspecified monocytic leukemia, in relapse"
+20700,"Acute erythremia and erythroleukemia, without mention of having achieved remission"
+20701,"Acute erythremia and erythroleukemia, in remission"
+20702,"Acute erythremia and erythroleukemia, in relapse"
+20710,"Chronic erythremia, without mention of having achieved remission"
+20711,"Chronic erythremia, in remission"
+20712,"Chronic erythremia, in relapse"
+20720,"Megakaryocytic leukemia, without mention of having achieved remission"
+20721,"Megakaryocytic leukemia, in remission"
+20722,"Megakaryocytic leukemia, in relapse"
+20780,"Other specified leukemia, without mention of having achieved remission"
+20781,"Other specified leukemia, in remission"
+20782,"Other specified leukemia, in relapse"
+20800,"Acute leukemia of unspecified cell type, without mention of having achieved remission"
+20801,"Acute leukemia of unspecified cell type, in remission"
+20802,"Acute leukemia of unspecified cell type, in relapse"
+20810,"Chronic leukemia of unspecified cell type, without mention of having achieved remission"
+20811,"Chronic leukemia of unspecified cell type, in remission"
+20812,"Chronic leukemia of unspecified cell type, in relapse"
+20820,"Subacute leukemia of unspecified cell type, without mention of having achieved remission"
+20821,"Subacute leukemia of unspecified cell type, in remission"
+20822,"Subacute leukemia of unspecified cell type, in relapse"
+20880,"Other leukemia of unspecified cell type, without mention of having achieved remission"
+20881,"Other leukemia of unspecified cell type, in remission"
+20882,"Other leukemia of unspecified cell type, in relapse"
+20890,"Unspecified leukemia, without mention of having achieved remission"
+20891,"Unspecified leukemia, in remission"
+20892,"Unspecified leukemia, in relapse"
+20900,"Malignant carcinoid tumor of the small intestine, unspecified portion"
+20901,Malignant carcinoid tumor of the duodenum
+20902,Malignant carcinoid tumor of the jejunum
+20903,Malignant carcinoid tumor of the ileum
+20910,"Malignant carcinoid tumor of the large intestine, unspecified portion"
+20911,Malignant carcinoid tumor of the appendix
+20912,Malignant carcinoid tumor of the cecum
+20913,Malignant carcinoid tumor of the ascending colon
+20914,Malignant carcinoid tumor of the transverse colon
+20915,Malignant carcinoid tumor of the descending colon
+20916,Malignant carcinoid tumor of the sigmoid colon
+20917,Malignant carcinoid tumor of the rectum
+20920,Malignant carcinoid tumor of unknown primary site
+20921,Malignant carcinoid tumor of the bronchus and lung
+20922,Malignant carcinoid tumor of the thymus
+20923,Malignant carcinoid tumor of the stomach
+20924,Malignant carcinoid tumor of the kidney
+20925,"Malignant carcinoid tumor of foregut, not otherwise specified"
+20926,"Malignant carcinoid tumor of midgut, not otherwise specified"
+20927,"Malignant carcinoid tumor of hindgut, not otherwise specified"
+20929,Malignant carcinoid tumor of other sites
+20930,"Malignant poorly differentiated neuroendocrine carcinoma, any site"
+20931,Merkel cell carcinoma of the face
+20932,Merkel cell carcinoma of the scalp and neck
+20933,Merkel cell carcinoma of the upper limb
+20934,Merkel cell carcinoma of the lower limb
+20935,Merkel cell carcinoma of the trunk
+20936,Merkel cell carcinoma of other sites
+20970,"Secondary neuroendocrine tumor, unspecified site"
+20971,Secondary neuroendocrine tumor of distant lymph nodes
+20972,Secondary neuroendocrine tumor of liver
+20973,Secondary neuroendocrine tumor of bone
+20974,Secondary neuroendocrine tumor of peritoneum
+20975,Secondary Merkel cell carcinoma
+20979,Secondary neuroendocrine tumor of other sites
+23330,"Carcinoma in situ, unspecified female genital organ"
+23331,"Carcinoma in situ, vagina"
+23332,"Carcinoma in situ, vulva"
+23339,"Carcinoma in situ, other female genital organ"
+23690,"Neoplasm of uncertain behavior of urinary organ, unspecified"
+23691,Neoplasm of uncertain behavior of kidney and ureter
+23699,Neoplasm of uncertain behavior of other and unspecified urinary organs
+23770,"Neurofibromatosis, unspecified"
+23771,"Neurofibromatosis, type 1 [von recklinghausen's disease]"
+23772,"Neurofibromatosis, type 2 [acoustic neurofibromatosis]"
+23773,Schwannomatosis
+23779,Other neurofibromatosis
+23871,Essential thrombocythemia
+23872,Low grade myelodysplastic syndrome lesions
+23873,High grade myelodysplastic syndrome lesions
+23874,Myelodysplastic syndrome with 5q deletion
+23875,"Myelodysplastic syndrome, unspecified"
+23876,Myelofibrosis with myeloid metaplasia
+23877,Post-transplant lymphoproliferative disorder (PTLD)
+23879,Other lymphatic and hematopoietic tissues
+23981,"Neoplasms of unspecified nature, retina and choroid"
+23989,"Neoplasms of unspecified nature, other specified sites"
+78650,"Chest pain, unspecified"
+78651,Precordial pain
+78659,Other chest pain
+390,Rheumatic fever without mention of heart involvement
+3910,Acute rheumatic pericarditis
+3911,Acute rheumatic endocarditis
+3912,Acute rheumatic myocarditis
+3918,Other acute rheumatic heart disease
+3919,"Acute rheumatic heart disease, unspecified"
+3920,Rheumatic chorea with heart involvement
+393,Chronic rheumatic pericarditis
+3940,Mitral stenosis
+3941,Rheumatic mitral insufficiency
+3942,Mitral stenosis with insufficiency
+3949,Other and unspecified mitral valve diseases
+3950,Rheumatic aortic stenosis
+3951,Rheumatic aortic insufficiency
+3952,Rheumatic aortic stenosis with insufficiency
+3959,Other and unspecified rheumatic aortic diseases
+3960,Mitral valve stenosis and aortic valve stenosis
+3961,Mitral valve stenosis and aortic valve insufficiency
+3962,Mitral valve insufficiency and aortic valve stenosis
+3963,Mitral valve insufficiency and aortic valve insufficiency
+3968,Multiple involvement of mitral and aortic valves
+3969,"Mitral and aortic valve diseases, unspecified"
+3970,Diseases of tricuspid valve
+3971,Rheumatic diseases of pulmonary valve
+3979,"Rheumatic diseases of endocardium, valve unspecified"
+3980,Rheumatic myocarditis
+39890,"Rheumatic heart disease, unspecified"
+39891,Rheumatic heart failure (congestive)
+39899,Other rheumatic heart diseases
+40200,Malignant hypertensive heart disease without heart failure
+40201,Malignant hypertensive heart disease with heart failure
+40210,Benign hypertensive heart disease without heart failure
+40211,Benign hypertensive heart disease with heart failure
+40290,Unspecified hypertensive heart disease without heart failure
+40291,Unspecified hypertensive heart disease with heart failure
+41000,"Acute myocardial infarction of anterolateral wall, episode of care unspecified"
+41001,"Acute myocardial infarction of anterolateral wall, initial episode of care"
+41002,"Acute myocardial infarction of anterolateral wall, subsequent episode of care"
+41010,"Acute myocardial infarction of other anterior wall, episode of care unspecified"
+41011,"Acute myocardial infarction of other anterior wall, initial episode of care"
+41012,"Acute myocardial infarction of other anterior wall, subsequent episode of care"
+41020,"Acute myocardial infarction of inferolateral wall, episode of care unspecified"
+41021,"Acute myocardial infarction of inferolateral wall, initial episode of care"
+41022,"Acute myocardial infarction of inferolateral wall, subsequent episode of care"
+41030,"Acute myocardial infarction of inferoposterior wall, episode of care unspecified"
+41031,"Acute myocardial infarction of inferoposterior wall, initial episode of care"
+41032,"Acute myocardial infarction of inferoposterior wall, subsequent episode of care"
+41040,"Acute myocardial infarction of other inferior wall, episode of care unspecified"
+41041,"Acute myocardial infarction of other inferior wall, initial episode of care"
+41042,"Acute myocardial infarction of other inferior wall, subsequent episode of care"
+41050,"Acute myocardial infarction of other lateral wall, episode of care unspecified"
+41051,"Acute myocardial infarction of other lateral wall, initial episode of care"
+41052,"Acute myocardial infarction of other lateral wall, subsequent episode of care"
+41060,"True posterior wall infarction, episode of care unspecified"
+41061,"True posterior wall infarction, initial episode of care"
+41062,"True posterior wall infarction, subsequent episode of care"
+41070,"Subendocardial infarction, episode of care unspecified"
+41071,"Subendocardial infarction, initial episode of care"
+41072,"Subendocardial infarction, subsequent episode of care"
+41080,"Acute myocardial infarction of other specified sites, episode of care unspecified"
+41081,"Acute myocardial infarction of other specified sites, initial episode of care"
+41082,"Acute myocardial infarction of other specified sites, subsequent episode of care"
+41090,"Acute myocardial infarction of unspecified site, episode of care unspecified"
+41091,"Acute myocardial infarction of unspecified site, initial episode of care"
+41092,"Acute myocardial infarction of unspecified site, subsequent episode of care"
+4110,Postmyocardial infarction syndrome
+4111,Intermediate coronary syndrome
+41181,Acute coronary occlusion without myocardial infarction
+41189,"Other acute and subacute forms of ischemic heart disease, other"
+412,Old myocardial infarction
+4130,Angina decubitus
+4131,Prinzmetal angina
+4139,Other and unspecified angina pectoris
+41400,"Coronary atherosclerosis of unspecified type of vessel, native or graft"
+41401,Coronary atherosclerosis of native coronary artery
+41402,Coronary atherosclerosis of autologous vein bypass graft
+41403,Coronary atherosclerosis of nonautologous biological bypass graft
+41404,Coronary atherosclerosis of artery bypass graft
+41405,Coronary atherosclerosis of unspecified bypass graft
+41406,Coronary atherosclerosis of native coronary artery of transplanted heart
+41407,Coronary atherosclerosis of bypass graft (artery) (vein) of transplanted heart
+41410,Aneurysm of heart (wall)
+41411,Aneurysm of coronary vessels
+41412,Dissection of coronary artery
+41419,Other aneurysm of heart
+4142,Chronic total occlusion of coronary artery
+4143,Coronary atherosclerosis due to lipid rich plaque
+4144,Coronary atherosclerosis due to calcified coronary lesion
+4148,Other specified forms of chronic ischemic heart disease
+4149,"Chronic ischemic heart disease, unspecified"
+4150,Acute cor pulmonale
+4200,Acute pericarditis in diseases classified elsewhere
+42090,"Acute pericarditis, unspecified"
+42091,Acute idiopathic pericarditis
+42099,Other acute pericarditis
+4210,Acute and subacute bacterial endocarditis
+4211,Acute and subacute infective endocarditis in diseases classified elsewhere
+4219,"Acute endocarditis, unspecified"
+4220,Acute myocarditis in diseases classified elsewhere
+42290,"Acute myocarditis, unspecified"
+42291,Idiopathic myocarditis
+42292,Septic myocarditis
+42293,Toxic myocarditis
+42299,Other acute myocarditis
+4230,Hemopericardium
+4231,Adhesive pericarditis
+4232,Constrictive pericarditis
+4233,Cardiac tamponade
+4238,Other specified diseases of pericardium
+4239,Unspecified disease of pericardium
+4240,Mitral valve disorders
+4241,Aortic valve disorders
+4242,"Tricuspid valve disorders, specified as nonrheumatic"
+4243,Pulmonary valve disorders
+42490,"Endocarditis, valve unspecified, unspecified cause"
+42491,Endocarditis in diseases classified elsewhere
+42499,"Other endocarditis, valve unspecified"
+4250,Endomyocardial fibrosis
+42511,Hypertrophic obstructive cardiomyopathy
+42518,Other hypertrophic cardiomyopathy
+4252,Obscure cardiomyopathy of Africa
+4253,Endocardial fibroelastosis
+4254,Other primary cardiomyopathies
+4255,Alcoholic cardiomyopathy
+4257,Nutritional and metabolic cardiomyopathy
+4258,Cardiomyopathy in other diseases classified elsewhere
+4259,"Secondary cardiomyopathy, unspecified"
+4260,"Atrioventricular block, complete"
+42610,"Atrioventricular block, unspecified"
+42611,First degree atrioventricular block
+42612,Mobitz (type) II atrioventricular block
+42613,Other second degree atrioventricular block
+4262,Left bundle branch hemiblock
+4263,Other left bundle branch block
+4264,Right bundle branch block
+42650,"Bundle branch block, unspecified"
+42651,Right bundle branch block and left posterior fascicular block
+42652,Right bundle branch block and left anterior fascicular block
+42653,Other bilateral bundle branch block
+42654,Trifascicular block
+4266,Other heart block
+4267,Anomalous atrioventricular excitation
+42681,Lown-Ganong-Levine syndrome
+42682,Long QT syndrome
+42689,Other specified conduction disorders
+4269,"Conduction disorder, unspecified"
+4270,Paroxysmal supraventricular tachycardia
+4271,Paroxysmal ventricular tachycardia
+4272,"Paroxysmal tachycardia, unspecified"
+42731,Atrial fibrillation
+42732,Atrial flutter
+42741,Ventricular fibrillation
+42742,Ventricular flutter
+4275,Cardiac arrest
+42760,"Premature beats, unspecified"
+42761,Supraventricular premature beats
+42769,Other premature beats
+42781,Sinoatrial node dysfunction
+42789,Other specified cardiac dysrhythmias
+4279,"Cardiac dysrhythmia, unspecified"
+4280,"Congestive heart failure, unspecified"
+4281,Left heart failure
+42820,"Systolic heart failure, unspecified"
+42821,Acute systolic heart failure
+42822,Chronic systolic heart failure
+42823,Acute on chronic systolic heart failure
+42830,"Diastolic heart failure, unspecified"
+42831,Acute diastolic heart failure
+42832,Chronic diastolic heart failure
+42833,Acute on chronic diastolic heart failure
+42840,"Combined systolic and diastolic heart failure, unspecified"
+42841,Acute combined systolic and diastolic heart failure
+42842,Chronic combined systolic and diastolic heart failure
+42843,Acute on chronic combined systolic and diastolic heart failure
+4289,"Heart failure, unspecified"
+4290,"Myocarditis, unspecified"
+4291,Myocardial degeneration
+4292,"Cardiovascular disease, unspecified"
+4293,Cardiomegaly
+4294,Functional disturbances following cardiac surgery
+4295,Rupture of chordae tendineae
+4296,Rupture of papillary muscle
+42971,Acquired cardiac septal defect
+42979,"Certain sequelae of myocardial infarction, not elsewhere classified, other"
+42981,Other disorders of papillary muscle
+42982,Hyperkinetic heart disease
+42983,Takotsubo syndrome
+42989,Other ill-defined heart diseases
+4299,"Heart disease, unspecified"
+7450,Common truncus
+74510,Complete transposition of great vessels
+74511,Double outlet right ventricle
+74512,Corrected transposition of great vessels
+74519,Other transposition of great vessels
+7452,Tetralogy of fallot
+7453,Common ventricle
+7454,Ventricular septal defect
+7455,Ostium secundum type atrial septal defect
+74560,"Endocardial cushion defect, unspecified type"
+74561,Ostium primum defect
+74569,Other endocardial cushion defects
+7457,Cor biloculare
+7458,Other bulbus cordis anomalies and anomalies of cardiac septal closure
+7459,Unspecified defect of septal closure
+74600,"Congenital pulmonary valve anomaly, unspecified"
+74601,"Atresia of pulmonary valve, congenital"
+74602,"Stenosis of pulmonary valve, congenital"
+74609,Other congenital anomalies of pulmonary valve
+7461,"Tricuspid atresia and stenosis, congenital"
+7462,Ebstein's anomaly
+7463,Congenital stenosis of aortic valve
+7464,"Congenital insufficiency of aortic valve"
+7465,"Congenital mitral stenosis"
+7466,"Congenital mitral insufficiency"
+7467,"Hypoplastic left heart syndrome"
+74681,"Subaortic stenosis"
+74682,"Cor triatriatum"
+74683,"Infundibular pulmonic stenosis"
+74684,"Obstructive anomalies of heart, not elsewhere classified"
+74685,"Coronary artery anomaly"
+74686,"Congenital heart block"
+74687,"Malposition of heart and cardiac apex"
+74689,"Other specified congenital anomalies of heart"
+7469,"Unspecified congenital anomaly of heart"
+7470,"Patent ductus arteriosus"
+74710,"Coarctation of aorta (preductal) (postductal)"
+74711,"Interruption of aortic arch"
+74720,"Anomaly of aorta, unspecified"
+74721,"Anomalies of aortic arch"
+74722,"Atresia and stenosis of aorta"
+74729,"Other anomalies of aorta"
+74731,"Pulmonary artery coarctation and atresia"
+74732,"Pulmonary arteriovenous malformation"
+74739,"Other anomalies of pulmonary artery and pulmonary circulation"
+74740,"Anomaly of great veins, unspecified"
+74741,"Total anomalous pulmonary venous connection"
+74742,"Partial anomalous pulmonary venous connection"
+74749,"Other anomalies of great veins"
+7850,"Tachycardia, unspecified"
+7851,"Palpitations"
+7852,"Undiagnosed cardiac murmurs"
+7853,"Other abnormal heart sounds"
+7859,"Other symptoms involving cardiovascular system"
+03282,"Diphtheritic myocarditis"
+03643,"Meningococcal myocarditis"
+07423,"Coxsackie myocarditis"
+03640,"Meningococcal carditis, unspecified"
+03641,"Meningococcal pericarditis"
+03642,"Meningococcal endocarditis"
+03643,"Meningococcal myocarditis"
+07420,"Coxsackie carditis, unspecified"
+07421,"Coxsackie pericarditis"
+07422,"Coxsackie endocarditis"
+07423,"Coxsackie myocarditis"
+0930,"Aneurysm of aorta, specified as syphilitic"
+0931,"Syphilitic aortitis"
+09320,"Syphilitic endocarditis of valve, unspecified"
+09321,"Syphilitic endocarditis of mitral valve"
+09322,"Syphilitic endocarditis of aortic valve"
+09323,"Syphilitic endocarditis of tricuspid valve"
+09324,"Syphilitic endocarditis of pulmonary valve"
+09381,"Syphilitic pericarditis"
+09382,"Syphilitic myocarditis"
+09389,"Other specified cardiovascular syphilis"
+0939,"Cardiovascular syphilis, unspecified"
+1303,"Myocarditis due to toxoplasmosis"
+09882,"Gonococcal meningitis"
+09883,"Gonococcal pericarditis"
+09884,"Gonococcal endocarditis"
+09885,"Other gonococcal heart disease"
+11503,"Infection by Histoplasma capsulatum, pericarditis"
+11504,"Infection by Histoplasma capsulatum, endocarditis"
+11513,"Infection by Histoplasma duboisii, pericarditis"
+11514,"Infection by Histoplasma duboisii, endocarditis"
+11593,"Histoplasmosis, unspecified, pericarditis"
+11594,"Histoplasmosis, unspecified, endocarditis"
+67450,"Peripartum cardiomyopathy, unspecified as to episode of care or not applicable"
+67451,"Peripartum cardiomyopathy, delivered, with or without mention of antepartum condition"
+67452,"Peripartum cardiomyopathy, delivered, with mention of postpartum condition"
+67453,"Peripartum cardiomyopathy, antepartum condition or complication"
+67454,"Peripartum cardiomyopathy, postpartum condition or complication"
+79430,"Abnormal cardiovascular function study, unspecified"
+79431,"Nonspecific abnormal electrocardiogram [ECG] [EKG]"
+79439,"Other nonspecific abnormal results of function study of cardiovascular system"
+3062,"Cardiovascular malfunction arising from mental factors"
+7200,Ankylosing spondylitis
+7201,Spinal enthesopathy
+7202,"Sacroiliitis, not elsewhere classified"
+72081,Inflammatory spondylopathies in diseases classified elsewhere
+72089,Other inflammatory spondylopathies
+7209,Unspecified inflammatory spondylopathy
+7213,Lumbosacral spondylosis without myelopathy
+72141,"Spondylosis with myelopathy, thoracic region"
+72142,"Spondylosis with myelopathy, lumbar region"
+7215,Kissing spine
+7216,Ankylosing vertebral hyperostosis
+7217,Traumatic spondylopathy
+7212,Thoracic spondylosis without myelopathy
+72190,"Spondylosis of unspecified site, without mention of myelopathy"
+72191,"Spondylosis of unspecified site, with myelopathy"
+72251,Degeneration of thoracic or thoracolumbar intervertebral disc
+72252,Degeneration of lumbar or lumbosacral intervertebral disc
+7226,"Degeneration of intervertebral disc, site unspecified"
+72270,"Intervertebral disc disorder with myelopathy, unspecified region"
+72271,"Intervertebral disc disorder with myelopathy, cervical region"
+72272,"Intervertebral disc disorder with myelopathy, thoracic region"
+72273,"Intervertebral disc disorder with myelopathy, lumbar region"
+72280,"Postlaminectomy syndrome, unspecified region"
+72282,"Postlaminectomy syndrome, thoracic region"
+72283,"Postlaminectomy syndrome, lumbar region"
+72290,"Other and unspecified disc disorder, unspecified region"
+72291,"Other and unspecified disc disorder, cervical region"
+72292,"Other and unspecified disc disorder, thoracic region"
+72293,"Other and unspecified disc disorder, lumbar region"
+72400,"Spinal stenosis, unspecified region"
+72401,"Spinal stenosis, thoracic region"
+72402,"Spinal stenosis, lumbar region, without neurogenic claudication"
+72403,"Spinal stenosis, lumbar region, with neurogenic claudication"
+72409,"Spinal stenosis, other region"
+7241,Pain in thoracic spine
+7242,Lumbago
+7243,Sciatica
+7244,"Thoracic or lumbosacral neuritis or radiculitis, unspecified"
+7245,"Backache, unspecified"
+95210,T1-T6 level with unspecified spinal cord injury
+95211,T1-T6 level with complete lesion of spinal cord
+95212,T1-T6 level with anterior cord syndrome
+95213,T1-T6 level with central cord syndrome
+95214,T1-T6 level with other specified spinal cord injury
+95215,T7-T12 level with unspecified spinal cord injury
+95216,T7-T12 level with complete lesion of spinal cord
+95217,T7-T12 level with anterior cord syndrome
+95218,T7-T12 level with central cord syndrome
+95219,T7-T12 level with other specified spinal cord injury
+9522,Lumbar spinal cord injury without evidence of spinal bone injury
+9523,Sacral spinal cord injury without evidence of spinal bone injury
+9524,Cauda equina spinal cord injury without evidence of spinal bone injury
+9528,Multiple sites of spinal cord injury without evidence of spinal bone injury
+9529,Unspecified site of spinal cord injury without evidence of spinal bone injury
+9532,Injury to lumbar nerve root
+9533,Injury to sacral nerve root
+9534,Injury to brachial plexus
+9535,Injury to lumbosacral plexus
+9538,Injury to multiple sites of nerve roots and spinal plexus
+9539,Injury to unspecified site of nerve roots and spinal plexus
+9560,Injury to sciatic nerve
+9561,Injury to femoral nerve
+20940,"Benign carcinoid tumor of the small intestine, unspecified portion"
+20941,Benign carcinoid tumor of the duodenum
+20942,Benign carcinoid tumor of the jejunum
+20943,Benign carcinoid tumor of the ileum
+20950,"Benign carcinoid tumor of the large intestine, unspecified portion"
+20951,Benign carcinoid tumor of the appendix
+20952,Benign carcinoid tumor of the cecum
+20953,Benign carcinoid tumor of the ascending colon
+20954,Benign carcinoid tumor of the transverse colon
+20955,Benign carcinoid tumor of the descending colon
+20956,Benign carcinoid tumor of the sigmoid colon
+20957,Benign carcinoid tumor of the rectum
+20960,Benign carcinoid tumor of unknown primary site
+20961,Benign carcinoid tumor of the bronchus and lung
+20962,Benign carcinoid tumor of the thymus
+20963,Benign carcinoid tumor of the stomach
+20964,Benign carcinoid tumor of the kidney
+20965,"Benign carcinoid tumor of foregut, not otherwise specified"
+20966,"Benign carcinoid tumor of midgut, not otherwise specified"
+20967,"Benign carcinoid tumor of hindgut, not otherwise specified"
+20969,Benign carcinoid tumor of other sites
+2100,Benign neoplasm of lip
+2101,Benign neoplasm of tongue
+2102,Benign neoplasm of major salivary glands
+2103,Benign neoplasm of floor of mouth
+2104,Benign neoplasm of other and unspecified parts of mouth
+2105,Benign neoplasm of tonsil
+2106,Benign neoplasm of other parts of oropharynx
+2107,Benign neoplasm of nasopharynx
+2108,Benign neoplasm of hypopharynx
+2109,"Benign neoplasm of pharynx, unspecified"
+2110,Benign neoplasm of esophagus
+2111,Benign neoplasm of stomach
+2112,"Benign neoplasm of duodenum, jejunum, and ileum"
+2113,Benign neoplasm of colon
+2114,Benign neoplasm of rectum and anal canal
+2115,Benign neoplasm of liver and biliary passages
+2116,"Benign neoplasm of pancreas, except islets of Langerhans"
+2117,Benign neoplasm of islets of Langerhans
+2118,Benign neoplasm of retroperitoneum and peritoneum
+2119,Benign neoplasm of other and unspecified site in the digestive system
+2120,"Benign neoplasm of nasal cavities, middle ear, and accessory sinuses"
+2121,Benign neoplasm of larynx
+2122,Benign neoplasm of trachea
+2123,Benign neoplasm of bronchus and lung
+2124,Benign neoplasm of pleura
+2125,Benign neoplasm of mediastinum
+2126,Benign neoplasm of thymus
+2127,Benign neoplasm of heart
+2128,Benign neoplasm of other specified sites of respiratory and intrathoracic organs
+2129,"Benign neoplasm of respiratory and intrathoracic organs, site unspecified"
+2130,Benign neoplasm of bones of skull and face
+2131,Benign neoplasm of lower jaw bone
+2132,"Benign neoplasm of vertebral column, excluding sacrum and coccyx"
+2133,"Benign neoplasm of ribs, sternum, and clavicle"
+2134,Benign neoplasm of scapula and long bones of upper limb
+2135,Benign neoplasm of short bones of upper limb
+2136,"Benign neoplasm of pelvic bones, sacrum, and coccyx"
+2137,Benign neoplasm of long bones of lower limb
+2138,Benign neoplasm of short bones of lower limb
+2139,"Benign neoplasm of bone and articular cartilage, site unspecified"
+2140,Lipoma of skin and subcutaneous tissue of face
+2141,Lipoma of other skin and subcutaneous tissue
+2142,Lipoma of intrathoracic organs
+2143,Lipoma of intra-abdominal organs
+2144,Lipoma of spermatic cord
+2148,Lipoma of other specified sites
+2149,"Lipoma, unspecified site"
+2150,"Other benign neoplasm of connective and other soft tissue of head, face, and neck"
+2152,"Other benign neoplasm of connective and other soft tissue of upper limb, including shoulder"
+2153,"Other benign neoplasm of connective and other soft tissue of lower limb, including hip"
+2154,Other benign neoplasm of connective and other soft tissue of thorax
+2155,Other benign neoplasm of connective and other soft tissue of abdomen
+2156,Other benign neoplasm of connective and other soft tissue of pelvis
+2157,"Other benign neoplasm of connective and other soft tissue of trunk, unspecified"
+2158,Other benign neoplasm of connective and other soft tissue of other specified sites
+2159,"Other benign neoplasm of connective and other soft tissue, site unspecified"
+2160,Benign neoplasm of skin of lip
+2161,"Benign neoplasm of eyelid, including canthus"
+2162,Benign neoplasm of ear and external auditory canal
+2163,Benign neoplasm of skin of other and unspecified parts of face
+2164,Benign neoplasm of scalp and skin of neck
+2165,"Benign neoplasm of skin of trunk, except scrotum"
+2166,"Benign neoplasm of skin of upper limb, including shoulder"
+2167,"Benign neoplasm of skin of lower limb, including hip"
+2168,Benign neoplasm of other specified sites of skin
+2169,"Benign neoplasm of skin, site unspecified"
+217,Benign neoplasm of breast
+2180,Submucous leiomyoma of uterus
+2181,Intramural leiomyoma of uterus
+2182,Subserous leiomyoma of uterus
+2189,"Leiomyoma of uterus, unspecified"
+2190,Benign neoplasm of cervix uteri
+2191,Benign neoplasm of corpus uteri
+2198,Benign neoplasm of other specified parts of uterus
+2199,"Benign neoplasm of uterus, part unspecified"
+220,Benign neoplasm of ovary
+2210,Benign neoplasm of fallopian tube and uterine ligaments
+2211,Benign neoplasm of vagina
+2212,Benign neoplasm of vulva
+2218,Benign neoplasm of other specified sites of female genital organs
+2219,"Benign neoplasm of female genital organ, site unspecified"
+2220,Benign neoplasm of testis
+2221,Benign neoplasm of penis
+2222,Benign neoplasm of prostate
+2223,Benign neoplasm of epididymis
+2224,Benign neoplasm of scrotum
+2228,Benign neoplasm of other specified sites of male genital organs
+2229,"Benign neoplasm of male genital organ, site unspecified"
+2230,"Benign neoplasm of kidney, except pelvis"
+2231,Benign neoplasm of renal pelvis
+2232,Benign neoplasm of ureter
+2233,Benign neoplasm of bladder
+22381,Benign neoplasm of urethra
+22389,Benign neoplasm of other specified sites of urinary organs
+2239,"Benign neoplasm of urinary organ, site unspecified"
+2240,"Benign neoplasm of eyeball, except conjunctiva, cornea, retina, and choroid"
+2241,Benign neoplasm of orbit
+2242,Benign neoplasm of lacrimal gland
+2243,Benign neoplasm of conjunctiva
+2244,Benign neoplasm of cornea
+2245,Benign neoplasm of retina
+2246,Benign neoplasm of choroid
+2247,Benign neoplasm of lacrimal duct
+2248,Benign neoplasm of other specified parts of eye
+2249,"Benign neoplasm of eye, part unspecified"
+2250,Benign neoplasm of brain
+2251,Benign neoplasm of cranial nerves
+2252,Benign neoplasm of cerebral meninges
+2253,Benign neoplasm of spinal cord
+2254,Benign neoplasm of spinal meninges
+2258,Benign neoplasm of other specified sites of nervous system
+2259,"Benign neoplasm of nervous system, part unspecified"
+226,Benign neoplasm of thyroid glands
+2270,Benign neoplasm of adrenal gland
+2271,Benign neoplasm of parathyroid gland
+2273,Benign neoplasm of pituitary gland and craniopharyngeal duct
+2274,Benign neoplasm of pineal gland
+2275,Benign neoplasm of carotid body
+2276,Benign neoplasm of aortic body and other paraganglia
+2278,Benign neoplasm of other endocrine glands and related structures
+2279,"Benign neoplasm of endocrine gland, site unspecified"
+22800,Hemangioma of unspecified site
+22801,Hemangioma of skin and subcutaneous tissue
+22802,Hemangioma of intracranial structures
+22803,Hemangioma of retina
+22804,Hemangioma of intra-abdominal structures
+22809,Hemangioma of other sites
+2281,"Lymphangioma, any site"
+2290,Benign neoplasm of lymph nodes
+2298,Benign neoplasm of other specified sites
+2299,Benign neoplasm of unspecified site
+1639,"Malignant neoplasm of pleura, unspecified"
+1640,Malignant neoplasm of thymus
+1641,Malignant neoplasm of heart
+1642,Malignant neoplasm of anterior mediastinum
+1643,Malignant neoplasm of posterior mediastinum
+1648,Malignant neoplasm of other parts of mediastinum
+1649,"Malignant neoplasm of mediastinum, part unspecified"
+1650,"Malignant neoplasm of upper respiratory tract, part unspecified"
+1658,Malignant neoplasm of other sites within the respiratory system and intrathoracic organs
+1659,Malignant neoplasm of ill-defined sites within the respiratory system
+1700,"Malignant neoplasm of bones of skull and face, except mandible"
+1701,Malignant neoplasm of mandible
+1702,"Malignant neoplasm of vertebral column, excluding sacrum and coccyx"
+1703,"Malignant neoplasm of ribs, sternum, and clavicle"
+1704,Malignant neoplasm of scapula and long bones of upper limb
+1705,Malignant neoplasm of short bones of upper limb
+1706,"Malignant neoplasm of pelvic bones, sacrum, and coccyx"
+1707,Malignant neoplasm of long bones of lower limb
+1708,Malignant neoplasm of short bones of lower limb
+1709,"Malignant neoplasm of bone and articular cartilage, site unspecified"
+1710,"Malignant neoplasm of connective and other soft tissue of head, face, and neck"
+1712,"Malignant neoplasm of connective and other soft tissue of upper limb, including shoulder"
+1713,"Malignant neoplasm of connective and other soft tissue of lower limb, including hip"
+1714,Malignant neoplasm of connective and other soft tissue of thorax
+1715,Malignant neoplasm of connective and other soft tissue of abdomen
+1716,Malignant neoplasm of connective and other soft tissue of pelvis
+1717,"Malignant neoplasm of connective and other soft tissue of trunk, unspecified"
+1718,Malignant neoplasm of other specified sites of connective and other soft tissue
+1719,"Malignant neoplasm of connective and other soft tissue, site unspecified"
+1720,Malignant melanoma of skin of lip
+1721,"Malignant melanoma of skin of eyelid, including canthus"
+1722,Malignant melanoma of skin of ear and external auditory canal
+1723,Malignant melanoma of skin of other and unspecified parts of face
+1724,Malignant melanoma of skin of scalp and neck
+1725,"Malignant melanoma of skin of trunk, except scrotum"
+1726,"Malignant melanoma of skin of upper limb, including shoulder"
+1727,"Malignant melanoma of skin of lower limb, including hip"
+1728,Malignant melanoma of other specified sites of skin
+1729,"Melanoma of skin, site unspecified"
+1740,Malignant neoplasm of nipple and areola of female breast
+1741,Malignant neoplasm of central portion of female breast
+1742,Malignant neoplasm of upper-inner quadrant of female breast
+1743,Malignant neoplasm of lower-inner quadrant of female breast
+1744,Malignant neoplasm of upper-outer quadrant of female breast
+1745,Malignant neoplasm of lower-outer quadrant of female breast
+1746,Malignant neoplasm of axillary tail of female breast
+1748,Malignant neoplasm of other specified sites of female breast
+1749,"Malignant neoplasm of breast (female), unspecified"
+1750,Malignant neoplasm of nipple and areola of male breast
+1759,Malignant neoplasm of other and unspecified sites of male breast
+1760,"Kaposi's sarcoma, skin"
+1761,"Kaposi's sarcoma, soft tissue"
+1762,"Kaposi's sarcoma, palate"
+1763,"Kaposi's sarcoma, gastrointestinal sites"
+1764,"Kaposi's sarcoma, lung"
+1765,"Kaposi's sarcoma, lymph nodes"
+1768,"Kaposi's sarcoma, other specified sites"
+1769,"Kaposi's sarcoma, unspecified site"
+1800,Malignant neoplasm of endocervix
+1801,Malignant neoplasm of exocervix
+1808,Malignant neoplasm of other specified sites of cervix
+1809,"Malignant neoplasm of cervix uteri, unspecified site"
+1820,"Malignant neoplasm of corpus uteri, except isthmus"
+1821,Malignant neoplasm of isthmus
+1828,Malignant neoplasm of other specified sites of body of uterus
+1830,Malignant neoplasm of ovary
+1832,Malignant neoplasm of fallopian tube
+1833,Malignant neoplasm of broad ligament of uterus
+1834,Malignant neoplasm of parametrium
+1835,Malignant neoplasm of round ligament of uterus
+1838,Malignant neoplasm of other specified sites of uterine adnexa
+1839,"Malignant neoplasm of uterine adnexa, unspecified site"
+1840,Malignant neoplasm of vagina
+1841,Malignant neoplasm of labia majora
+1842,Malignant neoplasm of labia minora
+1843,Malignant neoplasm of clitoris
+1844,"Malignant neoplasm of vulva, unspecified site"
+1848,Malignant neoplasm of other specified sites of female genital organs
+1849,"Malignant neoplasm of female genital organ, site unspecified"
+1860,Malignant neoplasm of undescended testis
+1869,Malignant neoplasm of other and unspecified testis
+1871,Malignant neoplasm of prepuce
+1872,Malignant neoplasm of glans penis
+1873,Malignant neoplasm of body of penis
+1874,"Malignant neoplasm of penis, part unspecified"
+1875,Malignant neoplasm of epididymis
+1876,Malignant neoplasm of spermatic cord
+1877,Malignant neoplasm of scrotum
+1878,Malignant neoplasm of other specified sites of male genital organs
+1879,"Malignant neoplasm of male genital organ, site unspecified"
+1880,Malignant neoplasm of trigone of urinary bladder
+1881,Malignant neoplasm of dome of urinary bladder
+1882,Malignant neoplasm of lateral wall of urinary bladder
+1883,Malignant neoplasm of anterior wall of urinary bladder
+1884,Malignant neoplasm of posterior wall of urinary bladder
+1885,Malignant neoplasm of bladder neck
+1886,Malignant neoplasm of ureteric orifice
+1887,Malignant neoplasm of urachus
+1888,Malignant neoplasm of other specified sites of bladder
+1889,"Malignant neoplasm of bladder, part unspecified"
+1890,"Malignant neoplasm of kidney, except pelvis"
+1891,Malignant neoplasm of renal pelvis
+1892,Malignant neoplasm of ureter
+1893,Malignant neoplasm of urethra
+1894,Malignant neoplasm of paraurethral glands
+1898,Malignant neoplasm of other specified sites of urinary organs
+1899,"Malignant neoplasm of urinary organ, site unspecified"
+1900,"Malignant neoplasm of eyeball, except conjunctiva, cornea, retina, and choroid"
+1901,Malignant neoplasm of orbit
+1902,Malignant neoplasm of lacrimal gland
+1903,Malignant neoplasm of conjunctiva
+1904,Malignant neoplasm of cornea
+1905,Malignant neoplasm of retina
+1906,Malignant neoplasm of choroid
+1907,Malignant neoplasm of lacrimal duct
+1908,Malignant neoplasm of other specified sites of eye
+1909,"Malignant neoplasm of eye, part unspecified"
+1910,"Malignant neoplasm of cerebrum, except lobes and ventricles"
+1911,Malignant neoplasm of frontal lobe
+1912,Malignant neoplasm of temporal lobe
+1913,Malignant neoplasm of parietal lobe
+1914,Malignant neoplasm of occipital lobe
+1915,Malignant neoplasm of ventricles
+1916,Malignant neoplasm of cerebellum nos
+1917,Malignant neoplasm of brain stem
+1918,Malignant neoplasm of other parts of brain
+1919,"Malignant neoplasm of brain, unspecified"
+1920,Malignant neoplasm of cranial nerves
+1921,Malignant neoplasm of cerebral meninges
+1922,Malignant neoplasm of spinal cord
+1923,Malignant neoplasm of spinal meninges
+1928,Malignant neoplasm of other specified sites of nervous system
+1929,"Malignant neoplasm of nervous system, part unspecified"
+1940,Malignant neoplasm of adrenal gland
+1941,Malignant neoplasm of parathyroid gland
+1943,Malignant neoplasm of pituitary gland and craniopharyngeal duct
+1944,Malignant neoplasm of pineal gland
+1945,Malignant neoplasm of carotid body
+1946,Malignant neoplasm of aortic body and other paraganglia
+1948,Malignant neoplasm of other endocrine glands and related structures
+1949,"Malignant neoplasm of endocrine gland, site unspecified"
+1950,"Malignant neoplasm of head, face, and neck"
+1951,Malignant neoplasm of thorax
+1952,Malignant neoplasm of abdomen
+1953,Malignant neoplasm of pelvis
+1954,Malignant neoplasm of upper limb
+1955,Malignant neoplasm of lower limb
+1958,Malignant neoplasm of other specified sites
+1960,"Secondary and unspecified malignant neoplasm of lymph nodes of head, face, and neck"
+1961,Secondary and unspecified malignant neoplasm of intrathoracic lymph nodes
+1962,Secondary and unspecified malignant neoplasm of intra-abdominal lymph nodes
+1963,Secondary and unspecified malignant neoplasm of lymph nodes of axilla and upper limb
+1965,Secondary and unspecified malignant neoplasm of lymph nodes of inguinal region and lower limb
+1966,Secondary and unspecified malignant neoplasm of intrapelvic lymph nodes
+1968,Secondary and unspecified malignant neoplasm of lymph nodes of multiple sites
+1969,"Secondary and unspecified malignant neoplasm of lymph nodes, site unspecified"
+1970,Secondary malignant neoplasm of lung
+1971,Secondary malignant neoplasm of mediastinum
+1972,Secondary malignant neoplasm of pleura
+1973,Secondary malignant neoplasm of other respiratory organs
+1974,Secondary malignant neoplasm of small intestine including duodenum
+1975,Secondary malignant neoplasm of large intestine and rectum
+1976,Secondary malignant neoplasm of retroperitoneum and peritoneum
+1977,"Malignant neoplasm of liver, secondary"
+1978,Secondary malignant neoplasm of other digestive organs and spleen
+1980,Secondary malignant neoplasm of kidney
+1981,Secondary malignant neoplasm of other urinary organs
+1982,Secondary malignant neoplasm of skin
+1983,Secondary malignant neoplasm of brain and spinal cord
+1984,Secondary malignant neoplasm of other parts of nervous system
+1985,Secondary malignant neoplasm of bone and bone marrow
+1986,Secondary malignant neoplasm of ovary
+1987,Secondary malignant neoplasm of adrenal gland
+1990,Disseminated malignant neoplasm without specification of site
+1991,Other malignant neoplasm without specification of site
+1992,Malignant neoplasm associated with transplant organ
+2300,"Carcinoma in situ of lip, oral cavity, and pharynx"
+2301,Carcinoma in situ of esophagus
+2302,Carcinoma in situ of stomach
+2303,Carcinoma in situ of colon
+2304,Carcinoma in situ of rectum
+2305,Carcinoma in situ of anal canal
+2306,"Carcinoma in situ of anus, unspecified"
+2307,Carcinoma in situ of other and unspecified parts of intestine
+2308,Carcinoma in situ of liver and biliary system
+2309,Carcinoma in situ of other and unspecified digestive organs
+2310,Carcinoma in situ of larynx
+2311,Carcinoma in situ of trachea
+2312,Carcinoma in situ of bronchus and lung
+2318,Carcinoma in situ of other specified parts of respiratory system
+2319,"Carcinoma in situ of respiratory system, part unspecified"
+2320,Carcinoma in situ of skin of lip
+2321,"Carcinoma in situ of eyelid, including canthus"
+2322,Carcinoma in situ of skin of ear and external auditory canal
+2323,Carcinoma in situ of skin of other and unspecified parts of face
+2324,Carcinoma in situ of scalp and skin of neck
+2325,"Carcinoma in situ of skin of trunk, except scrotum"
+2326,"Carcinoma in situ of skin of upper limb, including shoulder"
+2327,"Carcinoma in situ of skin of lower limb, including hip"
+2328,Carcinoma in situ of other specified sites of skin
+2329,"Carcinoma in situ of skin, site unspecified"
+2330,Carcinoma in situ of breast
+2331,Carcinoma in situ of cervix uteri
+2332,Carcinoma in situ of other and unspecified parts of uterus
+2334,Carcinoma in situ of prostate
+2335,Carcinoma in situ of penis
+2336,Carcinoma in situ of other and unspecified male genital organs
+2337,Carcinoma in situ of bladder
+2339,Carcinoma in situ of other and unspecified urinary organs
+2340,Carcinoma in situ of eye
+2348,Carcinoma in situ of other specified sites
+2349,"Carcinoma in situ, site unspecified"
+2350,Neoplasm of uncertain behavior of major salivary glands
+2351,"Neoplasm of uncertain behavior of lip, oral cavity, and pharynx"
+2352,"Neoplasm of uncertain behavior of stomach, intestines, and rectum"
+2353,Neoplasm of uncertain behavior of liver and biliary passages
+2354,Neoplasm of uncertain behavior of retroperitoneum and peritoneum
+2355,Neoplasm of uncertain behavior of other and unspecified digestive organs
+2356,Neoplasm of uncertain behavior of larynx
+2357,"Neoplasm of uncertain behavior of trachea, bronchus, and lung"
+2358,"Neoplasm of uncertain behavior of pleura, thymus, and mediastinum"
+2359,Neoplasm of uncertain behavior of other and unspecified respiratory organs
+2360,Neoplasm of uncertain behavior of uterus
+2361,Neoplasm of uncertain behavior of placenta
+2362,Neoplasm of uncertain behavior of ovary
+2363,Neoplasm of uncertain behavior of other and unspecified female genital organs
+2364,Neoplasm of uncertain behavior of testis
+2365,Neoplasm of uncertain behavior of prostate
+2366,Neoplasm of uncertain behavior of other and unspecified male genital organs
+2367,Neoplasm of uncertain behavior of bladder
+2370,Neoplasm of uncertain behavior of pituitary gland and craniopharyngeal duct
+2371,Neoplasm of uncertain behavior of pineal gland
+2372,Neoplasm of uncertain behavior of adrenal gland
+2373,Neoplasm of uncertain behavior of paraganglia
+2374,Neoplasm of uncertain behavior of other and unspecified endocrine glands
+2375,Neoplasm of uncertain behavior of brain and spinal cord
+2376,Neoplasm of uncertain behavior of meninges
+2379,Neoplasm of uncertain behavior of other and unspecified parts of nervous system
+2380,Neoplasm of uncertain behavior of bone and articular cartilage
+2381,Neoplasm of uncertain behavior of connective and other soft tissue
+2382,Neoplasm of uncertain behavior of skin
+2383,Neoplasm of uncertain behavior of breast
+2384,Polycythemia vera
+2385,Neoplasm of uncertain behavior of histiocytic and mast cells
+2386,Neoplasm of uncertain behavior of plasma cells
+2388,Neoplasm of uncertain behavior of other specified sites
+2389,"Neoplasm of uncertain behavior, site unspecified"
+2390,Neoplasm of unspecified nature of digestive system
+2391,Neoplasm of unspecified nature of respiratory system
+2392,"Neoplasm of unspecified nature of bone, soft tissue, and skin"
+2393,Neoplasm of unspecified nature of breast
+2394,Neoplasm of unspecified nature of bladder
+2395,Neoplasm of unspecified nature of other genitourinary organs
+2396,Neoplasm of unspecified nature of brain
+2397,Neoplasm of unspecified nature of endocrine glands and other parts of nervous system
+2399,"Neoplasm of unspecified nature, site unspecified"
+17300,Unspecified malignant neoplasm of skin of lip
+17301,Basal cell carcinoma of skin of lip
+17302,Squamous cell carcinoma of skin of lip
+17309,Other specified malignant neoplasm of skin of lip
+17310,"Unspecified malignant neoplasm of eyelid, including canthus"
+17311,"Basal cell carcinoma of eyelid, including canthus"
+17312,"Squamous cell carcinoma of eyelid, including canthus"
+17319,"Other specified malignant neoplasm of eyelid, including canthus"
+17320,Unspecified malignant neoplasm of skin of ear and external auditory canal
+17321,Basal cell carcinoma of skin of ear and external auditory canal
+17322,Squamous cell carcinoma of skin of ear and external auditory canal
+17329,Other specified malignant neoplasm of skin of ear and external auditory canal
+17330,Unspecified malignant neoplasm of skin of other and unspecified parts of face
+17331,Basal cell carcinoma of skin of other and unspecified parts of face
+17332,Squamous cell carcinoma of skin of other and unspecified parts of face
+17339,Other specified malignant neoplasm of skin of other and unspecified parts of face
+17340,Unspecified malignant neoplasm of scalp and skin of neck
+17341,Basal cell carcinoma of scalp and skin of neck
+17342,Squamous cell carcinoma of scalp and skin of neck
+17349,Other specified malignant neoplasm of scalp and skin of neck
+17350,"Unspecified malignant neoplasm of skin of trunk, except scrotum"
+17351,"Basal cell carcinoma of skin of trunk, except scrotum"
+17352,"Squamous cell carcinoma of skin of trunk, except scrotum"
+17359,"Other specified malignant neoplasm of skin of trunk, except scrotum"
+17360,"Unspecified malignant neoplasm of skin of upper limb, including shoulder"
+17361,"Basal cell carcinoma of skin of upper limb, including shoulder"
+17362,"Squamous cell carcinoma of skin of upper limb, including shoulder"
+17369,"Other specified malignant neoplasm of skin of upper limb, including shoulder"
+17370,"Unspecified malignant neoplasm of skin of lower limb, including hip"
+17371,"Basal cell carcinoma of skin of lower limb, including hip"
+17372,"Squamous cell carcinoma of skin of lower limb, including hip"
+17379,"Other specified malignant neoplasm of skin of lower limb, including hip"
+17380,Unspecified malignant neoplasm of other specified sites of skin
+17381,Basal cell carcinoma of other specified sites of skin
+17382,Squamous cell carcinoma of other specified sites of skin
+17389,Other specified malignant neoplasm of other specified sites of skin
+17390,"Unspecified malignant neoplasm of skin, site unspecified"
+17391,"Basal cell carcinoma of skin, site unspecified"
+17392,"Squamous cell carcinoma of skin, site unspecified"
+17399,"Other specified malignant neoplasm of skin, site unspecified"
+19881,Secondary malignant neoplasm of breast
+19882,Secondary malignant neoplasm of genital organs
+19889,Secondary malignant neoplasm of other specified sites
+20000,"Reticulosarcoma, unspecified site, extranodal and solid organ sites"
+20001,"Reticulosarcoma, lymph nodes of head, face, and neck"
+20002,"Reticulosarcoma, intrathoracic lymph nodes"
+20003,"Reticulosarcoma, intra-abdominal lymph nodes"
+20004,"Reticulosarcoma, lymph nodes of axilla and upper limb"
+20005,"Reticulosarcoma, lymph nodes of inguinal region and lower limb"
+20006,"Reticulosarcoma, intrapelvic lymph nodes"
+20007,"Reticulosarcoma, spleen"
+20008,"Reticulosarcoma, lymph nodes of multiple sites"
+20010,"Lymphosarcoma, unspecified site, extranodal and solid organ sites"
+20011,"Lymphosarcoma, lymph nodes of head, face, and neck"
+20012,"Lymphosarcoma, intrathoracic lymph nodes"
+20013,"Lymphosarcoma, intra-abdominal lymph nodes"
+20014,"Lymphosarcoma, lymph nodes of axilla and upper limb"
+20015,"Lymphosarcoma, lymph nodes of inguinal region and lower limb"
+20016,"Lymphosarcoma, intrapelvic lymph nodes"
+20017,"Lymphosarcoma, spleen"
+20018,"Lymphosarcoma, lymph nodes of multiple sites"
+20020,"Burkitt's tumor or lymphoma, unspecified site, extranodal and solid organ sites"
+20021,"Burkitt's tumor or lymphoma, lymph nodes of head, face, and neck"
+20022,"Burkitt's tumor or lymphoma, intrathoracic lymph nodes"
+20023,"Burkitt's tumor or lymphoma, intra-abdominal lymph nodes"
+20024,"Burkitt's tumor or lymphoma, lymph nodes of axilla and upper limb"
+20025,"Burkitt's tumor or lymphoma, lymph nodes of inguinal region and lower limb"
+20026,"Burkitt's tumor or lymphoma, intrapelvic lymph nodes"
+20027,"Burkitt's tumor or lymphoma, spleen"
+20028,"Burkitt's tumor or lymphoma, lymph nodes of multiple sites"
+20030,"Marginal zone lymphoma, unspecified site, extranodal and solid organ sites"
+20031,"Marginal zone lymphoma, lymph nodes of head, face, and neck"
+20032,"Marginal zone lymphoma, intrathoracic lymph nodes"
+20033,"Marginal zone lymphoma, intraabdominal lymph nodes"
+20034,"Marginal zone lymphoma, lymph nodes of axilla and upper limb"
+20035,"Marginal zone lymphoma, lymph nodes of inguinal region and lower limb"
+20036,"Marginal zone lymphoma, intrapelvic lymph nodes"
+20037,"Marginal zone lymphoma, spleen"
+20038,"Marginal zone lymphoma, lymph nodes of multiple sites"
+20040,"Mantle cell lymphoma, unspecified site, extranodal and solid organ sites"
+20041,"Mantle cell lymphoma, lymph nodes of head, face, and neck"
+20042,"Mantle cell lymphoma, intrathoracic lymph nodes"
+20043,"Mantle cell lymphoma, intra-abdominal lymph nodes"
+20044,"Mantle cell lymphoma, lymph nodes of axilla and upper limb"
+20045,"Mantle cell lymphoma, lymph nodes of inguinal region and lower limb"
+20046,"Mantle cell lymphoma, intrapelvic lymph nodes"
+20047,"Mantle cell lymphoma, spleen"
+20048,"Mantle cell lymphoma, lymph nodes of multiple sites"
+20050,"Primary central nervous system lymphoma, unspecified site, extranodal and solid organ sites"
+20051,"Primary central nervous system lymphoma, lymph nodes of head, face, and neck"
+20052,"Primary central nervous system lymphoma, intrathoracic lymph nodes"
+20053,"Primary central nervous system lymphoma, intra-abdominal lymph nodes"
+20054,"Primary central nervous system lymphoma, lymph nodes of axilla and upper limb"
+20055,"Primary central nervous system lymphoma, lymph nodes of inguinal region and lower limb"
+20056,"Primary central nervous system lymphoma, intrapelvic lymph nodes"
+20057,"Primary central nervous system lymphoma, spleen"
+20058,"Primary central nervous system lymphoma, lymph nodes of multiple sites"
+20060,"Anaplastic large cell lymphoma, unspecified site, extranodal and solid organ sites"
+20061,"Anaplastic large cell lymphoma, lymph nodes of head, face, and neck"
+20062,"Anaplastic large cell lymphoma, intrathoracic lymph nodes"
+20063,"Anaplastic large cell lymphoma, intra-abdominal lymph nodes"
+20064,"Anaplastic large cell lymphoma, lymph nodes of axilla and upper limb"
+20065,"Anaplastic large cell lymphoma, lymph nodes of inguinal region and lower limb"
+20066,"Anaplastic large cell lymphoma, intrapelvic lymph nodes"
+20067,"Anaplastic large cell lymphoma, spleen"
+20068,"Anaplastic large cell lymphoma, lymph nodes of multiple sites"
+20070,"Large cell lymphoma, unspecified site, extranodal and solid organ sites"
+20071,"Large cell lymphoma, lymph nodes of head, face, and neck"
+20072,"Large cell lymphoma, intrathoracic lymph nodes"
+20073,"Large cell lymphoma, intra-abdominal lymph nodes"
+20074,"Large cell lymphoma, lymph nodes of axilla and upper limb"
+20075,"Large cell lymphoma, lymph nodes of inguinal region and lower limb"
+20076,"Large cell lymphoma, intrapelvic lymph nodes"
+20077,"Large cell lymphoma, spleen"
+20078,"Large cell lymphoma, lymph nodes of multiple sites"
+20080,"Other named variants of lymphosarcoma and reticulosarcoma, unspecified site, extranodal and solid organ sites"
+20081,"Other named variants of lymphosarcoma and reticulosarcoma, lymph nodes of head, face, and neck"
+20082,"Other named variants of lymphosarcoma and reticulosarcoma,intrathoracic lymph nodes"
+20083,"Other named variants of lymphosarcoma and reticulosarcoma, intra-abdominal lymph nodes"
+20084,"Other named variants of lymphosarcoma and reticulosarcoma, lymph nodes of axilla and upper limb"
+20085,"Other named variants of lymphosarcoma and reticulosarcoma, lymph nodes of inguinal region and lower limb"
+20086,"Other named variants of lymphosarcoma and reticulosarcoma, intrapelvic lymph nodes"
+20087,"Other named variants of lymphosarcoma and reticulosarcoma, spleen"
+20088,"Other named variants of lymphosarcoma and reticulosarcoma, lymph nodes of multiple sites"
+20100,"Hodgkin's paragranuloma, unspecified site, extranodal and solid organ sites"
+20101,"Hodgkin's paragranuloma, lymph nodes of head, face, and neck"
+20102,"Hodgkin's paragranuloma, intrathoracic lymph nodes"
+20103,"Hodgkin's paragranuloma, intra-abdominal lymph nodes"
+20104,"Hodgkin's paragranuloma, lymph nodes of axilla and upper limb"
+20105,"Hodgkin's paragranuloma, lymph nodes of inguinal region and lower limb"
+20106,"Hodgkin's paragranuloma, intrapelvic lymph nodes"
+20107,"Hodgkin's paragranuloma, spleen"
+20108,"Hodgkin's paragranuloma, lymph nodes of multiple sites"
+20110,"Hodgkin's granuloma, unspecified site, extranodal and solid organ sites"
+20111,"Hodgkin's granuloma, lymph nodes of head, face, and neck"
+20112,"Hodgkin's granuloma, intrathoracic lymph nodes"
+20113,"Hodgkin's granuloma, intra-abdominal lymph nodes"
+20114,"Hodgkin's granuloma, lymph nodes of axilla and upper limb"
+20115,"Hodgkin's granuloma, lymph nodes of inguinal region and lower limb"
+20116,"Hodgkin's granuloma, intrapelvic lymph nodes"
+20117,"Hodgkin's granuloma, spleen"
+20118,"Hodgkin's granuloma, lymph nodes of multiple sites"
+20120,"Hodgkin's sarcoma, unspecified site, extranodal and solid organ sites"
+20121,"Hodgkin's sarcoma, lymph nodes of head, face, and neck"
+20122,"Hodgkin's sarcoma, intrathoracic lymph nodes"
+20123,"Hodgkin's sarcoma, intra-abdominal lymph nodes"
+20124,"Hodgkin's sarcoma, lymph nodes of axilla and upper limb"
+20125,"Hodgkin's sarcoma, lymph nodes of inguinal region and lower limb"
+20126,"Hodgkin's sarcoma, intrapelvic lymph nodes"
+20127,"Hodgkin's sarcoma, spleen"
+20128,"Hodgkin's sarcoma, lymph nodes of multiple sites"
+20140,"Hodgkin's disease, lymphocytic-histiocytic predominance, unspecified site, extranodal and solid organ sites"
+20141,"Hodgkin's disease, lymphocytic-histiocytic predominance, lymph nodes of head, face, and neck"
+20142,"Hodgkin's disease, lymphocytic-histiocytic predominance, intrathoracic lymph nodes"
+20143,"Hodgkin's disease, lymphocytic-histiocytic predominance, intra-abdominal lymph nodes"
+20144,"Hodgkin's disease, lymphocytic-histiocytic predominance, lymph nodes of axilla and upper limb"
+20145,"Hodgkin's disease, lymphocytic-histiocytic predominance, lymph nodes of inguinal region and lower limb"
+20146,"Hodgkin's disease, lymphocytic-histiocytic predominance, intrapelvic lymph nodes"
+20147,"Hodgkin's disease, lymphocytic-histiocytic predominance, spleen"
+20148,"Hodgkin's disease, lymphocytic-histiocytic predominance, lymph nodes of multiple sites"
+20150,"Hodgkin's disease, nodular sclerosis, unspecified site, extranodal and solid organ sites"
+20151,"Hodgkin's disease, nodular sclerosis, lymph nodes of head, face, and neck"
+20152,"Hodgkin's disease, nodular sclerosis, intrathoracic lymph nodes"
+20153,"Hodgkin's disease, nodular sclerosis, intra-abdominal lymph nodes"
+20154,"Hodgkin's disease, nodular sclerosis, lymph nodes of axilla and upper limb"
+20155,"Hodgkin's disease, nodular sclerosis, lymph nodes of inguinal region and lower limb"
+20156,"Hodgkin's disease, nodular sclerosis, intrapelvic lymph nodes"
+20157,"Hodgkin's disease, nodular sclerosis, spleen"
+20158,"Hodgkin's disease, nodular sclerosis, lymph nodes of multiple sites"
+20160,"Hodgkin's disease, mixed cellularity, unspecified site, extranodal and solid organ sites"
+20161,"Hodgkin's disease, mixed cellularity, lymph nodes of head, face, and neck"
+20162,"Hodgkin's disease, mixed cellularity, intrathoracic lymph nodes"
+20163,"Hodgkin's disease, mixed cellularity, intra-abdominal lymph nodes"
+20164,"Hodgkin's disease, mixed cellularity, lymph nodes of axilla and upper limb"
+20165,"Hodgkin's disease, mixed cellularity, lymph nodes of inguinal region and lower limb"
+20166,"Hodgkin's disease, mixed cellularity, intrapelvic lymph nodes"
+20167,"Hodgkin's disease, mixed cellularity, spleen"
+20168,"Hodgkin's disease, mixed cellularity, lymph nodes of multiple sites"
+20170,"Hodgkin's disease, lymphocytic depletion, unspecified site, extranodal and solid organ sites"
+20171,"Hodgkin's disease, lymphocytic depletion, lymph nodes of head, face, and neck"
+20172,"Hodgkin's disease, lymphocytic depletion, intrathoracic lymph nodes"
+20173,"Hodgkin's disease, lymphocytic depletion, intra-abdominal lymph nodes"
+20174,"Hodgkin's disease, lymphocytic depletion, lymph nodes of axilla and upper limb"
+20175,"Hodgkin's disease, lymphocytic depletion, lymph nodes of inguinal region and lower limb"
+20176,"Hodgkin's disease, lymphocytic depletion, intrapelvic lymph nodes"
+20177,"Hodgkin's disease, lymphocytic depletion, spleen"
+20178,"Hodgkin's disease, lymphocytic depletion, lymph nodes of multiple sites"
+20190,"Hodgkin's disease, unspecified type, unspecified site, extranodal and solid organ sites"
+20191,"Hodgkin's disease, unspecified type, lymph nodes of head, face, and neck"
+20192,"Hodgkin's disease, unspecified type, intrathoracic lymph nodes"
+20193,"Hodgkin's disease, unspecified type, intra-abdominal lymph nodes"
+20194,"Hodgkin's disease, unspecified type, lymph nodes of axilla and upper limb"
+20195,"Hodgkin's disease, unspecified type, lymph nodes of inguinal region and lower limb"
+20196,"Hodgkin's disease, unspecified type, intrapelvic lymph nodes"
+20197,"Hodgkin's disease, unspecified type, spleen"
+20198,"Hodgkin's disease, unspecified type, lymph nodes of multiple sites"
+20200,"Nodular lymphoma, unspecified site, extranodal and solid organ sites"
+20201,"Nodular lymphoma, lymph nodes of head, face, and neck"
+20202,"Nodular lymphoma, intrathoracic lymph nodes"
+20203,"Nodular lymphoma, intra-abdominal lymph nodes"
+20204,"Nodular lymphoma, lymph nodes of axilla and upper limb"
+20205,"Nodular lymphoma, lymph nodes of inguinal region and lower limb"
+20206,"Nodular lymphoma, intrapelvic lymph nodes"
+20207,"Nodular lymphoma, spleen"
+20208,"Nodular lymphoma, lymph nodes of multiple sites"
+20210,"Mycosis fungoides, unspecified site, extranodal and solid organ sites"
+20211,"Mycosis fungoides, lymph nodes of head, face, and neck"
+20212,"Mycosis fungoides, intrathoracic lymph nodes"
+20213,"Mycosis fungoides, intra-abdominal lymph nodes"
+20214,"Mycosis fungoides, lymph nodes of axilla and upper limb"
+20215,"Mycosis fungoides, lymph nodes of inguinal region and lower limb"
+20216,"Mycosis fungoides, intrapelvic lymph nodes"
+20217,"Mycosis fungoides, spleen"
+20218,"Mycosis fungoides, lymph nodes of multiple sites"
+20220,"Sezary's disease, unspecified site, extranodal and solid organ sites"
+20221,"Sezary's disease, lymph nodes of head, face, and neck"
+20222,"Sezary's disease, intrathoracic lymph nodes"
+20223,"Sezary's disease, intra-abdominal lymph nodes"
+20224,"Sezary's disease, lymph nodes of axilla and upper limb"
+20225,"Sezary's disease, lymph nodes of inguinal region and lower limb"
+20226,"Sezary's disease, intrapelvic lymph nodes"
+20227,"Sezary's disease, spleen"
+20228,"Sezary's disease, lymph nodes of multiple sites"
+20230,"Malignant histiocytosis, unspecified site, extranodal and solid organ sites"
+20231,"Malignant histiocytosis, lymph nodes of head, face, and neck"
+20232,"Malignant histiocytosis, intrathoracic lymph nodes"
+20233,"Malignant histiocytosis, intra-abdominal lymph nodes"
+20234,"Malignant histiocytosis, lymph nodes of axilla and upper limb"
+20235,"Malignant histiocytosis, lymph nodes of inguinal region and lower limb"
+20236,"Malignant histiocytosis, intrapelvic lymph nodes"
+20237,"Malignant histiocytosis, spleen"
+20238,"Malignant histiocytosis, lymph nodes of multiple sites"
+20240,"Leukemic reticuloendotheliosis, unspecified site, extranodal and solid organ sites"
+20241,"Leukemic reticuloendotheliosis, lymph nodes of head, face, and neck"
+20242,"Leukemic reticuloendotheliosis, intrathoracic lymph nodes"
+20243,"Leukemic reticuloendotheliosis, intra-abdominal lymph nodes"
+20244,"Leukemic reticuloendotheliosis, lymph nodes of axilla and upper arm"
+20245,"Leukemic reticuloendotheliosis, lymph nodes of inguinal region and lower limb"
+20246,"Leukemic reticuloendotheliosis, intrapelvic lymph nodes"
+20247,"Leukemic reticuloendotheliosis, spleen"
+20248,"Leukemic reticuloendotheliosis, lymph nodes of multiple sites"
+20250,"Letterer-siwe disease, unspecified site, extranodal and solid organ sites"
+20251,"Letterer-siwe disease, lymph nodes of head, face, and neck"
+20252,"Letterer-siwe disease, intrathoracic lymph nodes"
+20253,"Letterer-siwe disease, intra-abdominal lymph nodes"
+20254,"Letterer-siwe disease, lymph nodes of axilla and upper limb"
+20255,"Letterer-siwe disease, lymph nodes of inguinal region and lower limb"
+20256,"Letterer-siwe disease, intrapelvic lymph nodes"
+20257,"Letterer-siwe disease, spleen"
+20258,"Letterer-siwe disease, lymph nodes of multiple sites"
+20260,"Malignant mast cell tumors, unspecified site, extranodal and solid organ sites"
+20261,"Malignant mast cell tumors, lymph nodes of head, face, and neck"
+20262,"Malignant mast cell tumors, intrathoracic lymph nodes"
+20263,"Malignant mast cell tumors, intra-abdominal lymph nodes"
+20264,"Malignant mast cell tumors, lymph nodes of axilla and upper limb"
+20265,"Malignant mast cell tumors, lymph nodes of inguinal region and lower limb"
+20266,"Malignant mast cell tumors, intrapelvic lymph nodes"
+20267,"Malignant mast cell tumors, spleen"
+20268,"Malignant mast cell tumors, lymph nodes of multiple sites"
+20270,"Peripheral T cell lymphoma, unspecified site, extranodal and solid organ sites"
+20271,"Peripheral T cell lymphoma, lymph nodes of head, face, and neck"
+20272,"Peripheral T cell lymphoma, intrathoracic lymph nodes"
+20273,"Peripheral T cell lymphoma, intra-abdominal lymph nodes"
+20274,"Peripheral T cell lymphoma, lymph nodes of axilla and upper limb"
+20275,"Peripheral T cell lymphoma, lymph nodes of inguinal region and lower limb"
+20276,"Peripheral T cell lymphoma, intrapelvic lymph nodes"
+20277,"Peripheral T cell lymphoma, spleen"
+20278,"Peripheral T cell lymphoma, lymph nodes of multiple sites"
+20280,"Other malignant lymphomas, unspecified site, extranodal and solid organ sites"
+20281,"Other malignant lymphomas, lymph nodes of head, face, and neck"
+20282,"Other malignant lymphomas, intrathoracic lymph nodes"
+20283,"Other malignant lymphomas, intra-abdominal lymph nodes"
+20284,"Other malignant lymphomas, lymph nodes of axilla and upper limb"
+20285,"Other malignant lymphomas, lymph nodes of inguinal region and lower limb"
+20286,"Other malignant lymphomas, intrapelvic lymph nodes"
+20287,"Other malignant lymphomas, spleen"
+20288,"Other malignant lymphomas, lymph nodes of multiple sites"
+20290,"Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, unspecified site, extranodal and solid organ sites"
+20291,"Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, lymph nodes of head, face, and neck"
+20292,"Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, intrathoracic lymph nodes"
+20293,"Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, intra-abdominal lymph nodes"
+20294,"Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, lymph nodes of axilla and upper limb"
+20295,"Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, lymph nodes of inguinal region and lower limb"
+20296,"Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, intrapelvic lymph nodes"
+20297,"Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, spleen"
+20298,"Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, lymph nodes of multiple sites"
+20300,"Multiple myeloma, without mention of having achieved remission"
+20301,"Multiple myeloma, in remission"
+20302,"Multiple myeloma, in relapse"
+20310,"Plasma cell leukemia, without mention of having achieved remission"
+20311,"Plasma cell leukemia, in remission"
+20312,"Plasma cell leukemia, in relapse"
+20380,"Other immunoproliferative neoplasms, without mention of having achieved remission"
+20381,"Other immunoproliferative neoplasms, in remission"
+20382,"Other immunoproliferative neoplasms, in relapse"
+20400,"Acute lymphoid leukemia, without mention of having achieved remission"
+20401,"Acute lymphoid leukemia, in remission"
+20402,"Acute lymphoid leukemia, in relapse"
+20410,"Chronic lymphoid leukemia, without mention of having achieved remission"
+20411,"Chronic lymphoid leukemia, in remission"
+20412,"Chronic lymphoid leukemia, in relapse"
+20420,"Subacute lymphoid leukemia, without mention of having achieved remission"
+20421,"Subacute lymphoid leukemia, in remission"
+20422,"Subacute lymphoid leukemia, in relapse"
+20480,"Other lymphoid leukemia, without mention of having achieved remission"
+20481,"Other lymphoid leukemia, in remission"
+20482,"Other lymphoid leukemia, in relapse"
+20490,"Unspecified lymphoid leukemia, without mention of having achieved remission"
+20491,"Unspecified lymphoid leukemia, in remission"
+20492,"Unspecified lymphoid leukemia, in relapse"
+20500,"Acute myeloid leukemia, without mention of having achieved remission"
+20501,"Acute myeloid leukemia, in remission"
+20502,"Acute myeloid leukemia, in relapse"
+20510,"Chronic myeloid leukemia, without mention of having achieved remission"
+20511,"Chronic myeloid leukemia, in remission"
+20512,"Chronic myeloid leukemia, in relapse"
+20520,"Subacute myeloid leukemia, without mention of having achieved remission"
+20521,"Subacute myeloid leukemia,in remission"
+20522,"Subacute myeloid leukemia, in relapse"
+20530,"Myeloid sarcoma, without mention of having achieved remission"
+20531,"Myeloid sarcoma, in remission"
+20532,"Myeloid sarcoma, in relapse"
+20580,"Other myeloid leukemia, without mention of having achieved remission"
+20581,"Other myeloid leukemia, in remission"
+20582,"Other myeloid leukemia, in relapse"
+20590,"Unspecified myeloid leukemia, without mention of having achieved remission"
+20591,"Unspecified myeloid leukemia, in remission"
+20592,"Unspecified myeloid leukemia, in relapse"
+20600,"Acute monocytic leukemia, without mention of having achieved remission"
+20601,"Acute monocytic leukemia,in remission"
+20602,"Acute monocytic leukemia, in relapse"
+20610,"Chronic monocytic leukemia, without mention of having achieved remission"
+20611,"Chronic monocytic leukemia, in remission"
+20612,"Chronic monocytic leukemia, in relapse"
+20620,"Subacute monocytic leukemia, without mention of having achieved remission"
+20621,"Subacute monocytic leukemia, in remission"
+20622,"Subacute monocytic leukemia, in relapse"
+20680,"Other monocytic leukemia, without mention of having achieved remission"
+20681,"Other monocytic leukemia, in remission"
+20682,"Other monocytic leukemia, in relapse"
+20690,"Unspecified monocytic leukemia, without mention of having achieved remission"
+20691,"Unspecified monocytic leukemia, in remission"
+20692,"Unspecified monocytic leukemia, in relapse"
+20700,"Acute erythremia and erythroleukemia, without mention of having achieved remission"
+20701,"Acute erythremia and erythroleukemia, in remission"
+20702,"Acute erythremia and erythroleukemia, in relapse"
+20710,"Chronic erythremia, without mention of having achieved remission"
+20711,"Chronic erythremia, in remission"
+20712,"Chronic erythremia, in relapse"
+20720,"Megakaryocytic leukemia, without mention of having achieved remission"
+20721,"Megakaryocytic leukemia, in remission"
+20722,"Megakaryocytic leukemia, in relapse"
+20780,"Other specified leukemia, without mention of having achieved remission"
+20781,"Other specified leukemia, in remission"
+20782,"Other specified leukemia, in relapse"
+20800,"Acute leukemia of unspecified cell type, without mention of having achieved remission"
+20801,"Acute leukemia of unspecified cell type, in remission"
+20802,"Acute leukemia of unspecified cell type, in relapse"
+20810,"Chronic leukemia of unspecified cell type, without mention of having achieved remission"
+20811,"Chronic leukemia of unspecified cell type, in remission"
+20812,"Chronic leukemia of unspecified cell type, in relapse"
+20820,"Subacute leukemia of unspecified cell type, without mention of having achieved remission"
+20821,"Subacute leukemia of unspecified cell type, in remission"
+20822,"Subacute leukemia of unspecified cell type, in relapse"
+20880,"Other leukemia of unspecified cell type, without mention of having achieved remission"
+20881,"Other leukemia of unspecified cell type, in remission"
+20882,"Other leukemia of unspecified cell type, in relapse"
+20890,"Unspecified leukemia, without mention of having achieved remission"
+20891,"Unspecified leukemia, in remission"
+20892,"Unspecified leukemia, in relapse"
+20900,"Malignant carcinoid tumor of the small intestine, unspecified portion"
+20901,Malignant carcinoid tumor of the duodenum
+20902,Malignant carcinoid tumor of the jejunum
+20903,Malignant carcinoid tumor of the ileum
+20910,"Malignant carcinoid tumor of the large intestine, unspecified portion"
+20911,Malignant carcinoid tumor of the appendix
+20912,Malignant carcinoid tumor of the cecum
+20913,Malignant carcinoid tumor of the ascending colon
+20914,Malignant carcinoid tumor of the transverse colon
+20915,Malignant carcinoid tumor of the descending colon
+20916,Malignant carcinoid tumor of the sigmoid colon
+20917,Malignant carcinoid tumor of the rectum
+20920,Malignant carcinoid tumor of unknown primary site
+20921,Malignant carcinoid tumor of the bronchus and lung
+20922,Malignant carcinoid tumor of the thymus
+20923,Malignant carcinoid tumor of the stomach
+20924,Malignant carcinoid tumor of the kidney
+20925,"Malignant carcinoid tumor of foregut, not otherwise specified"
+20926,"Malignant carcinoid tumor of midgut, not otherwise specified"
+20927,"Malignant carcinoid tumor of hindgut, not otherwise specified"
+20929,Malignant carcinoid tumor of other sites
+20930,"Malignant poorly differentiated neuroendocrine carcinoma, any site"
+20931,Merkel cell carcinoma of the face
+20932,Merkel cell carcinoma of the scalp and neck
+20933,Merkel cell carcinoma of the upper limb
+20934,Merkel cell carcinoma of the lower limb
+20935,Merkel cell carcinoma of the trunk
+20936,Merkel cell carcinoma of other sites
+20970,"Secondary neuroendocrine tumor, unspecified site"
+20971,Secondary neuroendocrine tumor of distant lymph nodes
+20972,Secondary neuroendocrine tumor of liver
+20973,Secondary neuroendocrine tumor of bone
+20974,Secondary neuroendocrine tumor of peritoneum
+20975,Secondary Merkel cell carcinoma
+20979,Secondary neuroendocrine tumor of other sites
+23330,"Carcinoma in situ, unspecified female genital organ"
+23331,"Carcinoma in situ, vagina"
+23332,"Carcinoma in situ, vulva"
+23339,"Carcinoma in situ, other female genital organ"
+23690,"Neoplasm of uncertain behavior of urinary organ, unspecified"
+23691,Neoplasm of uncertain behavior of kidney and ureter
+23699,Neoplasm of uncertain behavior of other and unspecified urinary organs
+23770,"Neurofibromatosis, unspecified"
+23771,"Neurofibromatosis, type 1 [von recklinghausen's disease]"
+23772,"Neurofibromatosis, type 2 [acoustic neurofibromatosis]"
+23773,Schwannomatosis
+23779,Other neurofibromatosis
+23871,Essential thrombocythemia
+23872,Low grade myelodysplastic syndrome lesions
+23873,High grade myelodysplastic syndrome lesions
+23874,Myelodysplastic syndrome with 5q deletion
+23875,"Myelodysplastic syndrome, unspecified"
+23876,Myelofibrosis with myeloid metaplasia
+23877,Post-transplant lymphoproliferative disorder (PTLD)
+23879,Other lymphatic and hematopoietic tissues
+23981,"Neoplasms of unspecified nature, retina and choroid"
+23989,"Neoplasms of unspecified nature, other specified sites"

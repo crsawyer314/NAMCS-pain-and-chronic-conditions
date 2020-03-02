@@ -1,0 +1,456 @@
+code,description
+0064,Amebic lung abscess
+0212,Pulmonary tularemia
+0221,Pulmonary anthrax
+0310,Pulmonary diseases due to other mycobacteria
+0391,Pulmonary actinomycotic infection
+481,Pneumococcal pneumonia [Streptococcus pneumoniae pneumonia]
+485,"Bronchopneumonia, organism unspecified"
+486,"Pneumonia, organism unspecified"
+490,"Bronchitis, not specified as acute or chronic"
+496,"Chronic airway obstruction, not elsewhere classified"
+500,Coal workers' pneumoconiosis
+501,Asbestosis
+502,Pneumoconiosis due to other silica or silicates
+503,Pneumoconiosis due to other inorganic dust
+504,Pneumonopathy due to inhalation of other dust
+505,"Pneumoconiosis, unspecified"
+514,Pulmonary congestion and hypostasis
+515,Postinflammatory pulmonary fibrosis
+0951,Syphilis of lung
+01000,"Primary tuberculous infection, unspecified"
+01001,"Primary tuberculous infection, bacteriological or histological examination not done"
+01002,"Primary tuberculous infection, bacteriological or histological examination unknown (at present)"
+01003,"Primary tuberculous infection, tubercle bacilli found (in sputum) by microscopy"
+01004,"Primary tuberculous infection, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+01005,"Primary tuberculous infection, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+01006,"Primary tuberculous infection, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+01010,"Tuberculous pleurisy in primary progressive tuberculosis, unspecified"
+01011,"Tuberculous pleurisy in primary progressive tuberculosis, bacteriological or histological examination not done"
+01012,"Tuberculous pleurisy in primary progressive tuberculosis, bacteriological or histological examination unknown (at present)"
+01013,"Tuberculous pleurisy in primary progressive tuberculosis, tubercle bacilli found (in sputum) by microscopy"
+01014,"Tuberculous pleurisy in primary progressive tuberculosis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+01015,"Tuberculous pleurisy in primary progressive tuberculosis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+01016,"Tuberculous pleurisy in primary progressive tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+01080,"Other primary progressive tuberculosis, unspecified"
+01081,"Other primary progressive tuberculosis, bacteriological or histological examination not done"
+01082,"Other primary progressive tuberculosis, bacteriological or histological examination unknown (at present)"
+01083,"Other primary progressive tuberculosis, tubercle bacilli found (in sputum) by microscopy"
+01084,"Other primary progressive tuberculosis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+01085,"Other primary progressive tuberculosis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+01086,"Other primary progressive tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+01090,"Primary tuberculous infection, unspecified, unspecified"
+01091,"Primary tuberculous infection, unspecified, bacteriological or histological examination not done"
+01092,"Primary tuberculous infection, unspecified, bacteriological or histological examination unknown (at present)"
+01093,"Primary tuberculous infection, unspecified, tubercle bacilli found (in sputum) by microscopy"
+01094,"Primary tuberculous infection, unspecified, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+01095,"Primary tuberculous infection, unspecified, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+01096,"Primary tuberculous infection, unspecified, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+01100,"Tuberculosis of lung, infiltrative, unspecified"
+01101,"Tuberculosis of lung, infiltrative, bacteriological or histological examination not done"
+01102,"Tuberculosis of lung, infiltrative, bacteriological or histological examination unknown (at present)"
+01103,"Tuberculosis of lung, infiltrative, tubercle bacilli found (in sputum) by microscopy"
+01104,"Tuberculosis of lung, infiltrative, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+01105,"Tuberculosis of lung, infiltrative, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+01106,"Tuberculosis of lung, infiltrative, tubercle bacilli not found bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+01110,"Tuberculosis of lung, nodular, unspecified"
+01111,"Tuberculosis of lung, nodular, bacteriological or histological examination not done"
+01112,"Tuberculosis of lung, nodular, bacteriological or histological examination unknown (at present)"
+01113,"Tuberculosis of lung, nodular, tubercle bacilli found (in sputum) by microscopy"
+01114,"Tuberculosis of lung, nodular, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+01115,"Tuberculosis of lung, nodular, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+01116,"Tuberculosis of lung, nodular, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+01120,"Tuberculosis of lung with cavitation, unspecified"
+01121,"Tuberculosis of lung with cavitation, bacteriological or histological examination not done"
+01122,"Tuberculosis of lung with cavitation, bacteriological or histological examination unknown (at present)"
+01123,"Tuberculosis of lung with cavitation, tubercle bacilli found (in sputum) by microscopy"
+01124,"Tuberculosis of lung with cavitation, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+1124,Candidiasis of lung
+01125,"Tuberculosis of lung with cavitation, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+01126,"Tuberculosis of lung with cavitation, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+01130,"Tuberculosis of bronchus, unspecified"
+01131,"Tuberculosis of bronchus, bacteriological or histological examination not done"
+01132,"Tuberculosis of bronchus, bacteriological or histological examination unknown (at present)"
+01133,"Tuberculosis of bronchus, tubercle bacilli found (in sputum) by microscopy"
+01134,"Tuberculosis of bronchus, tubercle bacilli not found (in sputum) by microscopy, but found in bacterial culture"
+01135,"Tuberculosis of bronchus, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+01136,"Tuberculosis of bronchus, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+01140,"Tuberculous fibrosis of lung, unspecified"
+1140,Primary coccidioidomycosis (pulmonary)
+01141,"Tuberculous fibrosis of lung, bacteriological or histological examination not done"
+01142,"Tuberculous fibrosis of lung, bacteriological or histological examination unknown (at present)"
+01143,"Tuberculous fibrosis of lung, tubercle bacilli found (in sputum) by microscopy"
+01144,"Tuberculous fibrosis of lung, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+1144,Chronic pulmonary coccidioidomycosis
+01145,"Tuberculous fibrosis of lung, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+1145,"Pulmonary coccidioidomycosis, unspecified"
+01146,"Tuberculous fibrosis of lung, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+01150,"Tuberculous bronchiectasis, unspecified"
+01151,"Tuberculous bronchiectasis, bacteriological or histological examination not done"
+01152,"Tuberculous bronchiectasis, bacteriological or histological examination unknown (at present)"
+01153,"Tuberculous bronchiectasis, tubercle bacilli found (in sputum) by microscopy"
+01154,"Tuberculous bronchiectasis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+01155,"Tuberculous bronchiectasis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+01156,"Tuberculous bronchiectasis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+01160,"Tuberculous pneumonia [any form], unspecified"
+01161,"Tuberculous pneumonia [any form], bacteriological or histological examination not done"
+01162,"Tuberculous pneumonia [any form], bacteriological or histological examination unknown (at present)"
+01163,"Tuberculous pneumonia [any form], tubercle bacilli found (in sputum) by microscopy"
+01164,"Tuberculous pneumonia [any form], tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+01165,"Tuberculous pneumonia [any form], tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+01166,"Tuberculous pneumonia [any form], tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+01170,"Tuberculous pneumothorax, unspecified"
+01171,"Tuberculous pneumothorax, bacteriological or histological examination not done"
+01172,"Tuberculous pneumothorax, bacteriological or histological examination unknown (at present)"
+01173,"Tuberculous pneumothorax, tubercle bacilli found (in sputum) by microscopy"
+01174,"Tuberculous pneumothorax, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+01175,"Tuberculous pneumothorax, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+01176,"Tuberculous pneumothorax, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+01180,"Other specified pulmonary tuberculosis, unspecified"
+01181,"Other specified pulmonary tuberculosis, bacteriological or histological examination not done"
+01182,"Other specified pulmonary tuberculosis, bacteriological or histological examination unknown (at present)"
+01183,"Other specified pulmonary tuberculosis, tubercle bacilli found (in sputum) by microscopy"
+01184,"Other specified pulmonary tuberculosis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+01185,"Other specified pulmonary tuberculosis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+01186,"Other specified pulmonary tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+01190,"Pulmonary tuberculosis, unspecified, unspecified"
+01191,"Pulmonary tuberculosis, unspecified, bacteriological or histological examination not done"
+01192,"Pulmonary tuberculosis, unspecified, bacteriological or histological examination unknown (at present)"
+01193,"Pulmonary tuberculosis, unspecified, tubercle bacilli found (in sputum) by microscopy"
+01194,"Pulmonary tuberculosis, unspecified, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+01195,"Pulmonary tuberculosis, unspecified, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+01196,"Pulmonary tuberculosis, unspecified, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+01200,"Tuberculous pleurisy, unspecified"
+01201,"Tuberculous pleurisy, bacteriological or histological examination not done"
+01202,"Tuberculous pleurisy, bacteriological or histological examination unknown (at present)"
+01203,"Tuberculous pleurisy, tubercle bacilli found (in sputum) by microscopy"
+01204,"Tuberculous pleurisy, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+01205,"Tuberculous pleurisy, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+01206,"Tuberculous pleurisy, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+01210,"Tuberculosis of intrathoracic lymph nodes, unspecified"
+01211,"Tuberculosis of intrathoracic lymph nodes, bacteriological or histological examination not done"
+01212,"Tuberculosis of intrathoracic lymph nodes, bacteriological or histological examination unknown (at present)"
+01213,"Tuberculosis of intrathoracic lymph nodes, tubercle bacilli found (in sputum) by microscopy"
+01214,"Tuberculosis of intrathoracic lymph nodes, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+01215,"Tuberculosis of intrathoracic lymph nodes, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+01216,"Tuberculosis of intrathoracic lymph nodes, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+01220,"Isolated tracheal or bronchial tuberculosis, unspecified"
+01221,"Isolated tracheal or bronchial tuberculosis, bacteriological or histological examination not done"
+1221,Echinococcus granulosus infection of lung
+01222,"Isolated tracheal or bronchial tuberculosis, bacteriological or histological examination unknown (at present)"
+01223,"Isolated tracheal or bronchial tuberculosis, tubercle bacilli found (in sputum) by microscopy"
+01224,"Isolated tracheal or bronchial tuberculosis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+01225,"Isolated tracheal or bronchial tuberculosis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+01226,"Isolated tracheal or bronchial tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+01280,"Other specified respiratory tuberculosis, unspecified"
+01281,"Other specified respiratory tuberculosis, bacteriological or histological examination not done"
+01282,"Other specified respiratory tuberculosis, bacteriological or histological examination unknown (at present)"
+01283,"Other specified respiratory tuberculosis, tubercle bacilli found (in sputum) by microscopy"
+01284,"Other specified respiratory tuberculosis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+01285,"Other specified respiratory tuberculosis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+01286,"Other specified respiratory tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+4160,Primary pulmonary hypertension
+4161,Kyphoscoliotic heart disease
+4162,Chronic pulmonary embolism
+4168,Other chronic pulmonary heart diseases
+4169,"Chronic pulmonary heart disease, unspecified"
+4170,Arteriovenous fistula of pulmonary vessels
+4171,Aneurysm of pulmonary artery
+4178,Other specified diseases of pulmonary circulation
+4179,Unspecified disease of pulmonary circulation
+4800,Pneumonia due to adenovirus
+4801,Pneumonia due to respiratory syncytial virus
+4802,Pneumonia due to parainfluenza virus
+4803,Pneumonia due to SARS-associated coronavirus
+4808,Pneumonia due to other virus not elsewhere classified
+4809,"Viral pneumonia, unspecified"
+4820,Pneumonia due to Klebsiella pneumoniae
+4821,Pneumonia due to Pseudomonas
+4822,Pneumonia due to Hemophilus influenzae [H. influenzae]
+4829,"Bacterial pneumonia, unspecified"
+4830,Pneumonia due to mycoplasma pneumoniae
+4831,Pneumonia due to chlamydia
+4838,Pneumonia due to other specified organism
+4841,Pneumonia in cytomegalic inclusion disease
+4843,Pneumonia in whooping cough
+4845,Pneumonia in anthrax
+4846,Pneumonia in aspergillosis
+4847,Pneumonia in other systemic mycoses
+4848,Pneumonia in other infectious diseases classified elsewhere
+4870,Influenza with pneumonia
+4910,Simple chronic bronchitis
+4911,Mucopurulent chronic bronchitis
+4918,Other chronic bronchitis
+4919,Unspecified chronic bronchitis
+4920,Emphysematous bleb
+4928,Other emphysema
+4940,Bronchiectasis without acute exacerbation
+4941,Bronchiectasis with acute exacerbation
+4950,Farmers' lung
+4951,Bagassosis
+4952,Bird-fanciers' lung
+4953,Suberosis
+4954,Malt workers' lung
+4955,Mushroom workers' lung
+4956,Maple bark-strippers' lung
+4957,"""Ventilation"" pneumonitis"
+4958,Other specified allergic alveolitis and pneumonitis
+4959,Unspecified allergic alveolitis and pneumonitis
+5060,Bronchitis and pneumonitis due to fumes and vapors
+5061,Acute pulmonary edema due to fumes and vapors
+5062,Upper respiratory inflammation due to fumes and vapors
+5063,Other acute and subacute respiratory conditions due to fumes and vapors
+5064,Chronic respiratory conditions due to fumes and vapors
+5069,Unspecified respiratory conditions due to fumes and vapors
+5070,Pneumonitis due to inhalation of food or vomitus
+5071,Pneumonitis due to inhalation of oils and essences
+5078,Pneumonitis due to other solids and liquids
+5080,Acute pulmonary manifestations due to radiation
+5081,Chronic and other pulmonary manifestations due to radiation
+5082,Respiratory conditions due to smoke inhalation
+5088,Respiratory conditions due to other specified external agents
+5089,Respiratory conditions due to unspecified external agent
+5100,Empyema with fistula
+5109,Empyema without mention of fistula
+5110,Pleurisy without mention of effusion or current tuberculosis
+5111,"Pleurisy with effusion, with mention of a bacterial cause other than tuberculosis"
+5119,Unspecified pleural effusion
+5120,Spontaneous tension pneumothorax
+5121,Iatrogenic pneumothorax
+5122,Postoperative air leak
+5130,Abscess of lung
+5131,Abscess of mediastinum
+5160,Pulmonary alveolar proteinosis
+5161,Idiopathic pulmonary hemosiderosis
+5162,Pulmonary alveolar microlithiasis
+5164,Lymphangioleiomyomatosis
+5165,Adult pulmonary Langerhans cell histiocytosis
+5168,Other specified alveolar and parietoalveolar pneumonopathies
+5169,Unspecified alveolar and parietoalveolar pneumonopathy
+5171,Rheumatic pneumonia
+5172,Lung involvement in systemic sclerosis
+5173,Acute chest syndrome
+5178,Lung involvement in other diseases classified elsewhere
+5180,Pulmonary collapse
+5181,Interstitial emphysema
+5182,Compensatory emphysema
+5183,Pulmonary eosinophilia
+5184,"Acute edema of lung, unspecified"
+5186,Allergic bronchopulmonary aspergillosis
+5187,Transfusion related acute lung injury (TRALI)
+5192,Mediastinitis
+5193,"Other diseases of mediastinum, not elsewhere classified"
+5194,Disorders of diaphragm
+5198,"Other diseases of respiratory system, not elsewhere classified"
+5199,Unspecified disease of respiratory system
+5735,Hepatopulmonary syndrome
+7312,Hypertrophic pulmonary osteoarthropathy
+7484,Congenital cystic lung
+7485,"Agenesis, hypoplasia, and dysplasia of lung"
+7488,Other specified anomalies of respiratory system
+7489,Unspecified anomaly of respiratory system
+7702,Interstitial emphysema and related conditions
+7703,Pulmonary hemorrhage
+7704,Primary atelectasis
+7705,Other and unspecified atelectasis
+7706,Transitory tachypnea of newborn
+7707,Chronic respiratory disease arising in the perinatal period
+7709,Unspecified respiratory condition of fetus and newborn
+7867,Abnormal chest sounds
+7869,Other symptoms involving respiratory system and chest
+8620,"Injury to diaphragm, without mention of open wound into cavity"
+8621,"Injury to diaphragm, with open wound into cavity"
+9348,Foreign body in other specified parts bronchus and lung
+9349,"Foreign body in respiratory tree, unspecified"
+9471,"Burn of larynx, trachea, and lung"
+27702,Cystic fibrosis with pulmonary manifestations
+32720,"Organic sleep apnea, unspecified"
+32721,Primary central sleep apnea
+32722,High altitude periodic breathing
+32723,Obstructive sleep apnea (adult)(pediatric)
+32724,Idiopathic sleep related non-obstructive alveolar hypoventilation
+32725,Congenital central alveolar hypoventilation syndrome
+32726,Sleep related hypoventilation/hypoxemia in conditions classifiable elsewhere
+32727,Central sleep apnea in conditions classified elsewhere
+32729,Other organic sleep apnea
+41511,Iatrogenic pulmonary embolism and infarction
+41512,Septic pulmonary embolism
+41513,Saddle embolus of pulmonary artery
+41519,Other pulmonary embolism and infarction
+48230,"Pneumonia due to Streptococcus, unspecified"
+48231,"Pneumonia due to Streptococcus, group A"
+48232,"Pneumonia due to Streptococcus, group B"
+48239,Pneumonia due to other Streptococcus
+48240,"Pneumonia due to Staphylococcus, unspecified"
+48241,Methicillin susceptible pneumonia due to Staphylococcus aureus
+48242,Methicillin resistant pneumonia due to Staphylococcus aureus
+48249,Other Staphylococcus pneumonia
+48281,Pneumonia due to anaerobes
+48282,Pneumonia due to escherichia coli [E. coli]
+48283,Pneumonia due to other gram-negative bacteria
+48284,Pneumonia due to Legionnaires' disease
+48289,Pneumonia due to other specified bacteria
+49120,Obstructive chronic bronchitis without exacerbation
+49121,Obstructive chronic bronchitis with (acute) exacerbation
+49122,Obstructive chronic bronchitis with acute bronchitis
+49300,"Extrinsic asthma, unspecified"
+49301,Extrinsic asthma with status asthmaticus
+49302,Extrinsic asthma with (acute) exacerbation
+49302,Extrinsic asthma with (acute) exacerbation
+49302,Extrinsic asthma with (acute) exacerbation
+49310,"Intrinsic asthma, unspecified"
+49310,"Intrinsic asthma, unspecified"
+49310,"Intrinsic asthma, unspecified"
+49311,Intrinsic asthma with status asthmaticus
+49311,Intrinsic asthma with status asthmaticus
+49311,Intrinsic asthma with status asthmaticus
+49312,Intrinsic asthma with (acute) exacerbation
+49312,Intrinsic asthma with (acute) exacerbation
+49312,Intrinsic asthma with (acute) exacerbation
+49320,"Chronic obstructive asthma, unspecified"
+49320,"Chronic obstructive asthma, unspecified"
+49320,"Chronic obstructive asthma, unspecified"
+49321,Chronic obstructive asthma with status asthmaticus
+49321,Chronic obstructive asthma with status asthmaticus
+49321,Chronic obstructive asthma with status asthmaticus
+49322,Chronic obstructive asthma with (acute) exacerbation
+49322,Chronic obstructive asthma with (acute) exacerbation
+49322,Chronic obstructive asthma with (acute) exacerbation
+49381,Exercise induced bronchospasm
+49381,Exercise induced bronchospasm
+49381,Exercise induced bronchospasm
+49382,Cough variant asthma
+49382,Cough variant asthma
+49382,Cough variant asthma
+49390,"Asthma, unspecified type, unspecified"
+49390,"Asthma, unspecified type, unspecified"
+49390,"Asthma, unspecified type, unspecified"
+49391,"Asthma, unspecified type, with status asthmaticus"
+49391,"Asthma, unspecified type, with status asthmaticus"
+49391,"Asthma, unspecified type, with status asthmaticus"
+49392,"Asthma, unspecified type, with (acute) exacerbation"
+49392,"Asthma, unspecified type, with (acute) exacerbation"
+49392,"Asthma, unspecified type, with (acute) exacerbation"
+51181,Malignant pleural effusion
+51181,Malignant pleural effusion
+51189,"Other specified forms of effusion, except tuberculous"
+51189,"Other specified forms of effusion, except tuberculous"
+51281,Primary spontaneous pneumothorax
+51281,Primary spontaneous pneumothorax
+51282,Secondary spontaneous pneumothorax
+51282,Secondary spontaneous pneumothorax
+51283,Chronic pneumothorax
+51283,Chronic pneumothorax
+51284,Other air leak
+51284,Other air leak
+51289,Other pneumothorax
+51289,Other pneumothorax
+51630,"Idiopathic interstitial pneumonia, not otherwise specified"
+51630,"Idiopathic interstitial pneumonia, not otherwise specified"
+51631,Idiopathic pulmonary fibrosis
+51631,Idiopathic pulmonary fibrosis
+51632,Idiopathic non-specific interstitial pneumonitis
+51632,Idiopathic non-specific interstitial pneumonitis
+51633,Acute interstitial pneumonitis
+51633,Acute interstitial pneumonitis
+51634,Respiratory bronchiolitis interstitial lung disease
+51634,Respiratory bronchiolitis interstitial lung disease
+51635,Idiopathic lymphoid interstitial pneumonia
+51635,Idiopathic lymphoid interstitial pneumonia
+51636,Cryptogenic organizing pneumonia
+51636,Cryptogenic organizing pneumonia
+51637,Desquamative interstitial pneumonia
+51637,Desquamative interstitial pneumonia
+51661,Neuroendocrine cell hyperplasia of infancy
+51661,Neuroendocrine cell hyperplasia of infancy
+51662,Pulmonary interstitial glycogenosis
+51662,Pulmonary interstitial glycogenosis
+51663,Surfactant mutations of the lung
+51663,Surfactant mutations of the lung
+51664,Alveolar capillary dysplasia with vein misalignment
+51664,Alveolar capillary dysplasia with vein misalignment
+51669,Other interstitial lung diseases of childhood
+51669,Other interstitial lung diseases of childhood
+51851,Acute respiratory failure following trauma and surgery
+51851,Acute respiratory failure following trauma and surgery
+51852,"Other pulmonary insufficiency, not elsewhere classified, following trauma and surgery"
+51852,"Other pulmonary insufficiency, not elsewhere classified, following trauma and surgery"
+51853,Acute and chronic respiratory failure following trauma and surgery
+51853,Acute and chronic respiratory failure following trauma and surgery
+51881,Acute respiratory failure
+51881,Acute respiratory failure
+51882,"Other pulmonary insufficiency, not elsewhere classified"
+51882,"Other pulmonary insufficiency, not elsewhere classified"
+51883,Chronic respiratory failure
+51883,Chronic respiratory failure
+51884,Acute and chronic respiratory failure
+51884,Acute and chronic respiratory failure
+51889,"Other diseases of lung, not elsewhere classified"
+51889,"Other diseases of lung, not elsewhere classified"
+51900,"Tracheostomy complication, unspecified"
+51900,"Tracheostomy complication, unspecified"
+51901,Infection of tracheostomy
+51901,Infection of tracheostomy
+51902,Mechanical complication of tracheostomy
+51902,Mechanical complication of tracheostomy
+51909,Other tracheostomy complications
+51909,Other tracheostomy complications
+51911,Acute bronchospasm
+51911,Acute bronchospasm
+51919,Other diseases of trachea and bronchus
+51919,Other diseases of trachea and bronchus
+66800,"Pulmonary complications of anesthesia or other sedation in labor and delivery, unspecified as to episode of care or not applicable"
+66801,"Pulmonary complications of anesthesia or other sedation in labor and delivery, delivered, with or without mention of antepartum condition"
+66802,"Pulmonary complications of anesthesia or other sedation in labor and delivery, delivered, with mention of postpartum complication"
+66803,"Pulmonary complications of anesthesia or other sedation in labor and delivery, antepartum condition or complication"
+66804,"Pulmonary complications of anesthesia or other sedation in labor and delivery, postpartum condition or complication"
+67321,"Obstetrical blood-clot embolism, delivered, with or without mention of antepartum condition"
+67322,"Obstetrical blood-clot embolism, delivered, with mention of postpartum complication"
+67323,"Obstetrical blood-clot embolism, antepartum condition or complication"
+67324,"Obstetrical blood-clot embolism, postpartum condition or complication"
+67380,"Other obstetrical pulmonary embolism, unspecified as to episode of care or not applicable"
+67381,"Other obstetrical pulmonary embolism, delivered, with or without mention of antepartum condition"
+67382,"Other obstetrical pulmonary embolism, delivered, with mention of postpartum complication"
+67383,"Other obstetrical pulmonary embolism, antepartum condition or complication"
+67384,"Other obstetrical pulmonary embolism, postpartum condition or complication"
+71481,Rheumatoid lung
+74860,"Anomaly of lung, unspecified"
+74861,Congenital bronchiectasis
+74869,Other congenital anomalies of lung
+77081,Primary apnea of newborn
+77081,Primary apnea of newborn
+77082,Other apnea of newborn
+77082,Other apnea of newborn
+77083,Cyanotic attacks of newborn
+77083,Cyanotic attacks of newborn
+77084,Respiratory failure of newborn
+77084,Respiratory failure of newborn
+77085,Aspiration of postnatal stomach contents without respiratory symptoms
+77085,Aspiration of postnatal stomach contents without respiratory symptoms
+77086,Aspiration of postnatal stomach contents with respiratory symptoms
+77086,Aspiration of postnatal stomach contents with respiratory symptoms
+77087,Respiratory arrest of newborn
+77087,Respiratory arrest of newborn
+77088,Hypoxemia of newborn
+77088,Hypoxemia of newborn
+77089,Other respiratory problems after birth
+77089,Other respiratory problems after birth
+78051,"Insomnia with sleep apnea, unspecified"
+78053,"Hypersomnia with sleep apnea, unspecified"
+78057,Unspecified sleep apnea
+78603,Apnea
+78631,Acute idiopathic pulmonary hemorrhage in infants [AIPHI]
+78652,Painful respiration
+79311,Solitary pulmonary nodule
+79319,Other nonspecific abnormal finding of lung field
+86120,Unspecified injury of lung without mention of open wound into thorax
+86121,Contusion of lung without mention of open wound into thorax
+86122,Laceration of lung without mention of open wound into thorax
+86130,Unspecified injury of lung with open wound into thorax
+86131,Contusion of lung with open wound into thorax
+86132,Laceration of lung with open wound into thorax
+90140,"Injury to pulmonary vessel(s), unspecified"
+90141,Injury to pulmonary artery
+90142,Injury to pulmonary vein
+90181,Injury to intercostal artery or vein
+99684,Complications of transplanted lung

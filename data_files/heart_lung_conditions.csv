@@ -1,0 +1,1035 @@
+code,description
+412,Old myocardial infarction
+0939,"Cardiovascular syphilis, unspecified"
+1303,Myocarditis due to toxoplasmosis
+03282,Diphtheritic myocarditis
+03640,"Meningococcal carditis, unspecified"
+03641,Meningococcal pericarditis
+03642,Meningococcal endocarditis
+03643,Meningococcal myocarditis
+4110,Postmyocardial infarction syndrome
+4111,Intermediate coronary syndrome
+4130,Angina decubitus
+4131,Prinzmetal angina
+4139,Other and unspecified angina pectoris
+4142,Chronic total occlusion of coronary artery
+4143,Coronary atherosclerosis due to lipid rich plaque
+4144,Coronary atherosclerosis due to calcified coronary lesion
+4148,Other specified forms of chronic ischemic heart disease
+4149,"Chronic ischemic heart disease, unspecified"
+4150,Acute cor pulmonale
+4200,Acute pericarditis in diseases classified elsewhere
+4210,Acute and subacute bacterial endocarditis
+4211,Acute and subacute infective endocarditis in diseases classified elsewhere
+4219,"Acute endocarditis, unspecified"
+4220,Acute myocarditis in diseases classified elsewhere
+4230,Hemopericardium
+4231,Adhesive pericarditis
+4232,Constrictive pericarditis
+4233,Cardiac tamponade
+4238,Other specified diseases of pericardium
+4239,Unspecified disease of pericardium
+4240,Mitral valve disorders
+4241,Aortic valve disorders
+4242,"Tricuspid valve disorders, specified as nonrheumatic"
+4243,Pulmonary valve disorders
+4250,Endomyocardial fibrosis
+4252,Obscure cardiomyopathy of Africa
+4253,Endocardial fibroelastosis
+4254,Other primary cardiomyopathies
+4255,Alcoholic cardiomyopathy
+4257,Nutritional and metabolic cardiomyopathy
+4258,Cardiomyopathy in other diseases classified elsewhere
+4259,"Secondary cardiomyopathy, unspecified"
+4260,"Atrioventricular block, complete"
+4262,Left bundle branch hemiblock
+4263,Other left bundle branch block
+4264,Right bundle branch block
+4266,Other heart block
+4267,Anomalous atrioventricular excitation
+4269,"Conduction disorder, unspecified"
+4270,Paroxysmal supraventricular tachycardia
+4271,Paroxysmal ventricular tachycardia
+4272,"Paroxysmal tachycardia, unspecified"
+4275,Cardiac arrest
+4279,"Cardiac dysrhythmia, unspecified"
+4280,"Congestive heart failure, unspecified"
+4281,Left heart failure
+4289,"Heart failure, unspecified"
+4290,"Myocarditis, unspecified"
+4291,Myocardial degeneration
+4292,"Cardiovascular disease, unspecified"
+4293,Cardiomegaly
+4294,Functional disturbances following cardiac surgery
+4295,Rupture of chordae tendineae
+4296,Rupture of papillary muscle
+4299,"Heart disease, unspecified"
+07420,"Coxsackie carditis, unspecified"
+07421,Coxsackie pericarditis
+07422,Coxsackie endocarditis
+07423,Coxsackie myocarditis
+7457,Cor biloculare
+7458,Other bulbus cordis anomalies and anomalies of cardiac septal closure
+7459,Unspecified defect of septal closure
+7461,"Tricuspid atresia and stenosis, congenital"
+7462,Ebstein's anomaly
+7463,Congenital stenosis of aortic valve
+7464,Congenital insufficiency of aortic valve
+7465,Congenital mitral stenosis
+7466,Congenital mitral insufficiency
+7467,Hypoplastic left heart syndrome
+7469,Unspecified congenital anomaly of heart
+7470,Patent ductus arteriosus
+7850,"Tachycardia, unspecified"
+7851,Palpitations
+7852,Undiagnosed cardiac murmurs
+7853,Other abnormal heart sounds
+7859,Other symptoms involving cardiovascular system
+09320,"Syphilitic endocarditis of valve, unspecified"
+09321,Syphilitic endocarditis of mitral valve
+09322,Syphilitic endocarditis of aortic valve
+09323,Syphilitic endocarditis of tricuspid valve
+09324,Syphilitic endocarditis of pulmonary valve
+09381,Syphilitic pericarditis
+09382,Syphilitic myocarditis
+09389,Other specified cardiovascular syphilis
+09883,Gonococcal pericarditis
+09884,Gonococcal endocarditis
+09885,Other gonococcal heart disease
+11503,"Infection by Histoplasma capsulatum, pericarditis"
+11504,"Infection by Histoplasma capsulatum, endocarditis"
+11513,"Infection by Histoplasma duboisii, pericarditis"
+11514,"Infection by Histoplasma duboisii, endocarditis"
+11593,"Histoplasmosis, unspecified, pericarditis"
+11594,"Histoplasmosis, unspecified, endocarditis"
+41000,"Acute myocardial infarction of anterolateral wall, episode of care unspecified"
+41001,"Acute myocardial infarction of anterolateral wall, initial episode of care"
+41002,"Acute myocardial infarction of anterolateral wall, subsequent episode of care"
+41010,"Acute myocardial infarction of other anterior wall, episode of care unspecified"
+41011,"Acute myocardial infarction of other anterior wall, initial episode of care"
+41012,"Acute myocardial infarction of other anterior wall, subsequent episode of care"
+41020,"Acute myocardial infarction of inferolateral wall, episode of care unspecified"
+41021,"Acute myocardial infarction of inferolateral wall, initial episode of care"
+41022,"Acute myocardial infarction of inferolateral wall, subsequent episode of care"
+41030,"Acute myocardial infarction of inferoposterior wall, episode of care unspecified"
+41031,"Acute myocardial infarction of inferoposterior wall, initial episode of care"
+41032,"Acute myocardial infarction of inferoposterior wall, subsequent episode of care"
+41040,"Acute myocardial infarction of other inferior wall, episode of care unspecified"
+41041,"Acute myocardial infarction of other inferior wall, initial episode of care"
+41042,"Acute myocardial infarction of other inferior wall, subsequent episode of care"
+41050,"Acute myocardial infarction of other lateral wall, episode of care unspecified"
+41051,"Acute myocardial infarction of other lateral wall, initial episode of care"
+41052,"Acute myocardial infarction of other lateral wall, subsequent episode of care"
+41060,"True posterior wall infarction, episode of care unspecified"
+41061,"True posterior wall infarction, initial episode of care"
+41062,"True posterior wall infarction, subsequent episode of care"
+41070,"Subendocardial infarction, episode of care unspecified"
+41071,"Subendocardial infarction, initial episode of care"
+41072,"Subendocardial infarction, subsequent episode of care"
+41080,"Acute myocardial infarction of other specified sites, episode of care unspecified"
+41081,"Acute myocardial infarction of other specified sites, initial episode of care"
+41082,"Acute myocardial infarction of other specified sites, subsequent episode of care"
+41090,"Acute myocardial infarction of unspecified site, episode of care unspecified"
+41091,"Acute myocardial infarction of unspecified site, initial episode of care"
+41092,"Acute myocardial infarction of unspecified site, subsequent episode of care"
+41181,Acute coronary occlusion without myocardial infarction
+41189,"Other acute and subacute forms of ischemic heart disease, other"
+41400,"Coronary atherosclerosis of unspecified type of vessel, native or graft"
+41401,Coronary atherosclerosis of native coronary artery
+41402,Coronary atherosclerosis of autologous vein bypass graft
+41403,Coronary atherosclerosis of nonautologous biological bypass graft
+41404,Coronary atherosclerosis of artery bypass graft
+41405,Coronary atherosclerosis of unspecified bypass graft
+41406,Coronary atherosclerosis of native coronary artery of transplanted heart
+41407,Coronary atherosclerosis of bypass graft (artery) (vein) of transplanted heart
+41410,Aneurysm of heart (wall)
+41411,Aneurysm of coronary vessels
+41412,Dissection of coronary artery
+41419,Other aneurysm of heart
+42090,"Acute pericarditis, unspecified"
+42091,Acute idiopathic pericarditis
+42099,Other acute pericarditis
+42290,"Acute myocarditis, unspecified"
+42291,Idiopathic myocarditis
+42292,Septic myocarditis
+42293,Toxic myocarditis
+42299,Other acute myocarditis
+42490,"Endocarditis, valve unspecified, unspecified cause"
+42491,Endocarditis in diseases classified elsewhere
+42499,"Other endocarditis, valve unspecified"
+42511,Hypertrophic obstructive cardiomyopathy
+42518,Other hypertrophic cardiomyopathy
+42610,"Atrioventricular block, unspecified"
+42611,First degree atrioventricular block
+42612,Mobitz (type) II atrioventricular block
+42613,Other second degree atrioventricular block
+42650,"Bundle branch block, unspecified"
+42651,Right bundle branch block and left posterior fascicular block
+42652,Right bundle branch block and left anterior fascicular block
+42653,Other bilateral bundle branch block
+42654,Trifascicular block
+42681,Lown-Ganong-Levine syndrome
+42682,Long QT syndrome
+42689,Other specified conduction disorders
+42731,Atrial fibrillation
+42732,Atrial flutter
+42741,Ventricular fibrillation
+42742,Ventricular flutter
+42760,"Premature beats, unspecified"
+42761,Supraventricular premature beats
+42769,Other premature beats
+42781,Sinoatrial node dysfunction
+42789,Other specified cardiac dysrhythmias
+42820,"Systolic heart failure, unspecified"
+42821,Acute systolic heart failure
+42822,Chronic systolic heart failure
+42823,Acute on chronic systolic heart failure
+42830,"Diastolic heart failure, unspecified"
+42831,Acute diastolic heart failure
+42832,Chronic diastolic heart failure
+42833,Acute on chronic diastolic heart failure
+42840,"Combined systolic and diastolic heart failure, unspecified"
+42841,Acute combined systolic and diastolic heart failure
+42842,Chronic combined systolic and diastolic heart failure
+42843,Acute on chronic combined systolic and diastolic heart failure
+42971,Acquired cardiac septal defect
+42979,"Certain sequelae of myocardial infarction, not elsewhere classified, other"
+42981,Other disorders of papillary muscle
+42982,Hyperkinetic heart disease
+42983,Takotsubo syndrome
+42989,Other ill-defined heart diseases
+66810,"Cardiac complications of anesthesia or other sedation in labor and delivery, unspecified as to episode of care or not applicable"
+66811,"Cardiac complications of anesthesia or other sedation in labor and delivery, delivered, with or without mention of antepartum condition"
+66812,"Cardiac complications of anesthesia or other sedation in labor and delivery, delivered, with mention of postpartum complication"
+66813,"Cardiac complications of anesthesia or other sedation in labor and delivery, antepartum condition or complication"
+66814,"Cardiac complications of anesthesia or other sedation in labor and delivery, postpartum condition or complication"
+67450,"Peripartum cardiomyopathy, unspecified as to episode of care or not applicable"
+67451,"Peripartum cardiomyopathy, delivered, with or without mention of antepartum condition"
+67452,"Peripartum cardiomyopathy, delivered, with mention of postpartum condition"
+67453,"Peripartum cardiomyopathy, antepartum condition or complication"
+67454,"Peripartum cardiomyopathy, postpartum condition or complication"
+74600,"Congenital pulmonary valve anomaly, unspecified"
+74601,"Atresia of pulmonary valve, congenital"
+74602,"Stenosis of pulmonary valve, congenital"
+74609,Other congenital anomalies of pulmonary valve
+74681,Subaortic stenosis
+74682,Cor triatriatum
+74683,Infundibular pulmonic stenosis
+74684,"Obstructive anomalies of heart, not elsewhere classified"
+74685,Coronary artery anomaly
+74686,Congenital heart block
+74687,Malposition of heart and cardiac apex
+74689,Other specified congenital anomalies of heart
+74710,Coarctation of aorta (preductal) (postductal)
+74711,Interruption of aortic arch
+74720,"Anomaly of aorta, unspecified"
+74721,Anomalies of aortic arch
+74722,Atresia and stenosis of aorta
+74729,Other anomalies of aorta
+74731,Pulmonary artery coarctation and atresia
+74732,Pulmonary arteriovenous malformation
+74739,Other anomalies of pulmonary artery and pulmonary circulation
+74740,"Anomaly of great veins, unspecified"
+74741,Total anomalous pulmonary venous connection
+74742,Partial anomalous pulmonary venous connection
+79430,"Abnormal cardiovascular function study, unspecified"
+79431,Nonspecific abnormal electrocardiogram [ECG] [EKG]
+79439,Other nonspecific abnormal results of function study of cardiovascular system
+390,Rheumatic fever without mention of heart involvement
+393,Chronic rheumatic pericarditis
+412,Old myocardial infarction
+0860,Chagas' disease with heart involvement
+0930,"Aneurysm of aorta, specified as syphilitic"
+0931,Syphilitic aortitis
+0939,"Cardiovascular syphilis, unspecified"
+1303,Myocarditis due to toxoplasmosis
+3062,Cardiovascular malfunction arising from mental factors
+03282,Diphtheritic myocarditis
+03640,"Meningococcal carditis, unspecified"
+03641,Meningococcal pericarditis
+03642,Meningococcal endocarditis
+03643,Meningococcal myocarditis
+3910,Acute rheumatic pericarditis
+3911,Acute rheumatic endocarditis
+3912,Acute rheumatic myocarditis
+3918,Other acute rheumatic heart disease
+3919,"Acute rheumatic heart disease, unspecified"
+3920,Rheumatic chorea with heart involvement
+3940,Mitral stenosis
+3941,Rheumatic mitral insufficiency
+3942,Mitral stenosis with insufficiency
+3949,Other and unspecified mitral valve diseases
+3950,Rheumatic aortic stenosis
+3951,Rheumatic aortic insufficiency
+3952,Rheumatic aortic stenosis with insufficiency
+3959,Other and unspecified rheumatic aortic diseases
+3960,Mitral valve stenosis and aortic valve stenosis
+3961,Mitral valve stenosis and aortic valve insufficiency
+3962,Mitral valve insufficiency and aortic valve stenosis
+3963,Mitral valve insufficiency and aortic valve insufficiency
+3968,Multiple involvement of mitral and aortic valves
+3969,"Mitral and aortic valve diseases, unspecified"
+3970,Diseases of tricuspid valve
+3971,Rheumatic diseases of pulmonary valve
+3979,"Rheumatic diseases of endocardium, valve unspecified"
+3980,Rheumatic myocarditis
+4110,Postmyocardial infarction syndrome
+4111,Intermediate coronary syndrome
+4130,Angina decubitus
+4131,Prinzmetal angina
+4139,Other and unspecified angina pectoris
+4142,Chronic total occlusion of coronary artery
+4143,Coronary atherosclerosis due to lipid rich plaque
+4144,Coronary atherosclerosis due to calcified coronary lesion
+4148,Other specified forms of chronic ischemic heart disease
+4149,"Chronic ischemic heart disease, unspecified"
+4150,Acute cor pulmonale
+4161,Kyphoscoliotic heart disease
+4168,Other chronic pulmonary heart diseases
+4169,"Chronic pulmonary heart disease, unspecified"
+4200,Acute pericarditis in diseases classified elsewhere
+4210,Acute and subacute bacterial endocarditis
+4211,Acute and subacute infective endocarditis in diseases classified elsewhere
+4219,"Acute endocarditis, unspecified"
+4220,Acute myocarditis in diseases classified elsewhere
+4230,Hemopericardium
+4231,Adhesive pericarditis
+4232,Constrictive pericarditis
+4233,Cardiac tamponade
+4238,Other specified diseases of pericardium
+4239,Unspecified disease of pericardium
+4240,Mitral valve disorders
+4241,Aortic valve disorders
+4242,"Tricuspid valve disorders, specified as nonrheumatic"
+4243,Pulmonary valve disorders
+4250,Endomyocardial fibrosis
+4252,Obscure cardiomyopathy of Africa
+4253,Endocardial fibroelastosis
+4254,Other primary cardiomyopathies
+4255,Alcoholic cardiomyopathy
+4257,Nutritional and metabolic cardiomyopathy
+4258,Cardiomyopathy in other diseases classified elsewhere
+4259,"Secondary cardiomyopathy, unspecified"
+4260,"Atrioventricular block, complete"
+4262,Left bundle branch hemiblock
+4263,Other left bundle branch block
+4264,Right bundle branch block
+4266,Other heart block
+4267,Anomalous atrioventricular excitation
+4269,"Conduction disorder, unspecified"
+4270,Paroxysmal supraventricular tachycardia
+4271,Paroxysmal ventricular tachycardia
+4272,"Paroxysmal tachycardia, unspecified"
+4275,Cardiac arrest
+4279,"Cardiac dysrhythmia, unspecified"
+4280,"Congestive heart failure, unspecified"
+4281,Left heart failure
+4289,"Heart failure, unspecified"
+4290,"Myocarditis, unspecified"
+4291,Myocardial degeneration
+4292,"Cardiovascular disease, unspecified"
+4293,Cardiomegaly
+4294,Functional disturbances following cardiac surgery
+4295,Rupture of chordae tendineae
+4296,Rupture of papillary muscle
+4299,"Heart disease, unspecified"
+5300,Achalasia and cardiospasm
+07420,"Coxsackie carditis, unspecified"
+07421,Coxsackie pericarditis
+07422,Coxsackie endocarditis
+07423,Coxsackie myocarditis
+7450,Common truncus
+7452,Tetralogy of fallot
+7453,Common ventricle
+7454,Ventricular septal defect
+7455,Ostium secundum type atrial septal defect
+7457,Cor biloculare
+7458,Other bulbus cordis anomalies and anomalies of cardiac septal closure
+7459,Unspecified defect of septal closure
+7461,"Tricuspid atresia and stenosis, congenital"
+7462,Ebstein's anomaly
+7463,Congenital stenosis of aortic valve
+7464,Congenital insufficiency of aortic valve
+7465,Congenital mitral stenosis
+7466,Congenital mitral insufficiency
+7467,Hypoplastic left heart syndrome
+7469,Unspecified congenital anomaly of heart
+7470,Patent ductus arteriosus
+7850,"Tachycardia, unspecified"
+7851,Palpitations
+7852,Undiagnosed cardiac murmurs
+7853,Other abnormal heart sounds
+7859,Other symptoms involving cardiovascular system
+09320,"Syphilitic endocarditis of valve, unspecified"
+09321,Syphilitic endocarditis of mitral valve
+09322,Syphilitic endocarditis of aortic valve
+09323,Syphilitic endocarditis of tricuspid valve
+09324,Syphilitic endocarditis of pulmonary valve
+09381,Syphilitic pericarditis
+09382,Syphilitic myocarditis
+09389,Other specified cardiovascular syphilis
+09882,Gonococcal meningitis
+09883,Gonococcal pericarditis
+09884,Gonococcal endocarditis
+09885,Other gonococcal heart disease
+9971,"Cardiac complications, not elsewhere classified"
+11281,Candidal endocarditis
+11503,"Infection by Histoplasma capsulatum, pericarditis"
+11504,"Infection by Histoplasma capsulatum, endocarditis"
+11513,"Infection by Histoplasma duboisii, pericarditis"
+11514,"Infection by Histoplasma duboisii, endocarditis"
+11593,"Histoplasmosis, unspecified, pericarditis"
+11594,"Histoplasmosis, unspecified, endocarditis"
+39890,"Rheumatic heart disease, unspecified"
+39891,Rheumatic heart failure (congestive)
+39899,Other rheumatic heart diseases
+40200,Malignant hypertensive heart disease without heart failure
+40201,Malignant hypertensive heart disease with heart failure
+40210,Benign hypertensive heart disease without heart failure
+40211,Benign hypertensive heart disease with heart failure
+40290,Unspecified hypertensive heart disease without heart failure
+40291,Unspecified hypertensive heart disease with heart failure
+40400,"Hypertensive heart and chronic kidney disease, malignant, without heart failure and with chronic kidney disease stage I through stage IV, or unspecified"
+40401,"Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified"
+40402,"Hypertensive heart and chronic kidney disease, malignant, without heart failure and with chronic kidney disease stage V or end stage renal disease"
+40403,"Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage V or end stage renal disease"
+40410,"Hypertensive heart and chronic kidney disease, benign, without heart failure and with chronic kidney disease stage I through stage IV, or unspecified"
+40411,"Hypertensive heart and chronic kidney disease, benign, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified"
+40412,"Hypertensive heart and chronic kidney disease, benign, without heart failure and with chronic kidney disease stage V or end stage renal disease"
+40413,"Hypertensive heart and chronic kidney disease, benign, with heart failure and chronic kidney disease stage V or end stage renal disease"
+40490,"Hypertensive heart and chronic kidney disease, unspecified, without heart failure and with chronic kidney disease stage I through stage IV, or unspecified"
+40491,"Hypertensive heart and chronic kidney disease, unspecified, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified"
+40492,"Hypertensive heart and chronic kidney disease, unspecified, without heart failure and with chronic kidney disease stage V or end stage renal disease"
+40493,"Hypertensive heart and chronic kidney disease, unspecified, with heart failure and chronic kidney disease stage V or end stage renal disease"
+41000,"Acute myocardial infarction of anterolateral wall, episode of care unspecified"
+41001,"Acute myocardial infarction of anterolateral wall, initial episode of care"
+41002,"Acute myocardial infarction of anterolateral wall, subsequent episode of care"
+41010,"Acute myocardial infarction of other anterior wall, episode of care unspecified"
+41011,"Acute myocardial infarction of other anterior wall, initial episode of care"
+41012,"Acute myocardial infarction of other anterior wall, subsequent episode of care"
+41020,"Acute myocardial infarction of inferolateral wall, episode of care unspecified"
+41021,"Acute myocardial infarction of inferolateral wall, initial episode of care"
+41022,"Acute myocardial infarction of inferolateral wall, subsequent episode of care"
+41030,"Acute myocardial infarction of inferoposterior wall, episode of care unspecified"
+41031,"Acute myocardial infarction of inferoposterior wall, initial episode of care"
+41032,"Acute myocardial infarction of inferoposterior wall, subsequent episode of care"
+41040,"Acute myocardial infarction of other inferior wall, episode of care unspecified"
+41041,"Acute myocardial infarction of other inferior wall, initial episode of care"
+41042,"Acute myocardial infarction of other inferior wall, subsequent episode of care"
+41050,"Acute myocardial infarction of other lateral wall, episode of care unspecified"
+41051,"Acute myocardial infarction of other lateral wall, initial episode of care"
+41052,"Acute myocardial infarction of other lateral wall, subsequent episode of care"
+41060,"True posterior wall infarction, episode of care unspecified"
+41061,"True posterior wall infarction, initial episode of care"
+41062,"True posterior wall infarction, subsequent episode of care"
+41070,"Subendocardial infarction, episode of care unspecified"
+41071,"Subendocardial infarction, initial episode of care"
+41072,"Subendocardial infarction, subsequent episode of care"
+41080,"Acute myocardial infarction of other specified sites, episode of care unspecified"
+41081,"Acute myocardial infarction of other specified sites, initial episode of care"
+41082,"Acute myocardial infarction of other specified sites, subsequent episode of care"
+41090,"Acute myocardial infarction of unspecified site, episode of care unspecified"
+41091,"Acute myocardial infarction of unspecified site, initial episode of care"
+41092,"Acute myocardial infarction of unspecified site, subsequent episode of care"
+41181,Acute coronary occlusion without myocardial infarction
+41189,"Other acute and subacute forms of ischemic heart disease, other"
+41400,"Coronary atherosclerosis of unspecified type of vessel, native or graft"
+41401,Coronary atherosclerosis of native coronary artery
+41402,Coronary atherosclerosis of autologous vein bypass graft
+41403,Coronary atherosclerosis of nonautologous biological bypass graft
+41404,Coronary atherosclerosis of artery bypass graft
+41405,Coronary atherosclerosis of unspecified bypass graft
+41406,Coronary atherosclerosis of native coronary artery of transplanted heart
+41407,Coronary atherosclerosis of bypass graft (artery) (vein) of transplanted heart
+41410,Aneurysm of heart (wall)
+41411,Aneurysm of coronary vessels
+41412,Dissection of coronary artery
+41419,Other aneurysm of heart
+42090,"Acute pericarditis, unspecified"
+42091,Acute idiopathic pericarditis
+42099,Other acute pericarditis
+42290,"Acute myocarditis, unspecified"
+42291,Idiopathic myocarditis
+42292,Septic myocarditis
+42293,Toxic myocarditis
+42299,Other acute myocarditis
+42490,"Endocarditis, valve unspecified, unspecified cause"
+42491,Endocarditis in diseases classified elsewhere
+42499,"Other endocarditis, valve unspecified"
+42511,Hypertrophic obstructive cardiomyopathy
+42518,Other hypertrophic cardiomyopathy
+42610,"Atrioventricular block, unspecified"
+42611,First degree atrioventricular block
+42612,Mobitz (type) II atrioventricular block
+42613,Other second degree atrioventricular block
+42650,"Bundle branch block, unspecified"
+42651,Right bundle branch block and left posterior fascicular block
+42652,Right bundle branch block and left anterior fascicular block
+42653,Other bilateral bundle branch block
+42654,Trifascicular block
+42681,Lown-Ganong-Levine syndrome
+42682,Long QT syndrome
+42689,Other specified conduction disorders
+42731,Atrial fibrillation
+42732,Atrial flutter
+42741,Ventricular fibrillation
+42742,Ventricular flutter
+42760,"Premature beats, unspecified"
+42761,Supraventricular premature beats
+42769,Other premature beats
+42781,Sinoatrial node dysfunction
+42789,Other specified cardiac dysrhythmias
+42820,"Systolic heart failure, unspecified"
+42821,Acute systolic heart failure
+42822,Chronic systolic heart failure
+42823,Acute on chronic systolic heart failure
+42830,"Diastolic heart failure, unspecified"
+42831,Acute diastolic heart failure
+42832,Chronic diastolic heart failure
+42833,Acute on chronic diastolic heart failure
+42840,"Combined systolic and diastolic heart failure, unspecified"
+42841,Acute combined systolic and diastolic heart failure
+42842,Chronic combined systolic and diastolic heart failure
+42843,Acute on chronic combined systolic and diastolic heart failure
+42971,Acquired cardiac septal defect
+42979,"Certain sequelae of myocardial infarction, not elsewhere classified, other"
+42981,Other disorders of papillary muscle
+42982,Hyperkinetic heart disease
+42983,Takotsubo syndrome
+42989,Other ill-defined heart diseases
+64850,"Congenital cardiovascular disorders of mother, unspecified as to episode of care or not applicable"
+64851,"Congenital cardiovascular disorders of mother, delivered, with or without mention of antepartum condition"
+64852,"Congenital cardiovascular disorders of mother, delivered, with mention of postpartum complication"
+64853,"Congenital cardiovascular disorders of mother, antepartum condition or complication"
+64854,"Congenital cardiovascular disorders of mother, postpartum condition or complication"
+64860,"Other cardiovascular diseases of mother, unspecified as to episode of care or not applicable"
+64861,"Other cardiovascular diseases of mother, delivered, with or without mention of antepartum condition"
+64862,"Other cardiovascular diseases of mother, delivered, with mention of postpartum complication"
+64863,"Other cardiovascular diseases of mother, antepartum condition or complication"
+64864,"Other cardiovascular diseases of mother, postpartum condition or complication"
+65970,"Abnormality in fetal heart rate or rhythm, unspecified as to episode of care or not applicable"
+65971,"Abnormality in fetal heart rate or rhythm, delivered, with or without mention of antepartum condition"
+65973,"Abnormality in fetal heart rate or rhythm, antepartum condition or complication"
+66810,"Cardiac complications of anesthesia or other sedation in labor and delivery, unspecified as to episode of care or not applicable"
+66811,"Cardiac complications of anesthesia or other sedation in labor and delivery, delivered, with or without mention of antepartum condition"
+66812,"Cardiac complications of anesthesia or other sedation in labor and delivery, delivered, with mention of postpartum complication"
+66813,"Cardiac complications of anesthesia or other sedation in labor and delivery, antepartum condition or complication"
+66814,"Cardiac complications of anesthesia or other sedation in labor and delivery, postpartum condition or complication"
+67450,"Peripartum cardiomyopathy, unspecified as to episode of care or not applicable"
+67451,"Peripartum cardiomyopathy, delivered, with or without mention of antepartum condition"
+67452,"Peripartum cardiomyopathy, delivered, with mention of postpartum condition"
+67453,"Peripartum cardiomyopathy, antepartum condition or complication"
+67454,"Peripartum cardiomyopathy, postpartum condition or complication"
+74510,Complete transposition of great vessels
+74511,Double outlet right ventricle
+74512,Corrected transposition of great vessels
+74519,Other transposition of great vessels
+74560,"Endocardial cushion defect, unspecified type"
+74561,Ostium primum defect
+74569,Other endocardial cushion defects
+74600,"Congenital pulmonary valve anomaly, unspecified"
+74601,"Atresia of pulmonary valve, congenital"
+74602,"Stenosis of pulmonary valve, congenital"
+74609,Other congenital anomalies of pulmonary valve
+74681,Subaortic stenosis
+74682,Cor triatriatum
+74683,Infundibular pulmonic stenosis
+74684,"Obstructive anomalies of heart, not elsewhere classified"
+74685,Coronary artery anomaly
+74686,Congenital heart block
+74687,Malposition of heart and cardiac apex
+74689,Other specified congenital anomalies of heart
+74710,Coarctation of aorta (preductal) (postductal)
+74711,Interruption of aortic arch
+74720,"Anomaly of aorta, unspecified"
+74721,Anomalies of aortic arch
+74722,Atresia and stenosis of aorta
+74729,Other anomalies of aorta
+74731,Pulmonary artery coarctation and atresia
+74732,Pulmonary arteriovenous malformation
+74739,Other anomalies of pulmonary artery and pulmonary circulation
+74740,"Anomaly of great veins, unspecified"
+74741,Total anomalous pulmonary venous connection
+74742,Partial anomalous pulmonary venous connection
+74749,Other anomalies of great veins
+77981,Neonatal bradycardia
+77982,Neonatal tachycardia
+77985,Cardiac arrest of newborn
+78551,Cardiogenic shock
+78650,"Chest pain, unspecified"
+78651,Precordial pain
+78659,Other chest pain
+79430,"Abnormal cardiovascular function study, unspecified"
+79431,Nonspecific abnormal electrocardiogram [ECG] [EKG]
+79439,Other nonspecific abnormal results of function study of cardiovascular system
+86100,Unspecified injury of heart without mention of open wound into thorax
+86101,Contusion of heart without mention of open wound into thorax
+86102,Laceration of heart without penetration of heart chambers or without mention of open wound into thorax
+86103,Laceration of heart with penetration of heart chambers without mention of open wound into thorax
+86110,Unspecified injury of heart with open wound into thorax
+86111,Contusion of heart with open wound into thorax
+86112,"Laceration of heart without penetration of heart chambers, with open wound into thorax"
+86113,Laceration of heart with penetration of heart chambers with open wound into thorax
+99601,Mechanical complication due to cardiac pacemaker (electrode)
+99602,Mechanical complication due to heart valve prosthesis
+99603,Mechanical complication due to coronary bypass graft
+99604,Mechanical complication of automatic implantable cardiac defibrillator
+99609,"Other mechanical complication of cardiac device, implant, and graft"
+99661,"Infection and inflammatory reaction due to cardiac device, implant, and graft"
+99672,"Other complications due to other cardiac device, implant, and graft"
+99801,"Postoperative shock, cardiogenic"
+0064,Amebic lung abscess
+0212,Pulmonary tularemia
+0221,Pulmonary anthrax
+0310,Pulmonary diseases due to other mycobacteria
+0391,Pulmonary actinomycotic infection
+481,Pneumococcal pneumonia [Streptococcus pneumoniae pneumonia]
+485,"Bronchopneumonia, organism unspecified"
+486,"Pneumonia, organism unspecified"
+490,"Bronchitis, not specified as acute or chronic"
+496,"Chronic airway obstruction, not elsewhere classified"
+500,Coal workers' pneumoconiosis
+501,Asbestosis
+502,Pneumoconiosis due to other silica or silicates
+503,Pneumoconiosis due to other inorganic dust
+504,Pneumonopathy due to inhalation of other dust
+505,"Pneumoconiosis, unspecified"
+514,Pulmonary congestion and hypostasis
+515,Postinflammatory pulmonary fibrosis
+0951,Syphilis of lung
+01000,"Primary tuberculous infection, unspecified"
+01001,"Primary tuberculous infection, bacteriological or histological examination not done"
+01002,"Primary tuberculous infection, bacteriological or histological examination unknown (at present)"
+01003,"Primary tuberculous infection, tubercle bacilli found (in sputum) by microscopy"
+01004,"Primary tuberculous infection, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+01005,"Primary tuberculous infection, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+01006,"Primary tuberculous infection, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+01010,"Tuberculous pleurisy in primary progressive tuberculosis, unspecified"
+01011,"Tuberculous pleurisy in primary progressive tuberculosis, bacteriological or histological examination not done"
+01012,"Tuberculous pleurisy in primary progressive tuberculosis, bacteriological or histological examination unknown (at present)"
+01013,"Tuberculous pleurisy in primary progressive tuberculosis, tubercle bacilli found (in sputum) by microscopy"
+01014,"Tuberculous pleurisy in primary progressive tuberculosis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+01015,"Tuberculous pleurisy in primary progressive tuberculosis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+01016,"Tuberculous pleurisy in primary progressive tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+01080,"Other primary progressive tuberculosis, unspecified"
+01081,"Other primary progressive tuberculosis, bacteriological or histological examination not done"
+01082,"Other primary progressive tuberculosis, bacteriological or histological examination unknown (at present)"
+01083,"Other primary progressive tuberculosis, tubercle bacilli found (in sputum) by microscopy"
+01084,"Other primary progressive tuberculosis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+01085,"Other primary progressive tuberculosis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+01086,"Other primary progressive tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+01090,"Primary tuberculous infection, unspecified, unspecified"
+01091,"Primary tuberculous infection, unspecified, bacteriological or histological examination not done"
+01092,"Primary tuberculous infection, unspecified, bacteriological or histological examination unknown (at present)"
+01093,"Primary tuberculous infection, unspecified, tubercle bacilli found (in sputum) by microscopy"
+01094,"Primary tuberculous infection, unspecified, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+01095,"Primary tuberculous infection, unspecified, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+01096,"Primary tuberculous infection, unspecified, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+01100,"Tuberculosis of lung, infiltrative, unspecified"
+01101,"Tuberculosis of lung, infiltrative, bacteriological or histological examination not done"
+01102,"Tuberculosis of lung, infiltrative, bacteriological or histological examination unknown (at present)"
+01103,"Tuberculosis of lung, infiltrative, tubercle bacilli found (in sputum) by microscopy"
+01104,"Tuberculosis of lung, infiltrative, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+01105,"Tuberculosis of lung, infiltrative, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+01106,"Tuberculosis of lung, infiltrative, tubercle bacilli not found bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+01110,"Tuberculosis of lung, nodular, unspecified"
+01111,"Tuberculosis of lung, nodular, bacteriological or histological examination not done"
+01112,"Tuberculosis of lung, nodular, bacteriological or histological examination unknown (at present)"
+01113,"Tuberculosis of lung, nodular, tubercle bacilli found (in sputum) by microscopy"
+01114,"Tuberculosis of lung, nodular, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+01115,"Tuberculosis of lung, nodular, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+01116,"Tuberculosis of lung, nodular, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+01120,"Tuberculosis of lung with cavitation, unspecified"
+01121,"Tuberculosis of lung with cavitation, bacteriological or histological examination not done"
+01122,"Tuberculosis of lung with cavitation, bacteriological or histological examination unknown (at present)"
+01123,"Tuberculosis of lung with cavitation, tubercle bacilli found (in sputum) by microscopy"
+01124,"Tuberculosis of lung with cavitation, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+1124,Candidiasis of lung
+01125,"Tuberculosis of lung with cavitation, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+01126,"Tuberculosis of lung with cavitation, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+01130,"Tuberculosis of bronchus, unspecified"
+01131,"Tuberculosis of bronchus, bacteriological or histological examination not done"
+01132,"Tuberculosis of bronchus, bacteriological or histological examination unknown (at present)"
+01133,"Tuberculosis of bronchus, tubercle bacilli found (in sputum) by microscopy"
+01134,"Tuberculosis of bronchus, tubercle bacilli not found (in sputum) by microscopy, but found in bacterial culture"
+01135,"Tuberculosis of bronchus, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+01136,"Tuberculosis of bronchus, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+01140,"Tuberculous fibrosis of lung, unspecified"
+1140,Primary coccidioidomycosis (pulmonary)
+01141,"Tuberculous fibrosis of lung, bacteriological or histological examination not done"
+01142,"Tuberculous fibrosis of lung, bacteriological or histological examination unknown (at present)"
+01143,"Tuberculous fibrosis of lung, tubercle bacilli found (in sputum) by microscopy"
+01144,"Tuberculous fibrosis of lung, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+1144,Chronic pulmonary coccidioidomycosis
+01145,"Tuberculous fibrosis of lung, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+1145,"Pulmonary coccidioidomycosis, unspecified"
+01146,"Tuberculous fibrosis of lung, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+01150,"Tuberculous bronchiectasis, unspecified"
+01151,"Tuberculous bronchiectasis, bacteriological or histological examination not done"
+01152,"Tuberculous bronchiectasis, bacteriological or histological examination unknown (at present)"
+01153,"Tuberculous bronchiectasis, tubercle bacilli found (in sputum) by microscopy"
+01154,"Tuberculous bronchiectasis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+01155,"Tuberculous bronchiectasis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+01156,"Tuberculous bronchiectasis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+01160,"Tuberculous pneumonia [any form], unspecified"
+01161,"Tuberculous pneumonia [any form], bacteriological or histological examination not done"
+01162,"Tuberculous pneumonia [any form], bacteriological or histological examination unknown (at present)"
+01163,"Tuberculous pneumonia [any form], tubercle bacilli found (in sputum) by microscopy"
+01164,"Tuberculous pneumonia [any form], tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+01165,"Tuberculous pneumonia [any form], tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+01166,"Tuberculous pneumonia [any form], tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+01170,"Tuberculous pneumothorax, unspecified"
+01171,"Tuberculous pneumothorax, bacteriological or histological examination not done"
+01172,"Tuberculous pneumothorax, bacteriological or histological examination unknown (at present)"
+01173,"Tuberculous pneumothorax, tubercle bacilli found (in sputum) by microscopy"
+01174,"Tuberculous pneumothorax, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+01175,"Tuberculous pneumothorax, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+01176,"Tuberculous pneumothorax, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+01180,"Other specified pulmonary tuberculosis, unspecified"
+01181,"Other specified pulmonary tuberculosis, bacteriological or histological examination not done"
+01182,"Other specified pulmonary tuberculosis, bacteriological or histological examination unknown (at present)"
+01183,"Other specified pulmonary tuberculosis, tubercle bacilli found (in sputum) by microscopy"
+01184,"Other specified pulmonary tuberculosis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+01185,"Other specified pulmonary tuberculosis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+01186,"Other specified pulmonary tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+01190,"Pulmonary tuberculosis, unspecified, unspecified"
+01191,"Pulmonary tuberculosis, unspecified, bacteriological or histological examination not done"
+01192,"Pulmonary tuberculosis, unspecified, bacteriological or histological examination unknown (at present)"
+01193,"Pulmonary tuberculosis, unspecified, tubercle bacilli found (in sputum) by microscopy"
+01194,"Pulmonary tuberculosis, unspecified, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+01195,"Pulmonary tuberculosis, unspecified, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+01196,"Pulmonary tuberculosis, unspecified, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+01200,"Tuberculous pleurisy, unspecified"
+01201,"Tuberculous pleurisy, bacteriological or histological examination not done"
+01202,"Tuberculous pleurisy, bacteriological or histological examination unknown (at present)"
+01203,"Tuberculous pleurisy, tubercle bacilli found (in sputum) by microscopy"
+01204,"Tuberculous pleurisy, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+01205,"Tuberculous pleurisy, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+01206,"Tuberculous pleurisy, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+01210,"Tuberculosis of intrathoracic lymph nodes, unspecified"
+01211,"Tuberculosis of intrathoracic lymph nodes, bacteriological or histological examination not done"
+01212,"Tuberculosis of intrathoracic lymph nodes, bacteriological or histological examination unknown (at present)"
+01213,"Tuberculosis of intrathoracic lymph nodes, tubercle bacilli found (in sputum) by microscopy"
+01214,"Tuberculosis of intrathoracic lymph nodes, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+01215,"Tuberculosis of intrathoracic lymph nodes, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+01216,"Tuberculosis of intrathoracic lymph nodes, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+01220,"Isolated tracheal or bronchial tuberculosis, unspecified"
+01221,"Isolated tracheal or bronchial tuberculosis, bacteriological or histological examination not done"
+1221,Echinococcus granulosus infection of lung
+01222,"Isolated tracheal or bronchial tuberculosis, bacteriological or histological examination unknown (at present)"
+01223,"Isolated tracheal or bronchial tuberculosis, tubercle bacilli found (in sputum) by microscopy"
+01224,"Isolated tracheal or bronchial tuberculosis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+01225,"Isolated tracheal or bronchial tuberculosis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+01226,"Isolated tracheal or bronchial tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+01280,"Other specified respiratory tuberculosis, unspecified"
+01281,"Other specified respiratory tuberculosis, bacteriological or histological examination not done"
+01282,"Other specified respiratory tuberculosis, bacteriological or histological examination unknown (at present)"
+01283,"Other specified respiratory tuberculosis, tubercle bacilli found (in sputum) by microscopy"
+01284,"Other specified respiratory tuberculosis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture"
+01285,"Other specified respiratory tuberculosis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically"
+01286,"Other specified respiratory tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]"
+4160,Primary pulmonary hypertension
+4161,Kyphoscoliotic heart disease
+4162,Chronic pulmonary embolism
+4168,Other chronic pulmonary heart diseases
+4169,"Chronic pulmonary heart disease, unspecified"
+4170,Arteriovenous fistula of pulmonary vessels
+4171,Aneurysm of pulmonary artery
+4178,Other specified diseases of pulmonary circulation
+4179,Unspecified disease of pulmonary circulation
+4800,Pneumonia due to adenovirus
+4801,Pneumonia due to respiratory syncytial virus
+4802,Pneumonia due to parainfluenza virus
+4803,Pneumonia due to SARS-associated coronavirus
+4808,Pneumonia due to other virus not elsewhere classified
+4809,"Viral pneumonia, unspecified"
+4820,Pneumonia due to Klebsiella pneumoniae
+4821,Pneumonia due to Pseudomonas
+4822,Pneumonia due to Hemophilus influenzae [H. influenzae]
+4829,"Bacterial pneumonia, unspecified"
+4830,Pneumonia due to mycoplasma pneumoniae
+4831,Pneumonia due to chlamydia
+4838,Pneumonia due to other specified organism
+4841,Pneumonia in cytomegalic inclusion disease
+4843,Pneumonia in whooping cough
+4845,Pneumonia in anthrax
+4846,Pneumonia in aspergillosis
+4847,Pneumonia in other systemic mycoses
+4848,Pneumonia in other infectious diseases classified elsewhere
+4870,Influenza with pneumonia
+4910,Simple chronic bronchitis
+4911,Mucopurulent chronic bronchitis
+4918,Other chronic bronchitis
+4919,Unspecified chronic bronchitis
+4920,Emphysematous bleb
+4928,Other emphysema
+4940,Bronchiectasis without acute exacerbation
+4941,Bronchiectasis with acute exacerbation
+4950,Farmers' lung
+4951,Bagassosis
+4952,Bird-fanciers' lung
+4953,Suberosis
+4954,Malt workers' lung
+4955,Mushroom workers' lung
+4956,Maple bark-strippers' lung
+4957,"""Ventilation"" pneumonitis"
+4958,Other specified allergic alveolitis and pneumonitis
+4959,Unspecified allergic alveolitis and pneumonitis
+5060,Bronchitis and pneumonitis due to fumes and vapors
+5061,Acute pulmonary edema due to fumes and vapors
+5062,Upper respiratory inflammation due to fumes and vapors
+5063,Other acute and subacute respiratory conditions due to fumes and vapors
+5064,Chronic respiratory conditions due to fumes and vapors
+5069,Unspecified respiratory conditions due to fumes and vapors
+5070,Pneumonitis due to inhalation of food or vomitus
+5071,Pneumonitis due to inhalation of oils and essences
+5078,Pneumonitis due to other solids and liquids
+5080,Acute pulmonary manifestations due to radiation
+5081,Chronic and other pulmonary manifestations due to radiation
+5082,Respiratory conditions due to smoke inhalation
+5088,Respiratory conditions due to other specified external agents
+5089,Respiratory conditions due to unspecified external agent
+5100,Empyema with fistula
+5109,Empyema without mention of fistula
+5110,Pleurisy without mention of effusion or current tuberculosis
+5111,"Pleurisy with effusion, with mention of a bacterial cause other than tuberculosis"
+5119,Unspecified pleural effusion
+5120,Spontaneous tension pneumothorax
+5121,Iatrogenic pneumothorax
+5122,Postoperative air leak
+5130,Abscess of lung
+5131,Abscess of mediastinum
+5160,Pulmonary alveolar proteinosis
+5161,Idiopathic pulmonary hemosiderosis
+5162,Pulmonary alveolar microlithiasis
+5164,Lymphangioleiomyomatosis
+5165,Adult pulmonary Langerhans cell histiocytosis
+5168,Other specified alveolar and parietoalveolar pneumonopathies
+5169,Unspecified alveolar and parietoalveolar pneumonopathy
+5171,Rheumatic pneumonia
+5172,Lung involvement in systemic sclerosis
+5173,Acute chest syndrome
+5178,Lung involvement in other diseases classified elsewhere
+5180,Pulmonary collapse
+5181,Interstitial emphysema
+5182,Compensatory emphysema
+5183,Pulmonary eosinophilia
+5184,"Acute edema of lung, unspecified"
+5186,Allergic bronchopulmonary aspergillosis
+5187,Transfusion related acute lung injury (TRALI)
+5192,Mediastinitis
+5193,"Other diseases of mediastinum, not elsewhere classified"
+5194,Disorders of diaphragm
+5198,"Other diseases of respiratory system, not elsewhere classified"
+5199,Unspecified disease of respiratory system
+5735,Hepatopulmonary syndrome
+7312,Hypertrophic pulmonary osteoarthropathy
+7484,Congenital cystic lung
+7485,"Agenesis, hypoplasia, and dysplasia of lung"
+7488,Other specified anomalies of respiratory system
+7489,Unspecified anomaly of respiratory system
+7702,Interstitial emphysema and related conditions
+7703,Pulmonary hemorrhage
+7704,Primary atelectasis
+7705,Other and unspecified atelectasis
+7706,Transitory tachypnea of newborn
+7707,Chronic respiratory disease arising in the perinatal period
+7709,Unspecified respiratory condition of fetus and newborn
+7867,Abnormal chest sounds
+7869,Other symptoms involving respiratory system and chest
+8620,"Injury to diaphragm, without mention of open wound into cavity"
+8621,"Injury to diaphragm, with open wound into cavity"
+9348,Foreign body in other specified parts bronchus and lung
+9349,"Foreign body in respiratory tree, unspecified"
+9471,"Burn of larynx, trachea, and lung"
+27702,Cystic fibrosis with pulmonary manifestations
+32720,"Organic sleep apnea, unspecified"
+32721,Primary central sleep apnea
+32722,High altitude periodic breathing
+32723,Obstructive sleep apnea (adult)(pediatric)
+32724,Idiopathic sleep related non-obstructive alveolar hypoventilation
+32725,Congenital central alveolar hypoventilation syndrome
+32726,Sleep related hypoventilation/hypoxemia in conditions classifiable elsewhere
+32727,Central sleep apnea in conditions classified elsewhere
+32729,Other organic sleep apnea
+41511,Iatrogenic pulmonary embolism and infarction
+41512,Septic pulmonary embolism
+41513,Saddle embolus of pulmonary artery
+41519,Other pulmonary embolism and infarction
+48230,"Pneumonia due to Streptococcus, unspecified"
+48231,"Pneumonia due to Streptococcus, group A"
+48232,"Pneumonia due to Streptococcus, group B"
+48239,Pneumonia due to other Streptococcus
+48240,"Pneumonia due to Staphylococcus, unspecified"
+48241,Methicillin susceptible pneumonia due to Staphylococcus aureus
+48242,Methicillin resistant pneumonia due to Staphylococcus aureus
+48249,Other Staphylococcus pneumonia
+48281,Pneumonia due to anaerobes
+48282,Pneumonia due to escherichia coli [E. coli]
+48283,Pneumonia due to other gram-negative bacteria
+48284,Pneumonia due to Legionnaires' disease
+48289,Pneumonia due to other specified bacteria
+49120,Obstructive chronic bronchitis without exacerbation
+49121,Obstructive chronic bronchitis with (acute) exacerbation
+49122,Obstructive chronic bronchitis with acute bronchitis
+49300,"Extrinsic asthma, unspecified"
+49301,Extrinsic asthma with status asthmaticus
+49302,Extrinsic asthma with (acute) exacerbation
+49302,Extrinsic asthma with (acute) exacerbation
+49302,Extrinsic asthma with (acute) exacerbation
+49310,"Intrinsic asthma, unspecified"
+49310,"Intrinsic asthma, unspecified"
+49310,"Intrinsic asthma, unspecified"
+49311,Intrinsic asthma with status asthmaticus
+49311,Intrinsic asthma with status asthmaticus
+49311,Intrinsic asthma with status asthmaticus
+49312,Intrinsic asthma with (acute) exacerbation
+49312,Intrinsic asthma with (acute) exacerbation
+49312,Intrinsic asthma with (acute) exacerbation
+49320,"Chronic obstructive asthma, unspecified"
+49320,"Chronic obstructive asthma, unspecified"
+49320,"Chronic obstructive asthma, unspecified"
+49321,Chronic obstructive asthma with status asthmaticus
+49321,Chronic obstructive asthma with status asthmaticus
+49321,Chronic obstructive asthma with status asthmaticus
+49322,Chronic obstructive asthma with (acute) exacerbation
+49322,Chronic obstructive asthma with (acute) exacerbation
+49322,Chronic obstructive asthma with (acute) exacerbation
+49381,Exercise induced bronchospasm
+49381,Exercise induced bronchospasm
+49381,Exercise induced bronchospasm
+49382,Cough variant asthma
+49382,Cough variant asthma
+49382,Cough variant asthma
+49390,"Asthma, unspecified type, unspecified"
+49390,"Asthma, unspecified type, unspecified"
+49390,"Asthma, unspecified type, unspecified"
+49391,"Asthma, unspecified type, with status asthmaticus"
+49391,"Asthma, unspecified type, with status asthmaticus"
+49391,"Asthma, unspecified type, with status asthmaticus"
+49392,"Asthma, unspecified type, with (acute) exacerbation"
+49392,"Asthma, unspecified type, with (acute) exacerbation"
+49392,"Asthma, unspecified type, with (acute) exacerbation"
+51181,Malignant pleural effusion
+51181,Malignant pleural effusion
+51189,"Other specified forms of effusion, except tuberculous"
+51189,"Other specified forms of effusion, except tuberculous"
+51281,Primary spontaneous pneumothorax
+51281,Primary spontaneous pneumothorax
+51282,Secondary spontaneous pneumothorax
+51282,Secondary spontaneous pneumothorax
+51283,Chronic pneumothorax
+51283,Chronic pneumothorax
+51284,Other air leak
+51284,Other air leak
+51289,Other pneumothorax
+51289,Other pneumothorax
+51630,"Idiopathic interstitial pneumonia, not otherwise specified"
+51630,"Idiopathic interstitial pneumonia, not otherwise specified"
+51631,Idiopathic pulmonary fibrosis
+51631,Idiopathic pulmonary fibrosis
+51632,Idiopathic non-specific interstitial pneumonitis
+51632,Idiopathic non-specific interstitial pneumonitis
+51633,Acute interstitial pneumonitis
+51633,Acute interstitial pneumonitis
+51634,Respiratory bronchiolitis interstitial lung disease
+51634,Respiratory bronchiolitis interstitial lung disease
+51635,Idiopathic lymphoid interstitial pneumonia
+51635,Idiopathic lymphoid interstitial pneumonia
+51636,Cryptogenic organizing pneumonia
+51636,Cryptogenic organizing pneumonia
+51637,Desquamative interstitial pneumonia
+51637,Desquamative interstitial pneumonia
+51661,Neuroendocrine cell hyperplasia of infancy
+51661,Neuroendocrine cell hyperplasia of infancy
+51662,Pulmonary interstitial glycogenosis
+51662,Pulmonary interstitial glycogenosis
+51663,Surfactant mutations of the lung
+51663,Surfactant mutations of the lung
+51664,Alveolar capillary dysplasia with vein misalignment
+51664,Alveolar capillary dysplasia with vein misalignment
+51669,Other interstitial lung diseases of childhood
+51669,Other interstitial lung diseases of childhood
+51851,Acute respiratory failure following trauma and surgery
+51851,Acute respiratory failure following trauma and surgery
+51852,"Other pulmonary insufficiency, not elsewhere classified, following trauma and surgery"
+51852,"Other pulmonary insufficiency, not elsewhere classified, following trauma and surgery"
+51853,Acute and chronic respiratory failure following trauma and surgery
+51853,Acute and chronic respiratory failure following trauma and surgery
+51881,Acute respiratory failure
+51881,Acute respiratory failure
+51882,"Other pulmonary insufficiency, not elsewhere classified"
+51882,"Other pulmonary insufficiency, not elsewhere classified"
+51883,Chronic respiratory failure
+51883,Chronic respiratory failure
+51884,Acute and chronic respiratory failure
+51884,Acute and chronic respiratory failure
+51889,"Other diseases of lung, not elsewhere classified"
+51889,"Other diseases of lung, not elsewhere classified"
+51900,"Tracheostomy complication, unspecified"
+51900,"Tracheostomy complication, unspecified"
+51901,Infection of tracheostomy
+51901,Infection of tracheostomy
+51902,Mechanical complication of tracheostomy
+51902,Mechanical complication of tracheostomy
+51909,Other tracheostomy complications
+51909,Other tracheostomy complications
+51911,Acute bronchospasm
+51911,Acute bronchospasm
+51919,Other diseases of trachea and bronchus
+51919,Other diseases of trachea and bronchus
+66800,"Pulmonary complications of anesthesia or other sedation in labor and delivery, unspecified as to episode of care or not applicable"
+66801,"Pulmonary complications of anesthesia or other sedation in labor and delivery, delivered, with or without mention of antepartum condition"
+66802,"Pulmonary complications of anesthesia or other sedation in labor and delivery, delivered, with mention of postpartum complication"
+66803,"Pulmonary complications of anesthesia or other sedation in labor and delivery, antepartum condition or complication"
+66804,"Pulmonary complications of anesthesia or other sedation in labor and delivery, postpartum condition or complication"
+67321,"Obstetrical blood-clot embolism, delivered, with or without mention of antepartum condition"
+67322,"Obstetrical blood-clot embolism, delivered, with mention of postpartum complication"
+67323,"Obstetrical blood-clot embolism, antepartum condition or complication"
+67324,"Obstetrical blood-clot embolism, postpartum condition or complication"
+67380,"Other obstetrical pulmonary embolism, unspecified as to episode of care or not applicable"
+67381,"Other obstetrical pulmonary embolism, delivered, with or without mention of antepartum condition"
+67382,"Other obstetrical pulmonary embolism, delivered, with mention of postpartum complication"
+67383,"Other obstetrical pulmonary embolism, antepartum condition or complication"
+67384,"Other obstetrical pulmonary embolism, postpartum condition or complication"
+71481,Rheumatoid lung
+74860,"Anomaly of lung, unspecified"
+74861,Congenital bronchiectasis
+74869,Other congenital anomalies of lung
+77081,Primary apnea of newborn
+77081,Primary apnea of newborn
+77082,Other apnea of newborn
+77082,Other apnea of newborn
+77083,Cyanotic attacks of newborn
+77083,Cyanotic attacks of newborn
+77084,Respiratory failure of newborn
+77084,Respiratory failure of newborn
+77085,Aspiration of postnatal stomach contents without respiratory symptoms
+77085,Aspiration of postnatal stomach contents without respiratory symptoms
+77086,Aspiration of postnatal stomach contents with respiratory symptoms
+77086,Aspiration of postnatal stomach contents with respiratory symptoms
+77087,Respiratory arrest of newborn
+77087,Respiratory arrest of newborn
+77088,Hypoxemia of newborn
+77088,Hypoxemia of newborn
+77089,Other respiratory problems after birth
+77089,Other respiratory problems after birth
+78051,"Insomnia with sleep apnea, unspecified"
+78053,"Hypersomnia with sleep apnea, unspecified"
+78057,Unspecified sleep apnea
+78603,Apnea
+78631,Acute idiopathic pulmonary hemorrhage in infants [AIPHI]
+78652,Painful respiration
+79311,Solitary pulmonary nodule
+79319,Other nonspecific abnormal finding of lung field
+86120,Unspecified injury of lung without mention of open wound into thorax
+86121,Contusion of lung without mention of open wound into thorax
+86122,Laceration of lung without mention of open wound into thorax
+86130,Unspecified injury of lung with open wound into thorax
+86131,Contusion of lung with open wound into thorax
+86132,Laceration of lung with open wound into thorax
+90140,"Injury to pulmonary vessel(s), unspecified"
+90141,Injury to pulmonary artery
+90142,Injury to pulmonary vein
+90181,Injury to intercostal artery or vein
+99684,Complications of transplanted lung
